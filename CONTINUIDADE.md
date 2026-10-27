@@ -307,7 +307,7 @@ Feitos por agentes de pesquisa na web, com fonte por item. O `build.py` só conv
 ---
 
 ## 10. Ideias de próximos passos (ainda não pedidas)
-- **Publicação:** repositório https://github.com/brunogomesacotel-png/panorama-brasil (público), site https://brunogomesacotel-png.github.io/panorama-brasil/ via GitHub Pages (workflow `.github/workflows/pages.yml`). A cópia de trabalho com Git fica em `C:\Projetos\panorama-brasil`; a pasta antiga no OneDrive é só cópia. Para atualizar: build, teste, commit e push (`PUBLICACAO.md` §7).
+- **Publicação:** repositório https://github.com/brunogomesps/panorama-brasil (público), site https://brunogomesps.github.io/panorama-brasil/ via GitHub Pages (workflow `.github/workflows/pages.yml`). A cópia de trabalho com Git fica em `C:\Projetos\panorama-brasil`; a pasta antiga no OneDrive é só cópia. Para atualizar: build, teste, commit e push (`PUBLICACAO.md` §7).
 - Comércio exterior pelo Comex Stat, quando a API voltar (exportações e importações por UF).
 - Voto para governador por município (os dados do TSE já são baixados por UF; falta agregar por município no `fetch_tse.py`).
 - Senado e Câmara: composição e hemiciclos, no estilo da Cubo Três.

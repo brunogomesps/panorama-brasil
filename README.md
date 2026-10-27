@@ -4,8 +4,8 @@ Painel web local com indicadores socioeconômicos dos 27 estados e das 5 regiõe
 
 Cada indicador diz **se subir é bom ou ruim** (polaridade): selo "↑ Maior é melhor", "↓ Menor é melhor" ou "Neutro" com a justificativa na dica, variações escritas como "melhorou/piorou", mapas com verde-azulado (melhor) e laranja (pior), rankings com 1º = melhor.
 
-**Ver online:** https://brunogomesacotel-png.github.io/panorama-brasil/  
-**Código:** https://github.com/brunogomesacotel-png/panorama-brasil
+**Ver online:** https://brunogomesps.github.io/panorama-brasil/  
+**Código:** https://github.com/brunogomesps/panorama-brasil
 
 > **Aviso.** Projeto pessoal e independente, sem vínculo com partido, governo, instituto de pesquisa ou com a Cubo Três (usada só como referência visual). Os números vêm de fontes oficiais e cada conteúdo pesquisado traz a sua fonte. Encontrou um erro ou uma fonte melhor? Abra uma *issue* com o link.
 
