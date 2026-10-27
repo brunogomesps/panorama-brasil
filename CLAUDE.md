@@ -1,6 +1,7 @@
 # Regras para o agente: Panorama Brasil
 
 **Antes de qualquer tarefa,** leia `CONTINUIDADE.md`: estado, pedidos do usuário, decisões e armadilhas. Os detalhes técnicos estão em `DOCUMENTACAO.md`.
+Os padrões, as técnicas e as skills usadas (`dataviz` e `dashboards-web`) estão em `PADROES.md`: siga-os em qualquer mudança.
 
 ## Comunicação
 - Responda e escreva sempre em português do Brasil.
@@ -24,6 +25,7 @@
 - **Polaridade sempre visível:** selo, dica, "melhorou/piorou", ranking com 1º = melhor.
 - **Cores:** melhor/pior em verde-azulado/laranja. Vermelho e azul são reservados aos partidos. Paletas novas passam pelo validador da skill `dataviz` (claro e escuro).
 - **Layout:** largura total da tela (`--largura-max`); testar também em 1920 px.
+- **Gráfico ou cor nova:** use a skill `dataviz` (embutida no Claude Code) e rode o validador de paleta nos temas claro e escuro.
 - **Gráficos:** sem eixo duplo. ApexCharts sempre via `PB.G`, que destrói os gráficos e cancela o temporizador de resize ao trocar de aba. Linhas anuais usam eixo de categorias. Para séries de datas com tamanhos diferentes, use só marcadores.
 - **Atributos:** `aria-*` sempre como "true"/"false" (o `C.el` já trata); variáveis CSS (`--cor`) via `setProperty` (o `C.el` já trata).
 
@@ -31,5 +33,6 @@
 1. Rode `python scripts/build.py` se mexeu em dados ou no `build.py`.
 2. Rode `python tests/e2e_navegador.py`. Precisa terminar com `FALHAS: 0`. Tela nova = rota nova em `ROTAS`.
 3. Olhe as capturas em `tests/capturas/` (claro, escuro, celular e largo).
-4. Atualize `CONTINUIDADE.md` e, se for o caso, `DOCUMENTACAO.md` e `README.md`.
+4. Atualize `CONTINUIDADE.md` e, se for o caso, `DOCUMENTACAO.md`, `README.md` e `PADROES.md`.
 5. Textos longos ou com aspas: use a ferramenta Write em arquivo temporário. O heredoc do bash quebra com aspas, crases ou `\n`.
+6. Versionamento: `git pull` antes de começar; ao terminar, commit em português e `git push` (republica o site). Veja `PUBLICACAO.md`.

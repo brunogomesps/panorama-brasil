@@ -145,3 +145,34 @@ O site se republica sozinho em 1 a 2 minutos. Se a página não mudar, recarregu
 - **Privacidade:** o painel não coleta nada de quem acessa: sem cookies, sem analytics, sem formulário. O `localStorage` guarda só o tema claro ou escuro.
 - **Material de terceiros:** a análise da Cubo Três e as capturas dela ficam fora do repositório e não devem ser publicadas.
 - **Segredos:** o projeto não usa senha, token nem chave de API. Se algum dia usar, nunca faça commit deles; use *Settings → Secrets* do GitHub.
+
+---
+
+## 10. Trabalhar de outro computador
+
+O GitHub guarda o projeto inteiro: código, dados processados, dados pesquisados e os documentos que o Claude Code lê (`CLAUDE.md`, `CONTINUIDADE.md`, `DOCUMENTACAO.md`). Qualquer computador com acesso ao GitHub pode gerar novas versões.
+
+**Uma vez em cada computador novo**
+1. Instale o Git (https://git-scm.com), o VS Code e a extensão do Claude Code. Para atualizar dados e testar, instale também o Python 3.10+ e o Node.js (opcional). Para o teste de navegador: `pip install playwright` e o Google Chrome.
+2. No terminal do VS Code:
+   ```
+   git clone https://github.com/brunogomesps/panorama-brasil.git
+   cd panorama-brasil
+   git config user.name  "Bruno Gomes"
+   git config user.email "331668349+brunogomesps@users.noreply.github.com"
+   ```
+   No primeiro `git push`, o navegador abre para você entrar no GitHub.
+3. Abra a pasta no VS Code e peça ao Claude Code: *"Leia CONTINUIDADE.md, CLAUDE.md e DOCUMENTACAO.md antes de qualquer coisa."*
+
+**Toda vez que for trabalhar (em qualquer computador)**
+1. Ao começar: `git pull`, para trazer o que foi feito no outro computador.
+2. Edite, rode `python scripts/build.py` se mexeu em dados e `python tests/e2e_navegador.py`.
+3. Ao terminar: `git add .`, `git commit -m "o que mudou"` e `git push`. O site se republica sozinho.
+
+Se esquecer o `pull` e os dois computadores mudarem o mesmo arquivo, o Git avisa do conflito no `push`; peça ao Claude Code para resolver.
+
+**Sem instalar nada**
+- **Claude Code na web** (https://claude.ai/code): conecta ao repositório do GitHub e trabalha numa máquina na nuvem, pelo navegador. Bom para mudanças de texto, dados e código. O teste com Chrome pode não rodar lá.
+- **Editor do GitHub no navegador:** na página do repositório, aperte a tecla `.` para abrir um VS Code no navegador. Bom para ajustes pequenos (um texto, um número), sem Claude Code.
+
+**O que não vai pelo GitHub:** a memória local do Claude Code (`~/.claude`), o cache de coleta e as capturas de teste. As regras e o histórico do projeto estão no `CLAUDE.md` e no `CONTINUIDADE.md`, então uma sessão nova em outro PC parte do mesmo ponto.

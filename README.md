@@ -91,6 +91,7 @@ Nenhum padrão favorece partido, região ou estado:
 | [CONTINUIDADE.md](CONTINUIDADE.md) | Ponto de partida numa sessão nova: histórico de pedidos, decisões, armadilhas, pendências |
 | [DOCUMENTACAO.md](DOCUMENTACAO.md) | Arquitetura, fontes, métodos, polaridade, neutralidade, limitações |
 | [CLAUDE.md](CLAUDE.md) | Regras para o agente (Claude Code) |
+| [PADROES.md](PADROES.md) | Padrões, técnicas e skills do Claude Code usadas, para manter o mesmo nível nas atualizações |
 | [PUBLICACAO.md](PUBLICACAO.md) | Como publicar no GitHub e hospedar de graça |
 
 ## Licença
