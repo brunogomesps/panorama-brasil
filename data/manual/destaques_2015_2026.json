@@ -1,0 +1,423 @@
+{
+ "gerado_em": "2026-10-27",
+ "mandatos": {
+  "dilma2": {
+   "positivos": [
+    {
+     "titulo": "Lei Brasileira de Inclusão da Pessoa com Deficiência",
+     "texto": "Sancionada em 06/07/2015, a Lei 13.146/2015 (Estatuto da Pessoa com Deficiência) consolidou direitos de acessibilidade, educação inclusiva, trabalho e capacidade civil; entrou em vigor em janeiro de 2016.",
+     "tema": "Social",
+     "quando": "2015",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm",
+     "fonte_nome": "Planalto – Lei 13.146 (06/07/2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Feminicídio passa a ser crime hediondo",
+     "texto": "A Lei 13.104, de 09/03/2015, incluiu o feminicídio como circunstância qualificadora do homicídio no Código Penal e o inseriu no rol de crimes hediondos.",
+     "tema": "Segurança",
+     "quando": "2015",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13104.htm",
+     "fonte_nome": "Planalto – Lei 13.104 (09/03/2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Marco Legal da Ciência, Tecnologia e Inovação",
+     "texto": "A Lei 13.243, de 11/01/2016, alterou regras de parceria entre universidades, institutos de pesquisa e empresas, de importação de insumos para pesquisa e de dedicação de pesquisadores públicos a projetos de inovação.",
+     "tema": "Educação",
+     "quando": "2016",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13243.htm",
+     "fonte_nome": "Planalto – Lei 13.243 (11/01/2016)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Meta climática para o Acordo de Paris",
+     "texto": "Em 27/09/2015, na ONU, o Brasil apresentou sua contribuição ao Acordo de Paris: reduzir emissões de gases de efeito estufa em 37% até 2025 e, de forma indicativa, 43% até 2030, ante 2005. O acordo foi assinado em abril de 2016.",
+     "tema": "Meio ambiente",
+     "quando": "2015–2016",
+     "fonte": "https://www.gov.br/mma/pt-br/noticias/noticia-acom-2015-09-1163",
+     "fonte_nome": "Ministério do Meio Ambiente (27/09/2015); Agência Brasil (27/09/2015)",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Recessão e inflação acima do teto da meta",
+     "texto": "O PIB caiu 3,8% em 2015 (dado de mar/2016, depois revisado para -3,5%), maior queda desde 1990. O IPCA fechou 2015 em 10,67%, acima do teto de 6,5%, e o BC enviou carta aberta ao ministro da Fazenda.",
+     "tema": "Economia",
+     "quando": "2015",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/9610-em-2015-pib-cai-3-8-e-totaliza-r-5-9-trilhoes",
+     "fonte_nome": "IBGE (03/03/2016); Agência Brasil (08/01/2016)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Desemprego sobe para 11,2%",
+     "texto": "A taxa de desocupação da PNAD Contínua passou de 6,5% no 4º trimestre de 2014 para 11,2% no trimestre fev–abr/2016, com 11,4 milhões de desocupados, a maior taxa da série iniciada em 2012 até então.",
+     "tema": "Economia",
+     "quando": "2015–2016",
+     "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2016-05/desemprego-em-abril-chega-112-maior-indice-desde-janeiro-de-2012",
+     "fonte_nome": "Agência Brasil / IBGE (mai/2016)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "TCU recomenda rejeição das contas e impeachment avança",
+     "texto": "Em 07/10/2015 o TCU recomendou, por unanimidade, rejeitar as contas de 2014 por atrasos de repasses a bancos públicos e decretos sem aval do Congresso. O Senado afastou a presidente em 12/05/2016 e aprovou o impeachment em 31/08/2016.",
+     "tema": "Instituições",
+     "quando": "2015–2016",
+     "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2015-10/tcu-recomenda-rejeicao-das-contas-de-2014-do-governo-dilma",
+     "fonte_nome": "Agência Brasil (07/10/2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Emergência sanitária por microcefalia ligada ao zika",
+     "texto": "O Ministério da Saúde declarou Emergência em Saúde Pública de Importância Nacional (Portaria 1.813, de 11/11/2015) pelo aumento de casos de microcefalia associada ao vírus zika; a OMS declarou emergência internacional em 01/02/2016.",
+     "tema": "Saúde",
+     "quando": "2015–2016",
+     "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2015/prt1813_11_11_2015.html",
+     "fonte_nome": "Ministério da Saúde – Portaria 1.813 (11/11/2015)",
+     "confianca": "alta"
+    }
+   ]
+  },
+  "temer": {
+   "positivos": [
+    {
+     "titulo": "Inflação e juros básicos em queda",
+     "texto": "O IPCA caiu de 10,67% (2015) para 6,29% (2016), 2,95% (2017) e 3,75% (2018). A Selic recuou de 14,25% para 6,5% ao ano em 21/03/2018, então o menor nível da série do BC iniciada em 1986.",
+     "tema": "Economia",
+     "quando": "2016–2018",
+     "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-03/banco-central-reduz-juros-basicos-da-economia-para-65-ao-ano",
+     "fonte_nome": "Agência Brasil (21/03/2018); IBGE (10/01/2018)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Reforma do ensino médio e BNCC",
+     "texto": "A Lei 13.415, de 16/02/2017, reformou o ensino médio (itinerários formativos e ampliação da carga horária). A Base Nacional Comum Curricular da educação infantil e do fundamental foi homologada em dez/2017 e a do ensino médio em dez/2018.",
+     "tema": "Educação",
+     "quando": "2017–2018",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13415.htm",
+     "fonte_nome": "Planalto – Lei 13.415 (16/02/2017)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Lei das Estatais",
+     "texto": "A Lei 13.303, de 30/06/2016, fixou regras de governança, transparência, compras e requisitos para indicação de dirigentes de empresas públicas e sociedades de economia mista da União, estados e municípios.",
+     "tema": "Instituições",
+     "quando": "2016",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+     "fonte_nome": "Planalto – Lei 13.303 (30/06/2016)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Lei Geral de Proteção de Dados (LGPD)",
+     "texto": "A Lei 13.709, de 14/08/2018, criou regras para coleta e tratamento de dados pessoais por empresas e pelo poder público, com direitos do titular e sanções; entrou em vigor em 2020.",
+     "tema": "Instituições",
+     "quando": "2018",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+     "fonte_nome": "Planalto – Lei 13.709 (14/08/2018)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Teto de Gastos promulgado",
+     "texto": "A Emenda Constitucional 95 foi promulgada em 15/12/2016. Por 20 anos a partir de 2017, a despesa primária federal só pode crescer pela inflação (IPCA), com revisão do critério possível a partir do 10º ano.",
+     "tema": "Economia",
+     "quando": "2016",
+     "fonte": "https://www12.senado.leg.br/noticias/materias/2016/12/15/promulgada-emenda-constitucional-do-teto-de-gastos",
+     "fonte_nome": "Agência Senado (15/12/2016)",
+     "confianca": "alta",
+     "observacao": "Governistas diziam que o teto equilibraria as contas e permitiria reduzir os juros; a oposição afirmava que ele cortaria recursos de saúde e educação e impediria investimentos. Depois, a EC 113/2021 mudou o cálculo da correção (cerca de R$ 65 bi a mais em 2022), a EC 126/2022 ampliou em R$ 145 bi o limite de 2023 e a LC 200/2023 (arcabouço fiscal, publicada em 31/08/2023) substituiu o teto.",
+     "observacao_fontes": [
+      {
+       "url": "https://www12.senado.leg.br/noticias/materias/2016/12/13/pec-que-restringe-gastos-publicos-e-aprovada-e-vai-a-promulgacao",
+       "nome": "Agência Senado (13/12/2016) – argumentos de governistas e oposição"
+      },
+      {
+       "url": "https://www12.senado.leg.br/noticias/materias/2021/12/08/promulgada-emenda-que-muda-correcao-do-teto-de-gastos-precatorios-vao-a-camara",
+       "nome": "Agência Senado (08/12/2021) – EC 113"
+      },
+      {
+       "url": "https://www.camara.leg.br/noticias/931149-pec-da-transicao-e-promulgada-pelo-congresso/",
+       "nome": "Agência Câmara (21/12/2022) – EC 126"
+      },
+      {
+       "url": "https://www12.senado.leg.br/noticias/noticias/materias/2023/08/31/novo-arcabouco-fiscal-entra-em-vigencia-no-brasil",
+       "nome": "Agência Senado (31/08/2023) – LC 200/2023"
+      }
+     ]
+    },
+    {
+     "titulo": "Reforma trabalhista sancionada",
+     "texto": "A Lei 13.467 foi sancionada sem vetos em 13/07/2017 e entrou em vigor em 11/11/2017. Fez acordos coletivos prevalecerem sobre a lei em pontos como jornada e banco de horas, criou o trabalho intermitente e acabou com a contribuição sindical obrigatória.",
+     "tema": "Economia",
+     "quando": "2017",
+     "fonte": "https://www.camara.leg.br/noticias/518847-SEM-VETOS,-REFORMA-TRABALHISTA-E-SANCIONADA-POR-TEMER",
+     "fonte_nome": "Agência Câmara (13/07/2017)",
+     "confianca": "alta",
+     "observacao": "O governo dizia que a reforma geraria empregos e adaptaria a CLT; senadores de oposição falavam em perda de direitos, e a CUT, em 2018, em precarização. Segundo o TST, as varas receberam 1.287.208 ações em jan–set/2018, ante 2.013.241 no mesmo período de 2017. O STF validou o fim da contribuição sindical obrigatória (ADI 5794, 29/06/2018) e derrubou a cobrança de honorários de quem tem justiça gratuita (ADI 5766, 20/10/2021).",
+     "observacao_fontes": [
+      {
+       "url": "https://agenciabrasil.ebc.com.br/geral/noticia/2017-11/reforma-trabalhista-entra-em-vigor-neste-sabado-com-novas-formas-de-contrata%C3%A7%C3%A3o",
+       "nome": "Agência Brasil (10/11/2017) – vigência em 11/11/2017 e trabalho intermitente"
+      },
+      {
+       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2017-07/temer-diz-que-reforma-trabalhista-trara-empregos-e-deixara-pais-mais",
+       "nome": "Agência Brasil (11/07/2017) – expectativa do governo"
+      },
+      {
+       "url": "https://www12.senado.leg.br/noticias/materias/2017/07/11/aprovada-a-reforma-trabalhista",
+       "nome": "Agência Senado (11/07/2017) – críticas da oposição"
+      },
+      {
+       "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-11/reforma-trabalhista-completa-um-ano-veja-efeitos",
+       "nome": "Agência Brasil (11/11/2018) – avaliação da CUT e dados do TST"
+      },
+      {
+       "url": "https://www.tst.jus.br/en/-/primeiro-ano-da-reforma-trabalhista-efeitos",
+       "nome": "TST (05/11/2018) – ações recebidas nas varas"
+      },
+      {
+       "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=382819",
+       "nome": "STF (29/06/2018) – ADI 5794"
+      },
+      {
+       "url": "https://noticias.stf.jus.br/postsnoticias/stf-derruba-normas-da-reforma-trabalhista-que-restringiam-acesso-gratuito-a-justica-do-trabalho/",
+       "nome": "STF (20/10/2021) – ADI 5766"
+      }
+     ]
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Desemprego chega a 13,7%",
+     "texto": "A desocupação da PNAD Contínua atingiu 13,7% no 1º trimestre de 2017, com 14,2 milhões de pessoas, o maior contingente de desocupados da série. A taxa recuou depois, mas fechou o 4º trimestre de 2018 em 11,6%.",
+     "tema": "Economia",
+     "quando": "2017–2018",
+     "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2017-04/ibge-total-de-desempregados-cresce-e-atinge-142-milhoes",
+     "fonte_nome": "Agência Brasil / IBGE (abr/2017)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Duas denúncias da PGR contra o presidente",
+     "texto": "A PGR denunciou Temer ao STF por corrupção passiva (jun/2017) e por organização criminosa e obstrução de justiça (set/2017). A Câmara negou autorização para o processo em 02/08/2017 (263 a 227) e em 25/10/2017 (251 a 233).",
+     "tema": "Instituições",
+     "quando": "2017",
+     "fonte": "https://www.camara.leg.br/noticias/526078-CAMARA-NAO-AUTORIZA-PROCESSO-POR-ORGANIZACAO-CRIMINOSA-CONTRA-TEMER-E-DOIS-MINISTROS",
+     "fonte_nome": "Agência Câmara (25/10/2017); Agência Brasil (02/08/2017)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Greve dos caminhoneiros derruba produção",
+     "texto": "A paralisação dos caminhoneiros em maio de 2018 levou a produção industrial a cair 10,9% frente a abril, a maior queda mensal desde dez/2008; 24 de 26 atividades recuaram, segundo o IBGE.",
+     "tema": "Infraestrutura",
+     "quando": "2018",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/21621-em-maio-producao-industrial-recua-10-9",
+     "fonte_nome": "IBGE (jul/2018)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Recorde de homicídios em 2017",
+     "texto": "Segundo o Atlas da Violência 2019 (Ipea/FBSP, com dados do SIM/Ministério da Saúde), o Brasil teve 65.602 homicídios em 2017, taxa de 31,6 por 100 mil habitantes, o maior nível da série.",
+     "tema": "Segurança",
+     "quando": "2017",
+     "fonte": "http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sim/cnv/obt10uf.def",
+     "fonte_nome": "Ministério da Saúde, SIM/DataSUS (CID-10 X85–Y09 e Y35–Y36), mesmo dado do Atlas da Violência 2019",
+     "confianca": "alta"
+    }
+   ]
+  },
+  "bolsonaro": {
+   "positivos": [
+    {
+     "titulo": "Reforma da Previdência promulgada",
+     "texto": "A Emenda Constitucional 103 foi promulgada em 12/11/2019, com idade mínima de 65 anos (homens) e 62 (mulheres) e novas regras de cálculo; a economia estimada após as mudanças no Congresso foi de cerca de R$ 800 bilhões em 10 anos.",
+     "tema": "Economia",
+     "quando": "2019",
+     "fonte": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia",
+     "fonte_nome": "Agência Senado (12/11/2019)",
+     "confianca": "alta",
+     "observacao": "O governo apresentou a reforma para reduzir o déficit e estimava, na proposta original, economia de R$ 1,2 trilhão em 10 anos; senadores de oposição diziam que ela deixaria idosos mais pobres e dificultaria a aposentadoria das mulheres. Em 03/06/2026, o STF (ADI 6309, 6 a 5) derrubou a idade mínima da aposentadoria especial por exposição a agentes nocivos e manteve o novo cálculo e a proibição de converter tempo especial em comum.",
+     "observacao_fontes": [
+      {
+       "url": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia",
+       "nome": "Agência Senado (12/11/2019) – objetivo de reduzir o déficit"
+      },
+      {
+       "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2019-11/reforma-da-previdencia-e-promulgada-pelo-congresso",
+       "nome": "Agência Brasil (12/11/2019) – R$ 1,2 trilhão previsto, R$ 800 bi aprovado"
+      },
+      {
+       "url": "https://www12.senado.leg.br/noticias/materias/2019/10/23/senado-aprova-ultimo-destaque-ao-texto-da-reforma-da-previdencia",
+       "nome": "Agência Senado (23/10/2019) – críticas da oposição"
+      },
+      {
+       "url": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-idade-minima-para-aposentadoria-especial-em-atividades-insalubres/",
+       "nome": "STF (03/06/2026) – ADI 6309"
+      },
+      {
+       "url": "https://exame.com/brasil/stf-derruba-regra-da-reforma-da-previdencia-veja-o-que-mudou/",
+       "nome": "Exame (03/06/2026) – placar e pontos mantidos"
+      }
+     ]
+    },
+    {
+     "titulo": "Novo Marco Legal do Saneamento",
+     "texto": "A Lei 14.026, sancionada em 15/07/2020, fixou como meta atender 99% da população com água potável e 90% com coleta e tratamento de esgoto até 31/12/2033 e abriu o setor à concorrência por licitação.",
+     "tema": "Infraestrutura",
+     "quando": "2020",
+     "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2020-07/governo-sanciona-novo-marco-legal-do-saneamento",
+     "fonte_nome": "Agência Brasil (15/07/2020); Planalto – Lei 14.026",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Auxílio Emergencial reduz extrema pobreza em 2020",
+     "texto": "Com o Auxílio Emergencial, a extrema pobreza (linha do Banco Mundial) caiu de 6,8% em 2019 para 5,7% em 2020, segundo o IBGE; sem os programas sociais, a taxa teria sido de 12,9%.",
+     "tema": "Social",
+     "quando": "2020",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/32420-mesmo-com-beneficios-emergenciais-1-em-cada-4-brasileiros-vivia-em-situacao-de-pobreza-em-2020",
+     "fonte_nome": "IBGE – Síntese de Indicadores Sociais (dez/2021)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Homicídios caem 22% em 2019",
+     "texto": "O Atlas da Violência 2021 (Ipea/FBSP) registrou 45.503 homicídios em 2019, taxa de 21,7 por 100 mil, queda de 22,1% ante 2018. O Ipea ressalvou a piora na qualidade dos registros de mortes por causa indeterminada.",
+     "tema": "Segurança",
+     "quando": "2019",
+     "fonte": "https://forumseguranca.org.br/wp-content/uploads/2021/08/atlas-violencia-2021-infografico-v4.pdf",
+     "fonte_nome": "FBSP/Ipea – Atlas da Violência 2021, infográfico (ago/2021); confere com o SIM/DataSUS",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Óbitos por covid-19 e relatório da CPI da Pandemia",
+     "texto": "O Ministério da Saúde registrava 693,9 mil óbitos por covid-19 em 02/01/2023. Em 26/10/2021 a CPI do Senado aprovou (7 a 4) relatório que pediu o indiciamento de 78 pessoas, entre elas o presidente, e de 2 empresas.",
+     "tema": "Saúde",
+     "quando": "2020–2022",
+     "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2021-10/cpi-da-covid-aprova-relatorio-e-pede-indiciamento-de-80-pessoas",
+     "fonte_nome": "Agência Brasil (26/10/2021 e 02/01/2023); Agência Senado (26/10/2021)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Condenação no STF por tentativa de golpe de Estado",
+     "texto": "Em 11/09/2025 a 1ª Turma do STF condenou Bolsonaro (4 a 1) a 27 anos e 3 meses por golpe de Estado, organização criminosa armada e outros crimes ligados a 2022–2023. Em 30/06/2023 o TSE o declarou inelegível por 8 anos.",
+     "tema": "Instituições",
+     "quando": "2022 (decisões em 2023 e 2025)",
+     "fonte": "https://agenciabrasil.ebc.com.br/justica/noticia/2025-09/stf-condena-bolsonaro-27-anos-e-tres-meses-de-prisao",
+     "fonte_nome": "Agência Brasil (11/09/2025); STF",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Desmatamento na Amazônia sobe",
+     "texto": "A taxa Prodes/Inpe de desmatamento na Amazônia Legal passou de 7.536 km² (2018) para 13.235 km² no período ago/2020–jul/2021, alta de 21,97% sobre o ano anterior.",
+     "tema": "Meio ambiente",
+     "quando": "2019–2022",
+     "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2021-11/desmatamento-na-amazonia-legal-tem-aumento-de-2197-em-2021",
+     "fonte_nome": "Agência Brasil / Inpe (18/11/2021)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Inflação de 10,06% acima do teto da meta",
+     "texto": "O IPCA fechou 2021 em 10,06%, acima do teto de 5,25%, a maior taxa anual desde 2015; o BC enviou carta aberta citando pandemia, commodities e crise hídrica. Em 2022 o IPCA (5,79%) também superou o teto de 5%.",
+     "tema": "Economia",
+     "quando": "2021–2022",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/32725-inflacao-sobe-0-73-em-dezembro-e-fecha-2021-com-alta-de-10-06",
+     "fonte_nome": "IBGE (11/01/2022); Agência Brasil (11/01/2022)",
+     "confianca": "alta"
+    }
+   ]
+  },
+  "lula3": {
+   "positivos": [
+    {
+     "titulo": "Desemprego na menor taxa da série",
+     "texto": "A desocupação média de 2025 foi de 5,6%, a menor da PNAD Contínua (iniciada em 2012), e a do 4º trimestre de 2025 ficou em 5,1%, também mínima da série. No 4º trimestre de 2022 a taxa era de 7,9%.",
+     "tema": "Economia",
+     "quando": "2023–2025",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/45759-pnad-continua-em-2025-taxa-anual-de-desocupacao-foi-de-5-6-enquanto-taxa-de-subutilizacao-foi-14-5",
+     "fonte_nome": "IBGE – PNAD Contínua (2026)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Brasil sai do Mapa da Fome da ONU",
+     "texto": "O relatório SOFI 2025 (FAO/ONU, 28/07/2025) indicou subalimentação abaixo de 2,5% da população na média 2022–2024, critério de saída do Mapa da Fome. O SOFI 2026 manteve o país fora do mapa (triênio 2023–2025).",
+     "tema": "Social",
+     "quando": "2025–2026",
+     "fonte": "https://agenciagov.ebc.com.br/noticias/202607/relatorio-da-onu-confirma-que-brasil-permanece-fora-do-mapa-da-fome",
+     "fonte_nome": "Agência Gov (jul/2026, SOFI 2026); O Povo (28/07/2025, SOFI 2025)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Desmatamento na Amazônia cai três anos seguidos",
+     "texto": "O Prodes/Inpe estimou 5.796 km² desmatados na Amazônia Legal entre ago/2024 e jul/2025 (consolidado: 5.731 km²), queda de 11,08% sobre 2024 e menor taxa em 11 anos, após quedas também em 2023 e 2024.",
+     "tema": "Meio ambiente",
+     "quando": "2023–2025",
+     "fonte": "https://www.gov.br/inpe/pt-br/assuntos/ultimas-noticias/dados-do-prodes-apontam-reducao-no-desmatamento-na-amazonia-e-no-cerrado-brasileiros-1",
+     "fonte_nome": "Inpe (out/2025); MMA (out/2025)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Reforma tributária do consumo aprovada",
+     "texto": "A Emenda Constitucional 132, promulgada em 20/12/2023, substitui PIS, Cofins, ICMS e ISS por CBS e IBS e cria o Imposto Seletivo; a regulamentação (LC 214/2025) foi sancionada em jan/2025, com transição de 2026 a 2033.",
+     "tema": "Economia",
+     "quando": "2023–2025",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+     "fonte_nome": "Planalto – EC 132 (20/12/2023)",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Inflação acima do teto e dívida pública em alta",
+     "texto": "O IPCA de 2024 (4,83%) superou o teto da meta (4,5%) e o BC enviou carta aberta em jan/2025. A dívida bruta do governo geral subiu cerca de 7 p.p. no mandato e chegou a 78,7% do PIB em dez/2025 (BCB).",
+     "tema": "Economia",
+     "quando": "2023–2025",
+     "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/inflacao-oficial-do-pais-em-2024-e-de-483-acima-do-limite-da-meta",
+     "fonte_nome": "Agência Brasil / IBGE (10/01/2025); BCB – Estatísticas Fiscais (30/01/2026)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Descontos não autorizados em benefícios do INSS",
+     "texto": "A Operação Sem Desconto (PF/CGU, 23/04/2025) apurou descontos associativos sem autorização em aposentadorias, estimados em até R$ 6,3 bilhões de 2019 a 2024; o presidente do INSS foi afastado e os descontos, suspensos.",
+     "tema": "Instituições",
+     "quando": "2025",
+     "fonte": "https://www.gov.br/cgu/pt-br/assuntos/noticias/2025/04/fraude-no-inss-aposentados-e-pensionistas-tiveram-quase-r-6-3-bi-em-descontos-sem-autorizacao",
+     "fonte_nome": "CGU (23/04/2025); Agência Brasil (23/04/2025)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Epidemia de dengue recorde em 2024",
+     "texto": "O Ministério da Saúde contabilizou 6,48 milhões de casos prováveis de dengue e 5.972 óbitos em 2024, o maior número da série histórica, com alta de quase 300% nos casos ante 2023.",
+     "tema": "Saúde",
+     "quando": "2024",
+     "fonte": "https://agenciabrasil.ebc.com.br/saude/noticia/2025-01/casos-de-dengue-em-2024-passam-de-64-milhoes-mortes-somam-59-mil",
+     "fonte_nome": "Agência Brasil / Ministério da Saúde (jan/2025)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Área queimada em 2024 acima da média histórica",
+     "texto": "O fogo atingiu 30 milhões de hectares no Brasil em 2024, 62% acima da média histórica de 18,5 milhões, segunda maior área em 40 anos, segundo o MapBiomas; a seca associada ao El Niño é citada como fator.",
+     "tema": "Meio ambiente",
+     "quando": "2024",
+     "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-06/queimadas-atingiram-30-milhoes-de-hectares-no-pais-em-2024",
+     "fonte_nome": "Agência Brasil / MapBiomas (jun/2025)",
+     "confianca": "media"
+    }
+   ]
+  }
+ },
+ "lacunas": [
+  "Lula 3: meu conhecimento verificado vai até meados de 2026; fatos de jul–out/2026 (PIB de 2026, Prodes 2026, eleição de outubro de 2026) não foram incluídos. Desemprego de 2026 (5,3% no trimestre jun–ago, segundo a imprensa) não foi conferido no IBGE.",
+  "Números revisados pelo IBGE: PIB de 2015 divulgado como -3,8% e revisado para -3,5%; taxas de desocupação de 2014–2018 foram reponderadas em 2021. Os textos citam o dado divulgado à época, indicando a revisão quando relevante.",
+  "Dilma 2: os destaques positivos são entregas normativas (leis e meta climática), sem indicador de resultado medido no período, porque os principais indicadores econômicos e sociais pioraram em 2015–2016.",
+  "Não incluídos por não ter desfecho atribuível ao mandato ou por classificação controversa: rompimento da barragem de Mariana (05/11/2015), autonomia do Banco Central (LC 179/2021), lançamento do Pix (nov/2020), atos de 8 de janeiro de 2023, enchentes do RS (2024) e isenção do IR até R$ 5 mil (2025).",
+  "Os links do planalto.gov.br seguem o padrão oficial de endereço das leis, mas não puderam ser abertos daqui (o site não respondeu); as demais URLs foram confirmadas por busca.",
+  "Saúde (Bolsonaro): óbitos de covid-19 e relatório da CPI foram reunidos num só destaque para abrir espaço à condenação no STF. O número oficial exato em 31/12/2022 não foi localizado; usado o total de 693,9 mil publicado em 02/01/2023.",
+  "Decisão do usuário (27/10/2026): as três reformas (Teto de Gastos e reforma trabalhista de Temer, Previdência de Bolsonaro) entram como positivos com o mesmo critério, cada uma com observação sobre o debate e o que aconteceu depois.",
+  "Previdência: não encontrei fonte oficial firme que meça a economia ou a despesa efetiva depois da EC 103/2019 (resultado observado x R$ 800 bi previstos); por isso o item não traz número de resultado.",
+  "Previdência: em 19/06/2024 o STF suspendeu, por pedido de vista de Gilmar Mendes, o julgamento de outras 13 ADIs contra a EC 103 (alíquotas progressivas de servidores, contribuição extraordinária etc.). Não consegui confirmar se esse julgamento já terminou; ficou fora do texto.",
+  "Reforma trabalhista: não achei uma meta numérica oficial de geração de empregos atribuída ao governo em documento oficial (há falas genéricas de Temer e Jucá); números como '6 milhões de empregos' circulam na imprensa, mas não foram confirmados e ficaram de fora.",
+  "Reforma trabalhista: o TST só confirma a comparação jan–set/2017 x jan–set/2018. Não usei séries de anos posteriores por falta de página oficial testada.",
+  "Selic: a página de histórico de metas do BCB não abre para robôs (conteúdo por script). O IPCA de 2004 (7,60%) foi confirmado na imprensa (Exame), não em página do IBGE nem do BCB testada; a meta de 2004 (5,5% ± 2,5 p.p.) vem da carta do BCB.",
+  "H1N1: a declaração original da OMS de 11/06/2009 está fora do ar (404). A data foi confirmada pelo CIDRAP, e os números do dia pelo boletim da OMS (update 47). O número de vacinados em 2010 varia entre fontes (81, 88, 92 e 'mais de 100' milhões, conforme data e critério); usei 88 milhões (artigo revisado por pares, 2013), valor que coincide com a fala do ministro Temporão em ago/2010 citada na imprensa."
+ ]
+}

@@ -1,0 +1,273 @@
+{
+  "gerado_em": "2026-10-27",
+  "itens": {
+    "2010-13-t1-1": {
+      "status": "parcial",
+      "resumo": "Brasil Sem Miséria criado em 2011. Pelo Ipea (Pnad), a extrema pobreza caiu para 2,48% da população em 2014, 29,8% abaixo de 2013, sem ser zerada. Não há fonte que confirme o uso de recursos do pré-sal no plano.",
+      "quando": "2011–2014",
+      "fonte": "https://www.jb.com.br/pais/noticias/2015/12/30/amp/ipea-situacao-de-extrema-pobreza-teve-reducao-de-63-nos-ultimos-10-anos.html",
+      "fonte_nome": "JB citando nota técnica do Ipea \"Pnad 2014 – Breves análises\" (30/12/2015)",
+      "confianca": "alta"
+    },
+    "2010-13-t1-2": {
+      "status": "parcial",
+      "resumo": "Proinfância: em out/2013 o governo informava 1.169 unidades de educação infantil concluídas e 3.215 em obras. Em 2014 passou a citar 6.036 creches com recursos autorizados, não construídas. A meta de 6 mil prontas não foi atingida.",
+      "quando": "2011–2014",
+      "fonte": "https://congressoemfoco.com.br/noticia/53702/o-que-foi-realizado-e-o-que-ficou-so-na-promessa-de-dilma",
+      "fonte_nome": "Congresso em Foco (30/09/2014); Agência Brasil/Estado de Minas (23/10/2013)",
+      "confianca": "alta"
+    },
+    "2010-13-t1-3": {
+      "status": "parcial",
+      "resumo": "Pelo Inep, o investimento público total em educação chegou a 6% do PIB em 2014 (cerca de R$ 344 bi); o direto caiu de 5,1% para 5%. Os 7% não foram atingidos. O PNE (Lei 13.005/2014) fixou 7% em 2019 e 10% em 2024.",
+      "quando": "2014",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/36485/brasil-tera-que-investir-r-225-bilhoes-a-mais-caso-queira-cumprir-plano-nacional-de-educacao",
+      "fonte_nome": "Congresso em Foco com dados do Inep (08/11/2016); apresentação do Consed à Câmara",
+      "confianca": "alta"
+    },
+    "2010-13-t1-4": {
+      "status": "parcial",
+      "resumo": "A meta não foi atingida. Em jul/2016 o Ministério da Saúde contava 461 UPAs em funcionamento no país (incluindo as anteriores a 2011), 138 concluídas sem funcionar, 357 em obras e 72 sem obra iniciada.",
+      "quando": "2011–2016",
+      "fonte": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/cssf/arquivos/audiencia-publica-13-07-2016-0-min-saude/apresentacao-min-saude",
+      "fonte_nome": "Ministério da Saúde, apresentação na Câmara (13/07/2016)",
+      "confianca": "alta"
+    },
+    "2010-13-t1-5": {
+      "status": "parcial",
+      "resumo": "MCMV contratou 3,7 mi moradias desde 2009 e entregou 1,87 mi até nov/2014: superou 2 mi em contratos, não em entregas. O PAC 2 previa executar 96,5% do orçamento de 2011–2014 (R$ 1,066 tri), segundo balanço do próprio governo.",
+      "quando": "2011–2014",
+      "fonte": "https://exame.com/brasil/minha-casa-deve-cumprir-meta-de-3-75-milhoes-de-moradias/",
+      "fonte_nome": "Exame (11/12/2014, 11º balanço do PAC); Congresso em Foco (11/12/2014)",
+      "confianca": "alta"
+    },
+    "2010-13-t1-6": {
+      "status": "parcial",
+      "resumo": "A folha foi desonerada pela MP 540/2011 (Lei 12.546/2011), com contribuição sobre a receita, ampliada a dezenas de setores. A reforma tributária ampla para simplificar tributos não foi aprovada; o governo optou por medidas pontuais.",
+      "quando": "2011–2014",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12546.htm",
+      "fonte_nome": "Planalto – Lei 12.546/2011; JB (15/06/2012); Congresso em Foco (30/09/2014)",
+      "confianca": "alta"
+    },
+    "2010-13-t1-7": {
+      "status": "nao_cumprida",
+      "resumo": "Não foi localizado registro da criação do fundo nem do piso nacional das polícias no mandato. A PEC 300 (piso), aprovada em 1º turno em 2010, seguia sem votação em 2º turno em ago/2013.",
+      "quando": null,
+      "fonte": "https://olhardireto.com.br/noticias/lider-do-governo-e-hostilizado-por-policiais-que-protestam-na-camara",
+      "fonte_nome": "Agência Brasil via Olhar Direto (20/08/2013)",
+      "confianca": "media"
+    },
+    "2010-13-et-1": {
+      "status": "nao_avaliavel",
+      "resumo": "Nenhuma fonte encontrada faz o balanço. Em 2013 Dilma sancionou sem vetos a Lei 12.845 (vítimas de violência sexual), de origem na Câmara; religiosos apontaram quebra do compromisso e o governo enviou PL para mudar o texto.",
+      "quando": "2013-08",
+      "fonte": "https://congressoemfoco.com.br/noticia/58535/igrejas-reagem-contra-a-lei-das-vitimas-sexuais",
+      "fonte_nome": "Congresso em Foco (03/08/2013)",
+      "confianca": "media"
+    },
+    "2010-13-et-2": {
+      "status": "nao_avaliavel",
+      "resumo": "O PLC 122/2006 nunca chegou à sanção. Em 17/12/2013 o Senado o anexou à reforma do Código Penal (PLS 236/2012), e ele foi arquivado ao fim da legislatura, em 26/12/2014. A condição do compromisso não se verificou.",
+      "quando": "2014-12",
+      "fonte": "https://www25.senado.leg.br/web/atividade/materias/-/materia/79604",
+      "fonte_nome": "Senado Federal – tramitação do PLC 122/2006",
+      "confianca": "alta"
+    },
+    "2010-gov-1": {
+      "status": "efetivado",
+      "resumo": "Vigorou a partir de 05/10/2010. Foi substituído em 19/10 pelo Decreto 7.330 (alíquota de 6%) e revogado formalmente pelo Decreto 7.412, de 30/12/2010, que consolidou as regras do IOF-câmbio.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7323.htm",
+      "fonte_nome": "Planalto – Legislação (nota de revogação)",
+      "confianca": "alta"
+    },
+    "2010-gov-2": {
+      "status": "revertido",
+      "resumo": "A MP perdeu a eficácia por decurso de prazo em 15/03/2011, sem conversão em lei. Pelo acordo no Senado, o texto voltaria como projeto de lei.",
+      "quando": "2011-03",
+      "fonte": "https://www12.senado.leg.br/radio/1/noticia/2011/03/15/senado-decide-transformar-mp-sobre-quebra-de-sigilo-fiscal-em-projeto-de-lei",
+      "fonte_nome": "Rádio Senado (15/03/2011); Planalto (\"sem eficácia\")",
+      "confianca": "alta"
+    },
+    "2010-gov-3": {
+      "status": "efetivado",
+      "resumo": "A prorrogação vigorou. Em 08/07/2011 o Decreto 7.520 instituiu uma nova fase do Luz para Todos (2011–2014). O Decreto 7.324 foi revogado formalmente pelo Decreto 10.223/2020.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7324.htm",
+      "fonte_nome": "Planalto – Legislação; Câmara – Legin (Decreto 7.520/2011)",
+      "confianca": "alta"
+    },
+    "2010-gov-4": {
+      "status": "revertido",
+      "resumo": "A Câmara aprovou a MP em 15/03/2011, mas o Senado a rejeitou em 17/03/2011 (Ato Declaratório nº 1, DOU de 22/03/2011). O crédito era para alimentação e transporte escolar (PNAE e PNATE).",
+      "quando": "2011-03",
+      "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/98134",
+      "fonte_nome": "Congresso Nacional – tramitação da MPV 508/2010",
+      "confianca": "alta"
+    },
+    "2010-gov-5": {
+      "status": "efetivado",
+      "resumo": "Convertida na Lei 12.400, de 07/04/2011 (PLV 5/2011). O prazo para a ECT concluir as contratações foi estendido para 30/09/2012 e foram dados 12 meses de adaptação às novas agências franqueadas.",
+      "quando": "2011-04",
+      "fonte": "https://planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12400.htm",
+      "fonte_nome": "Planalto – Lei 12.400/2011; Congresso Nacional",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como efetivada porque a MP foi convertida em lei. A leitura \"em parte\" também se sustenta: o Congresso mudou o texto (prazo estendido para 30/09/2012 e 12 meses de adaptação às agências franqueadas)."
+    },
+    "2010-gov-6": {
+      "status": "efetivado",
+      "resumo": "Vigorou a partir de 19/10/2010. A alíquota de 6% foi mantida na consolidação feita pelo Decreto 7.412, de 30/12/2010, que revogou formalmente o Decreto 7.330.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7330.htm",
+      "fonte_nome": "Planalto – Legislação; Decreto 7.412/2010",
+      "confianca": "alta"
+    },
+    "2010-gov-7": {
+      "status": "efetivado",
+      "resumo": "As mudanças no regulamento do Bolsa Família vigoraram até a revogação do Decreto 7.332 pelo Decreto 10.930/2022, que reorganizou a regulamentação.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7332.htm",
+      "fonte_nome": "Planalto – Legislação (nota de revogação)",
+      "confianca": "alta"
+    },
+    "2010-gov-8": {
+      "status": "efetivado",
+      "resumo": "As regras de amortização do FIES vigoraram a partir de 21/10/2010. O decreto foi revogado em 2012 pelo Decreto 7.790, que reorganizou a regulamentação.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7337.htm",
+      "fonte_nome": "Planalto – Legislação (nota de revogação)",
+      "confianca": "alta"
+    },
+    "2010-gov-9": {
+      "status": "efetivado",
+      "resumo": "Publicado no DOU de 21/10/2010, o decreto regulamentou a remissão e os descontos da Lei 12.249/2010. O Planalto não registra revogação nem alteração.",
+      "quando": "2010-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7339.htm",
+      "fonte_nome": "Planalto – Legislação",
+      "confianca": "alta"
+    },
+    "2010-gov-10": {
+      "status": "parcial",
+      "resumo": "O PDRS Xingu aprovou 362 projetos entre 2011 e 2018, usando cerca de metade dos R$ 500 mi devidos pela Norte Energia. O comitê gestor foi extinto em mai/2019 (Decreto 9.784) e o decreto, revogado pelo Decreto 10.524/2020.",
+      "quando": "2011–2019",
+      "fonte": "https://site-antigo.socioambiental.org/pt-br/print/6520",
+      "fonte_nome": "Instituto Socioambiental (13/09/2019); Planalto (notas de revogação)",
+      "confianca": "alta"
+    },
+    "2010-gov-11": {
+      "status": "parcial",
+      "resumo": "O decreto continua em vigor; os arts. 3º e 4º (comitê interministerial) foram revogados pelo Decreto 10.087/2019. Dissertação da UFPR (2018) concluiu que o cadastro teve aplicação nula ou limitada, pois não é exigido no licenciamento.",
+      "quando": "2010–2019",
+      "fonte": "https://educapes.capes.gov.br/handle/1884/60380?mode=full",
+      "fonte_nome": "Mattia, dissertação UFPR (2018); Planalto – Legislação",
+      "confianca": "media"
+    },
+    "2010-gov-12": {
+      "status": "efetivado",
+      "resumo": "O decreto regulamentou o Fundo Clima e vigorou até 2018, quando foi revogado pelo Decreto 9.578/2018, que consolidou as normas do FNMC e da política de clima.",
+      "quando": "2010–2018",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7343.htm",
+      "fonte_nome": "Planalto – Legislação (nota de revogação)",
+      "confianca": "alta"
+    },
+    "2010-gov-13": {
+      "status": "efetivado",
+      "resumo": "Convertida na Lei 12.402, de 02/05/2011 (DOU de 03/05/2011), que regula o cumprimento de obrigações tributárias por consórcios de empresas.",
+      "quando": "2011-05",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12402.htm",
+      "fonte_nome": "Planalto – Lei 12.402/2011; Senado",
+      "confianca": "alta"
+    },
+    "2014-13-t1-1": {
+      "status": "nao_cumprida",
+      "resumo": "Não houve plebiscito sobre reforma política até o afastamento definitivo, em 31/08/2016. Após a reeleição, a cúpula do PMDB recusou o modelo e Dilma passou a admitir referendo (out/2014). O TSE não registra consulta nacional depois de 2005.",
+      "quando": null,
+      "fonte": "https://www.congressoemfoco.com.br/noticia/53538/dilma-recua-e-admite-plebiscito-sobre-reforma-politica",
+      "fonte_nome": "Congresso em Foco (28/10/2014); TSE – cronologia das eleições",
+      "confianca": "alta"
+    },
+    "2014-13-t1-2": {
+      "status": "nao_cumprida",
+      "resumo": "Com o ajuste fiscal, o Pronatec ofertou cerca de 1 milhão de vagas em 2015, contra mais de 2,5 milhões em 2014 (queda de ~60%). O PPA de 2015 previa 6,3 milhões de vagas até 2018, metade da meta.",
+      "quando": "2015",
+      "fonte": "https://congressoemfoco.com.br/noticia/47911/pronatec-perde-60-das-vagas-este-ano-com-ajuste-fiscal",
+      "fonte_nome": "Congresso em Foco (10/06/2015); InfoEscola/PPA (09/2015)",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como não cumprida porque a oferta de 2015 (cerca de 1 milhão de vagas) ficou longe da meta de 12 milhões e o próprio PPA reduziu a meta à metade. A leitura \"em parte\" também se sustenta: o programa continuou ofertando vagas e o mandato terminou em 31/08/2016, antes do prazo da meta."
+    },
+    "2014-13-t1-3": {
+      "status": "parcial",
+      "resumo": "Mais Médicos passou de 14.462 médicos (2014) para 18.240 em 4.058 municípios (2015). Em jul/2016 havia 461 UPAs em funcionamento. Não foi localizado registro de lançamento do Mais Especialidades até 31/08/2016.",
+      "quando": "2015–2016",
+      "fonte": "https://www.conass.org.br/?p=4029",
+      "fonte_nome": "Conass/Ministério da Saúde (2015); apresentação do MS à Câmara (07/2016)",
+      "confianca": "media"
+    },
+    "2014-13-t1-4": {
+      "status": "parcial",
+      "resumo": "Meta em andamento quando o mandato foi interrompido. Até ago/2015, 5.306 novas vagas de graduação em medicina estavam autorizadas e o programa somava 62% da meta de 12,4 mil vagas de residência.",
+      "quando": "2015",
+      "fonte": "https://oimparcial.com.br/noticias/2015/08/anunciada-a-criacao-de-3-mil-vagas-de-residencia-para-o-mais-medicos/",
+      "fonte_nome": "O Imparcial (04/08/2015)",
+      "confianca": "media"
+    },
+    "2014-13-t1-5": {
+      "status": "parcial",
+      "resumo": "O MCMV 3 foi lançado em 30/03/2016 com meta de mais de 2 milhões de moradias até 2018 (R$ 210,6 bi) e criou a faixa 1,5. Em fev/2016 Dilma admitiu que não cumpriria os 3 milhões. Mandato interrompido em 2016.",
+      "quando": "2016-03",
+      "fonte": "https://congressoemfoco.com.br/noticias/governo-inclui-nova-faixa-de-renda-no-minha-casa-minha-vida",
+      "fonte_nome": "Congresso em Foco/Agência Brasil (30/03/2016); Estado de Minas (03/02/2016)",
+      "confianca": "alta"
+    },
+    "2014-13-t1-6": {
+      "status": "parcial",
+      "resumo": "Avaliada pela medida concreta: após a Copa, o governo anunciou 15 novos CICCs (cerca de R$ 300 mi). Em set/2015 o MJ os implantava em 15 estados. Não foi localizado balanço de conclusão até 31/08/2016.",
+      "quando": "2015",
+      "fonte": "https://conexaoto.com.br/2015/09/30/seguranca-publica-promove-reuniao-para-discutir-implantacao-de-centro-integrado-de-comando-e-controle-no-tocantins",
+      "fonte_nome": "Conexão Tocantins (30/09/2015); Folha BV",
+      "confianca": "media"
+    },
+    "2014-13-t1-7": {
+      "status": "parcial",
+      "resumo": "O pacote anticorrupção foi enviado em 18/03/2015 (caixa 2 como crime, confisco de bens e enriquecimento ilícito). Em 11/05/2016 os PLs 855/2015, 2.902/2011 e 5.586/2005 seguiam na Câmara. Nenhum foi aprovado até 31/08/2016.",
+      "quando": "2015–2016",
+      "fonte": "https://istoedinheiro.com.br/dilma-pede-ao-congresso-urgencia-na-tramitacao-de-projetos-contra-corrupcao",
+      "fonte_nome": "IstoÉ Dinheiro (11/05/2016); Estado de Minas (18/03/2015)",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como em parte porque o Executivo enviou os projetos ao Congresso em 18/03/2015. A leitura \"não cumprida\" também se sustenta: nenhum dos projetos virou lei até o fim do mandato (31/08/2016)."
+    },
+    "2014-gov-1": {
+      "status": "efetivado",
+      "resumo": "Convertida, com veto parcial (VET 4/2015), na Lei 13.097, de 19/01/2015, por meio do PLV 18/2014, que tratou também de vários outros temas.",
+      "quando": "2015-01",
+      "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/118627",
+      "fonte_nome": "Congresso Nacional – tramitação da MPV 656/2014",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como efetivada porque a MP foi convertida na Lei 13.097/2015. A leitura \"em parte\" também se sustenta: a conversão teve veto parcial e o texto final incluiu vários outros temas."
+    },
+    "2014-gov-2": {
+      "status": "efetivado",
+      "resumo": "O IOF-crédito zero vigorou a partir de 08/10/2014. A isenção do BNDES foi revogada pelo Decreto 8.511, de 31/08/2015; as da Finep e de rodovias e ferrovias concedidas continuam no Decreto 6.306.",
+      "quando": "2014-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/d6306.htm",
+      "fonte_nome": "Planalto – Decreto 6.306/2007 compilado; Câmara – Legin (Decreto 8.511/2015)",
+      "confianca": "alta"
+    },
+    "2014-gov-3": {
+      "status": "efetivado",
+      "resumo": "Convertida na Lei 13.047, de 02/12/2014 (DOU de 03/12/2014), que torna o cargo de diretor-geral da PF privativo de delegado de classe especial.",
+      "quando": "2014-12",
+      "fonte": "https://legis.senado.leg.br/norma/584858/publicacao/15629709",
+      "fonte_nome": "Senado – Lei 13.047/2014; Migalhas",
+      "confianca": "alta"
+    },
+    "2014-gov-4": {
+      "status": "efetivado",
+      "resumo": "Vigorou a partir de 14/10/2014. Foi revogado pelo Decreto 10.086/2019, que consolidou normas.",
+      "quando": "2014-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8326.htm",
+      "fonte_nome": "Planalto – Legislação (nota de revogação)",
+      "confianca": "alta"
+    }
+  }
+}

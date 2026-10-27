@@ -1,0 +1,299 @@
+{
+ "gerado_em": "2026-10-27",
+ "mandatos": {
+  "lula1": {
+   "positivos": [
+    {
+     "titulo": "Bolsa Família unifica programas e chega a 11 milhões de famílias",
+     "texto": "A Lei 10.836 (jan/2004) criou o Bolsa Família, unificando programas de transferência de renda com condicionalidades. No 2º semestre de 2006, o programa atingiu a meta de cerca de 11 milhões de famílias atendidas.",
+     "tema": "Social",
+     "quando": "2004–2006",
+     "fonte": "https://repositorio.ipea.gov.br/handle/11058/15758",
+     "fonte_nome": "Ipea – Soares et al., cobertura do Bolsa Família (2010)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Quitação antecipada da dívida com o FMI",
+     "texto": "Em dez/2005, o Brasil quitou antecipadamente US$ 15,5 bi devidos ao FMI, com vencimentos até 2007; o BCB estimou economia de cerca de US$ 900 milhões em juros. Em jul/2005, já havia antecipado US$ 5 bi da linha SRF.",
+     "tema": "Economia",
+     "quando": "2005",
+     "fonte": "https://www.bcb.gov.br/htms/relinf/port/2006/03/ri200603b6p.pdf",
+     "fonte_nome": "Banco Central – Relatório de Inflação (mar/2006)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "ProUni oferta 112 mil bolsas no primeiro ano",
+     "texto": "A Lei 11.096 (jan/2005) instituiu o ProUni, com bolsas em instituições privadas de ensino superior em troca de isenção de tributos. Foram ofertadas 112.275 bolsas em 2005 e 138.668 em 2006, segundo o MEC.",
+     "tema": "Educação",
+     "quando": "2005–2006",
+     "fonte": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/ce/arquivos/paulo-speller/view",
+     "fonte_nome": "MEC – apresentação '10 anos de Prouni' à Câmara (mai/2014)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Lei Maria da Penha",
+     "texto": "A Lei 11.340 (ago/2006) criou medidas protetivas e juizados de violência doméstica contra a mulher. Estudo do Ipea (2015) estimou que a lei reduziu em cerca de 10% a projeção de homicídios de mulheres dentro de casa.",
+     "tema": "Segurança",
+     "quando": "2006",
+     "fonte": "https://www.ipea.gov.br/participacao/noticiasmidia/direitos-humanos/1223-ipea-lei-maria-da-penha-reduziu-violencia-domestica-contra-mulheres",
+     "fonte_nome": "Ipea – Avaliando a efetividade da Lei Maria da Penha (04/03/2015)",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Mensalão: STF condena 25 réus na Ação Penal 470",
+     "texto": "O esquema de pagamentos a parlamentares revelado em 2005 levou à CPMI dos Correios e à AP 470. Em 17/12/2012, após 53 sessões, o STF concluiu o julgamento com 25 condenados, entre eles um ex-ministro da Casa Civil.",
+     "tema": "Instituições",
+     "quando": "2005 (julgamento em 2012)",
+     "fonte": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=11541",
+     "fonte_nome": "STF – Ação Penal 470",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Renda média do trabalho cai 7,4% em 2003",
+     "texto": "Segundo a PNAD 2003 do IBGE, o rendimento médio real do trabalho caiu 7,4% em relação a 2002, e a taxa de desocupação aumentou no período.",
+     "tema": "Social",
+     "quando": "2003",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/12832-asi-pnad-2003-aponta-reducao-de-desigualdades-queda-no-rendimento-aumento-na-desocupacao-e-mais-empregados-com-carteira-assinada",
+     "fonte_nome": "IBGE – release da PNAD 2003 (2004)",
+     "confianca": "media"
+    },
+    {
+     "titulo": "Desmatamento na Amazônia chega a 27.772 km² em 2004",
+     "texto": "A taxa PRODES/Inpe de ago/2003 a jul/2004 foi de 27.772 km², a 2ª maior da série iniciada em 1988. Em 2004 foi lançado o PPCDAm, e a taxa caiu para 19.014 km² no ciclo seguinte (2005).",
+     "tema": "Meio ambiente",
+     "quando": "2004",
+     "fonte": "https://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/legal_amazon/rates",
+     "fonte_nome": "Inpe – PRODES/TerraBrasilis (série histórica)",
+     "confianca": "alta"
+    }
+   ],
+   "neutros": [
+    {
+     "titulo": "Selic chega a 26,5% ao ano em 2003",
+     "texto": "Para conter a inflação após a alta do dólar em 2002, o Copom elevou a Selic a 26,5% a.a. em fev/2003, nível mantido até jun/2003. Os cortes começaram em junho e a taxa fechou 2003 em 16,5%.",
+     "tema": "Economia",
+     "quando": "2003",
+     "fonte": "https://www.bcb.gov.br/controleinflacao/historicotaxasjuros",
+     "fonte_nome": "Banco Central – histórico das taxas de juros (Copom)",
+     "confianca": "alta",
+     "observacao": "A Selic já estava em 25% a.a. desde 18/12/2002, por decisão do Copom antes da posse. O IPCA de 2002 fechou em 12,53%, acima do teto da meta (5,5%); o dólar médio foi de R$ 2,55 no 4º tri/2001 para R$ 3,67 no 4º tri/2002, e a expectativa de inflação em 12 meses chegou a 11% em dez/2002. Em jan/2003 o BC adotou meta ajustada de 8,5% para 2003. O IPCA foi de 9,30% em 2003 e de 7,60% em 2004, abaixo do teto da meta de 2004 (8%).",
+     "observacao_fontes": [
+      {
+       "url": "https://www.bcb.gov.br/content/controleinflacao/controleinflacao_docs/carta_aberta/carta2002.pdf",
+       "nome": "Banco Central, Carta Aberta (21/01/2003) – IPCA 2002, câmbio, expectativas, Selic de 25% em 18/12/2002, meta ajustada"
+      },
+      {
+       "url": "https://www.bcb.gov.br/content/controleinflacao/controleinflacao_docs/carta_aberta/carta2003.pdf",
+       "nome": "Banco Central, Carta Aberta (19/02/2004) – IPCA 2003, decisões do Copom em 2003, meta de 2004 (5,5% ± 2,5 p.p.)"
+      },
+      {
+       "url": "https://exame.com/economia/ipca-fecha-2011-a-6-50-segundo-ibge-dentro-da-meta-de-inflacao/",
+       "nome": "Exame (09/02/2012) – IPCA de 2004 = 7,60%, citando o IBGE"
+      }
+     ]
+    }
+   ]
+  },
+  "lula2": {
+   "positivos": [
+    {
+     "titulo": "PIB cresce 7,5% em 2010",
+     "texto": "Segundo o IBGE, o PIB cresceu 7,5% em 2010, a maior taxa desde 1986, e somou R$ 3,675 trilhões. A base de comparação era baixa após a retração de 2009; a indústria cresceu 10,1%.",
+     "tema": "Economia",
+     "quando": "2010",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13983-asi-em-2010-pib-varia-75-e-fica-em-r-3675-trilhoes",
+     "fonte_nome": "IBGE – Contas Nacionais Trimestrais (03/03/2011)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Ideb dos anos iniciais supera a meta",
+     "texto": "O Ideb dos anos iniciais do ensino fundamental passou de 3,8 (2005) para 4,6 (2009), acima da meta de 4,2 prevista para 2009. No ensino médio, o índice foi de 3,4 para 3,6 no mesmo período.",
+     "tema": "Educação",
+     "quando": "2009",
+     "fonte": "https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados",
+     "fonte_nome": "Inep – resultados do Ideb (divulgação de jul/2010)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Desmatamento na Amazônia cai a 7.464 km² em 2009",
+     "texto": "A taxa PRODES/Inpe de ago/2008 a jul/2009 foi de 7.464 km², então a menor da série iniciada em 1988 e cerca de 73% abaixo da registrada em 2004 (27.772 km²).",
+     "tema": "Meio ambiente",
+     "quando": "2009",
+     "fonte": "https://terrabrasilis.dpi.inpe.br/app/dashboard/deforestation/biomes/legal_amazon/rates",
+     "fonte_nome": "Inpe – PRODES/TerraBrasilis (série histórica)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Lei da Ficha Limpa",
+     "texto": "A LC 135 (jun/2010), originada de projeto de iniciativa popular, tornou inelegíveis por 8 anos os condenados por órgão colegiado. O STF validou a lei em fev/2012, e ela passou a valer nas eleições de 2012.",
+     "tema": "Instituições",
+     "quando": "2010",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp135.htm",
+     "fonte_nome": "Planalto – Lei Complementar 135 (04/06/2010)",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Crise aérea e acidente da TAM em Congonhas",
+     "texto": "Após a colisão Gol–Legacy (set/2006), houve paralisação de controladores de voo (mar/2007) e o acidente do voo TAM 3054 em Congonhas (17/07/2007, 199 mortos). A CPI do Apagão Aéreo do Senado foi concluída em out/2007.",
+     "tema": "Infraestrutura",
+     "quando": "2007",
+     "fonte": "https://www25.senado.leg.br/web/atividade/materias/-/materia/80764",
+     "fonte_nome": "Senado Federal – CPI do Apagão Aéreo (RQS 401/2007)",
+     "confianca": "media"
+    },
+    {
+     "titulo": "PIB recua 0,1% em 2009",
+     "texto": "Com a crise financeira global, o PIB variou -0,1% em 2009 (dado revisado das Contas Nacionais; a primeira divulgação do IBGE, em mar/2010, foi -0,2%), após alta de 5,1% em 2008.",
+     "tema": "Economia",
+     "quando": "2009",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13798-asi-em-2009-pib-varia-02-e-fica-em-r-3143-bilhoes",
+     "fonte_nome": "IBGE – Contas Nacionais Trimestrais (11/03/2010)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Homicídios sobem de patamar",
+     "texto": "Segundo o Atlas da Violência (Ipea/FBSP), o país registrou de 50 mil a 53 mil homicídios por ano entre 2008 e 2011, acima do patamar de 48 mil a 50 mil observado entre 2004 e 2007.",
+     "tema": "Segurança",
+     "quando": "2008–2010",
+     "fonte": "https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/3034-taxa-de-homicidios-no-brasil-atingiu-recorde-em-2014",
+     "fonte_nome": "Ipea – Atlas da Violência 2016 (23/03/2016)",
+     "confianca": "alta"
+    }
+   ],
+   "neutros": [
+    {
+     "titulo": "Pandemia de gripe A(H1N1)",
+     "texto": "Em 2009, o Brasil registrou mais de 44 mil casos confirmados e 2.051 óbitos por influenza A(H1N1), com maior incidência no Sul e no Sudeste. A vacinação em massa começou em mar/2010.",
+     "tema": "Saúde",
+     "quando": "2009",
+     "fonte": "https://www.redalyc.org/pdf/3935/393541963007.pdf",
+     "fonte_nome": "Bellei e Melchior, J Bras Patol Med Lab (dez/2011)",
+     "confianca": "media",
+     "observacao": "A OMS declarou a pandemia (fase 6) em 11/06/2009, quando havia 28.774 casos confirmados em 74 países. Até 01/08/2010, contava mais de 214 países e territórios com casos e mais de 18.449 mortes confirmadas em laboratório, número que a própria OMS considerava subestimado. A fase pandêmica foi encerrada em 10/08/2010. No Brasil, a vacinação de 2010 (08/03 a 01/08) alcançou cerca de 88 milhões de pessoas, 46% da população.",
+     "observacao_fontes": [
+      {
+       "url": "https://www.cidrap.umn.edu/h1n1-2009-pandemic-influenza/who-declares-pandemic-novel-h1n1-virus",
+       "nome": "CIDRAP/Universidade de Minnesota (11/06/2009) – declaração da fase 6"
+      },
+      {
+       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2009_06_11-en",
+       "nome": "OMS, Disease Outbreak News – update 47 (11/06/2009): 28.774 casos, 74 países"
+      },
+      {
+       "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2010_08_06-en",
+       "nome": "OMS, Disease Outbreak News – update 112 (06/08/2010)"
+      },
+      {
+       "url": "https://www.who.int/news/item/10-08-2010-h1n1-in-post-pandemic-period",
+       "nome": "OMS (10/08/2010) – fim da fase 6"
+      },
+      {
+       "url": "https://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemiologica/areas-de-vigilancia/doencas-de-transmissao-respiratoria/influenza-ah1n1/pdf/if10_influ_pospandemia.pdf",
+       "nome": "CVE/Secretaria da Saúde de SP (13/08/2010) – OMS declara fase pós-pandêmica em 10/08/2010"
+      },
+      {
+       "url": "https://www.scielo.br/j/rsbmt/a/3mhJMVfXggTtsLbfQXTGSSx/?lang=en",
+       "nome": "Oliveira et al., Rev Soc Bras Med Trop 46(3), 2013 – 88 milhões vacinados (46% da população) entre 08/03 e 01/08/2010"
+      }
+     ]
+    }
+   ]
+  },
+  "dilma1": {
+   "positivos": [
+    {
+     "titulo": "Brasil sai do Mapa da Fome da FAO",
+     "texto": "O relatório SOFI 2014 da FAO apontou prevalência de subalimentação abaixo de 5% no Brasil, limiar usado pelo órgão para o Mapa da Fome. O texto citou Bolsa Família, merenda escolar e ganhos reais do salário mínimo.",
+     "tema": "Social",
+     "quando": "2014",
+     "fonte": "https://openknowledge.fao.org/3/i4030e/i4030e.pdf",
+     "fonte_nome": "FAO – The State of Food Insecurity in the World 2014 (set/2014)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Desemprego metropolitano na mínima da série",
+     "texto": "Pela PME/IBGE (6 regiões metropolitanas), a desocupação média foi de 4,8% em 2014, a menor da série iniciada em 2002, ante 5,4% em 2013. Em dez/2014, a taxa ficou em 4,3%.",
+     "tema": "Economia",
+     "quando": "2014",
+     "fonte": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2013-agencia-de-noticias/releases/15432-em-dezembro-taxa-de-desocupacao-fica-em-4-3-e-fecha-2014-com-media-de-4-8.html",
+     "fonte_nome": "IBGE – Pesquisa Mensal de Emprego (29/01/2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Mais Médicos leva 14 mil médicos a 3.785 municípios",
+     "texto": "Criado em jul/2013 (MP 621, depois Lei 12.871), o Mais Médicos alocou 14.168 médicos em 3.785 municípios em 2013–2014; 77,7% foram para municípios prioritários e 46,3% para o Norte e o Nordeste.",
+     "tema": "Saúde",
+     "quando": "2013–2014",
+     "fonte": "https://scielo.br/j/csc/a/WZJJgdkdKWxTnndRrLgBpFJ/",
+     "fonte_nome": "Oliveira, Sanchez e Santos, Ciência & Saúde Coletiva (set/2016)",
+     "confianca": "media"
+    },
+    {
+     "titulo": "Lei de Acesso à Informação entra em vigor",
+     "texto": "A Lei 12.527 (nov/2011), em vigor desde mai/2012, regulou o acesso a dados públicos. Em cerca de 5 meses, o Executivo federal recebeu quase 40 mil pedidos, respondidos em média em 10 dias, segundo a CGU.",
+     "tema": "Instituições",
+     "quando": "2012",
+     "fonte": "https://www.camara.leg.br/noticias/386771-resposta-sobre-informacoes-publicas-chega-rapidamente-ao-cidadao-diz-cgu/",
+     "fonte_nome": "Agência Câmara (18/10/2012), com dados da CGU",
+     "confianca": "alta"
+    }
+   ],
+   "negativos": [
+    {
+     "titulo": "Primeiro déficit primário anual da série do BC",
+     "texto": "Em 2014, o setor público consolidado teve déficit primário de R$ 32,5 bi, ante superávit de R$ 91,3 bi em 2013. Foi o primeiro déficit anual desde o início da série do Banco Central, em dez/2001.",
+     "tema": "Economia",
+     "quando": "2014",
+     "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2015-01/setor-publico-consolidado-teve-deficit-primario-de-r-325-bilhoes-em-2014",
+     "fonte_nome": "Agência Brasil (30/01/2015), dados do Banco Central",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "TCU recomenda rejeitar as contas de 2014",
+     "texto": "Em 7/10/2015, o TCU recomendou ao Congresso rejeitar as contas presidenciais de 2014, o que não ocorria desde 1937, citando adiantamentos da Caixa e do FGTS a programas federais e passivos omitidos da dívida.",
+     "tema": "Instituições",
+     "quando": "2014 (parecer em 2015)",
+     "fonte": "https://www.ipea.gov.br/participacao/noticiasmidia/1266-tcu-contas-governo-2014",
+     "fonte_nome": "TCU, nota reproduzida pelo Ipea (07/10/2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Lava Jato: Petrobras baixa R$ 6,2 bi por pagamentos indevidos",
+     "texto": "A Operação Lava Jato começou em 17/03/2014. No balanço de 2014, auditado e publicado em abr/2015, a Petrobras baixou R$ 6,194 bi de gastos capitalizados indevidamente e registrou prejuízo de R$ 21,6 bi.",
+     "tema": "Instituições",
+     "quando": "2014",
+     "fonte": "https://www.sec.gov/Archives/edgar/data/0001119639/000129281415001242/pbraform20f_2014.htm",
+     "fonte_nome": "Petrobras – Form 20-F 2014 (SEC, 2015)",
+     "confianca": "alta"
+    },
+    {
+     "titulo": "Homicídios atingem 59.627 em 2014",
+     "texto": "O Atlas da Violência 2016 (Ipea/FBSP) registrou 59.627 homicídios em 2014, o maior número absoluto até então, com taxa de 29,1 por 100 mil habitantes. A média anual de 2011 a 2013 havia sido de 55.113. No SIM atual: 60.474.",
+     "tema": "Segurança",
+     "quando": "2014",
+     "fonte": "https://www.ipea.gov.br/portal/categorias/45-todas-as-noticias/noticias/3034-taxa-de-homicidios-no-brasil-atingiu-recorde-em-2014",
+     "fonte_nome": "Ipea – Atlas da Violência 2016 (23/03/2016)",
+     "confianca": "alta"
+    }
+   ]
+  }
+ },
+ "lacunas": [
+  "lula1/renda 2003: o site do IBGE bloqueou a leitura automática (Cloudflare). O título do release confirma 'queda no rendimento' e 'aumento na desocupação'; os -7,4% foram conferidos só em tabela do Jornal da Unicamp (2006). Por isso a confiança é média.",
+  "Releases do IBGE (PIB 2009, PIB 2010, PME 2014): as URLs aparecem no buscador, mas o site bloqueia leitura automática. Os números foram confirmados por TCU, Agência Brasil e outras reproduções.",
+  "lula2/PIB 2009: o -0,2% é o dado divulgado em mar/2010. As revisões posteriores das Contas Nacionais mudaram o valor; conferir a série atual no SIDRA antes de exibir.",
+  "lula2/H1N1: o número de óbitos varia conforme o critério e a data de corte (2.051, 2.060 ou 2.101 em 2009; 2.173 em 2009–2010). Não localizei o boletim final do Ministério da Saúde.",
+  "lula2/crise aérea: a página do Senado documenta a CPI (concluída em 31/10/2007; o voto em separado virou o relatório final). Os 199 mortos do voo TAM 3054 não estão nessa página (estão no relatório do CENIPA).",
+  "dilma1/Mais Médicos: o número é de estudo acadêmico com base de dados do MS (14.168). Apresentação do MS ao Senado cita 14.462 médicos em 3.785 municípios.",
+  "lula1/Mensalão: há divergência entre 25 de 37 e 25 de 38 réus. Nos embargos infringentes (2014), parte dos réus foi absolvida do crime de quadrilha. A página do STF é o registro processual, não uma nota-resumo.",
+  "dilma1/Lava Jato: o item descreve só o lançamento contábil auditado (2014). Condenações vieram a partir de 2015, e o STF anulou parte delas depois, por isso não foram usadas.",
+  "dilma1/Meio ambiente: ficou fora pelo limite de 4 itens. Candidato negativo: o desmatamento PRODES subiu 29% em 2013 (5.891 km², contra 4.571 km² em 2012, a menor da série).",
+  "Outros candidatos não incluídos: grau de investimento (S&P, abr/2008); Estatuto do Desarmamento (2003), com efeito causal contestado entre fontes; Lei de Cotas (2012); Comissão Nacional da Verdade (relatório em dez/2014); IPCA no teto da meta em 2011 (6,50%) e 2014 (6,41%); PIB de 0,5% em 2014.",
+  "Os painéis TerraBrasilis (PRODES) e Inep (Ideb) são páginas dinâmicas. Os valores 27.772, 7.464, 19.014 e Ideb 3,8/4,6/meta 4,2 foram confirmados em reproduções da imprensa e em tabela do Inep.",
+  "Decisão do usuário (27/10/2026): a Selic de 26,5% (Lula 1) e a pandemia de H1N1 (Lula 2) passaram de negativos para pontos neutros, com observação de contexto, para leitura de cada um."
+ ]
+}

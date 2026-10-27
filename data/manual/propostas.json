@@ -1,0 +1,2412 @@
+{
+ "gerado_em": "2026-10-27",
+ "metodo": "Levantamento feito por busca e leitura na web (WebSearch/WebFetch) entre 26 e 27/10/2026. Cada item traz a URL consultada. Fontes: planos de governo quando acessíveis (cópias publicadas por Poder360, Congresso em Foco e ABMES, porque o DivulgaCandContas do TSE bloqueou o acesso automatizado), portal da legislação do Planalto, Câmara, Congresso e imprensa (Agência Brasil, Congresso em Foco, Poder360, InfoMoney, Exame, Gazeta do Povo, Estado de Minas, CNN Brasil e outros). Itens sem fonte confirmada ficaram fora e estão em 'lacunas'. Confiança 'alta': plano oficial, ato oficial ou mais de um veículo; 'media': um único veículo. Os resumos são neutros e não avaliam cumprimento.",
+ "temas": [
+  "Economia",
+  "Emprego e renda",
+  "Programas sociais",
+  "Saúde",
+  "Educação",
+  "Segurança",
+  "Meio ambiente",
+  "Impostos",
+  "Infraestrutura",
+  "Instituições e política",
+  "Outros"
+ ],
+ "eleicoes": [
+  {
+   "ano": 2002,
+   "presidente_em_exercicio": "Fernando Henrique Cardoso (PSDB)",
+   "incumbente_candidato": false,
+   "contexto": "FHC (PSDB) cumpria o segundo mandato e não podia concorrer. O PSDB lançou José Serra (coligação Grande Aliança, PSDB-PMDB). Lula e Serra foram ao 2º turno (06/10 e 27/10/2002).",
+   "candidatos": [
+    {
+     "nome_urna": "LULA",
+     "nome": "Luiz Inácio Lula da Silva",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Meta de criação de 10 milhões de empregos.",
+       "fonte": "https://www.tribunapr.com.br/noticias/brasil/serra-promete-criar-8-milhoes-de-empregos-em-4-anos/",
+       "fonte_nome": "Tribuna PR (01/08/2002); também citado em Congresso em Foco (29/08/2006)",
+       "confianca": "alta",
+       "id": "2002-13-t1-1"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Dobrar o poder de compra do salário mínimo ao longo dos quatro anos de mandato.",
+       "fonte": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/texto/345934",
+       "fonte_nome": "Senado Federal - pronunciamento (30/04/2004) que cita o programa de governo",
+       "confianca": "media",
+       "id": "2002-13-t1-2"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Combate à fome com ações integradas (Fome Zero): apoio à agricultura familiar, complementação de renda e ampliação da merenda escolar.",
+       "fonte": "https://www.camara.leg.br/radio/programas/267330-especial---programa-fome-zero-----08--41---",
+       "fonte_nome": "Rádio Câmara - Reportagem Especial",
+       "confianca": "media",
+       "id": "2002-13-t1-3"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Reforma tributária: fim da cumulatividade de PIS, Cofins e CPMF, ICMS transformado em IVA, desoneração de exportações e tributação de fortunas e heranças.",
+       "fonte": "https://www.infomoney.com.br/?p=81340",
+       "fonte_nome": "InfoMoney - Programa de Governo Lula (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-13-t1-4"
+      },
+      {
+       "tema": "Outros",
+       "proposta": "Assentar 500 mil famílias na reforma agrária.",
+       "fonte": "https://www.infomoney.com.br/?p=81340",
+       "fonte_nome": "InfoMoney - Programa de Governo Lula (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-13-t1-5"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Criar o Ministério das Cidades e universalizar o saneamento básico com recursos do FGTS e do FAT.",
+       "fonte": "https://www.infomoney.com.br/?p=81340",
+       "fonte_nome": "InfoMoney - Programa de Governo Lula (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-13-t1-6"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Congelar as negociações da Alca e fortalecer o Mercosul, com aproximação de China, Índia e África do Sul.",
+       "fonte": "https://www.infomoney.com.br/?p=81340",
+       "fonte_nome": "InfoMoney - Programa de Governo Lula (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-13-t1-7"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Carta ao Povo Brasileiro (22/06/2002, antes do 1º turno): respeito aos contratos, preservação do superávit primário e combate à inflação.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/51364/lula-quer-fazer-nova-carta-aos-brasileiros-veja-a-integra-da-primeira",
+       "fonte_nome": "Congresso em Foco (íntegra da carta)",
+       "confianca": "media",
+       "id": "2002-13-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "JOSÉ SERRA",
+     "nome": "José Serra",
+     "partido": "PSDB",
+     "numero": 45,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Criar 8 milhões de empregos em quatro anos, com crescimento médio de 4,5% ao ano.",
+       "fonte": "https://www.tribunapr.com.br/noticias/brasil/serra-promete-criar-8-milhoes-de-empregos-em-4-anos/",
+       "fonte_nome": "Tribuna PR (01/08/2002); Programa de governo José Serra (ago/2002, psdb.org.br)",
+       "confianca": "alta",
+       "id": "2002-45-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Reduzir os juros reais para cerca de 6% ao longo do mandato, mantendo as metas de inflação e o câmbio flutuante.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-2"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Elevar a 2% do PIB o gasto em pesquisa agrícola (cerca de R$ 2,5 bilhões).",
+       "fonte": "https://www.tribunapr.com.br/noticias/brasil/serra-promete-criar-8-milhoes-de-empregos-em-4-anos/",
+       "fonte_nome": "Tribuna PR (01/08/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-3"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Criar o Ministério de Comércio Exterior e uma instituição de fomento às exportações.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-4"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Eliminar a cumulatividade de PIS, Cofins e CPMF e reduzir os encargos trabalhistas.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-5"
+      },
+      {
+       "tema": "Outros",
+       "proposta": "Previdência: teto de 10 salários mínimos para aposentadorias públicas e privadas, com previdência complementar acima dele.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-6"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Fidelidade partidária, financiamento de campanha mais transparente e voto distrital para metade das cadeiras.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-7"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Implementar plenamente o SUS, ampliar o Saúde da Família e consolidar a política de genéricos.",
+       "fonte": "https://www.infomoney.com.br/?p=81339",
+       "fonte_nome": "InfoMoney - Programa de Governo José Serra (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-45-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "GAROTINHO",
+     "nome": "Anthony Garotinho",
+     "partido": "PSB",
+     "numero": 40,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Retomar o crescimento de 4% a 4,5% ao ano e combater a economia informal.",
+       "fonte": "https://www.infomoney.com.br/?p=81341",
+       "fonte_nome": "InfoMoney - Programa de Governo Anthony Garotinho (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-40-t1-1"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Construir 2 milhões de casas durante o mandato.",
+       "fonte": "https://www.infomoney.com.br/?p=81341",
+       "fonte_nome": "InfoMoney - Programa de Governo Anthony Garotinho (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-40-t1-2"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Atender em creches públicas 25% das crianças de 0 a 3 anos e 50% das de 4 a 6 anos.",
+       "fonte": "https://www.infomoney.com.br/?p=81341",
+       "fonte_nome": "InfoMoney - Programa de Governo Anthony Garotinho (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-40-t1-3"
+      },
+      {
+       "tema": "Outros",
+       "proposta": "Assentar 1 milhão de famílias na reforma agrária em quatro anos.",
+       "fonte": "https://www.infomoney.com.br/?p=81341",
+       "fonte_nome": "InfoMoney - Programa de Governo Anthony Garotinho (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-40-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "CIRO GOMES",
+     "nome": "Ciro Ferreira Gomes",
+     "partido": "PPS",
+     "numero": 23,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Construir 300 mil casas populares por ano, com foco nas periferias das grandes cidades.",
+       "fonte": "https://www.infomoney.com.br/?p=81338",
+       "fonte_nome": "InfoMoney - Programa de Governo Ciro Gomes (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-23-t1-1"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Universalizar o ensino médio em oito anos e trocar o vestibular por provas nacionais nos três anos do ensino médio.",
+       "fonte": "https://www.infomoney.com.br/?p=81338",
+       "fonte_nome": "InfoMoney - Programa de Governo Ciro Gomes (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-23-t1-2"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Criar um IVA com alíquotas maiores para bens supérfluos e um imposto único sobre propriedade no lugar de ITR, IPTU, IPVA e ITBI.",
+       "fonte": "https://www.infomoney.com.br/?p=81338",
+       "fonte_nome": "InfoMoney - Programa de Governo Ciro Gomes (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-23-t1-3"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Financiamento público das campanhas eleitorais.",
+       "fonte": "https://www.infomoney.com.br/?p=81338",
+       "fonte_nome": "InfoMoney - Programa de Governo Ciro Gomes (31/07/2002)",
+       "confianca": "media",
+       "id": "2002-23-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2002-10-08",
+     "tipo": "Liberação de recursos",
+     "ato": "MP 72/2002",
+     "descricao": "Crédito extraordinário de R$ 208 milhões para os Ministérios da Integração Nacional e de Minas e Energia.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/mpv/Quadro/_Quadro2001-2002.htm",
+     "fonte_nome": "Planalto - Quadro de MPs 2001-2002",
+     "confianca": "alta",
+     "id": "2002-gov-1"
+    },
+    {
+     "data": "2002-10-23",
+     "tipo": "Medida provisória",
+     "ato": "MP 74/2002",
+     "descricao": "Garante seguro-desemprego ao trabalhador resgatado de condição análoga à de escravo.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/mpv/Quadro/_Quadro2001-2002.htm",
+     "fonte_nome": "Planalto - Quadro de MPs 2001-2002",
+     "confianca": "alta",
+     "id": "2002-gov-2"
+    },
+    {
+     "data": "2002-10-25",
+     "tipo": "Medida provisória",
+     "ato": "MP 76/2002",
+     "descricao": "Cria a equipe de transição do candidato eleito à Presidência e os cargos em comissão correspondentes.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/mpv/Quadro/_Quadro2001-2002.htm",
+     "fonte_nome": "Planalto - Quadro de MPs 2001-2002",
+     "confianca": "alta",
+     "id": "2002-gov-3"
+    },
+    {
+     "data": "2002-10-25",
+     "tipo": "Medida provisória",
+     "ato": "MP 77/2002",
+     "descricao": "Altera leis sobre crédito rural, Fundos Constitucionais e renegociação de dívidas de mutuários.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/mpv/Quadro/_Quadro2001-2002.htm",
+     "fonte_nome": "Planalto - Quadro de MPs 2001-2002",
+     "confianca": "alta",
+     "id": "2002-gov-4"
+    }
+   ],
+   "lacunas": [
+    "Não foi encontrada fonte que relacione algum ato do governo FHC entre 06/10 e 27/10/2002 à campanha de Serra. Os atos listados são MPs do período, registradas sem essa relação. Foram omitidas a MP 73 (revoga artigo da MP 66) e a MP 75 (legislação tributária genérica).",
+    "Não foi encontrada fonte com propostas novas de Lula ou de Serra entre 06/10 e 27/10/2002.",
+    "Os textos integrais dos programas de 2002 não foram localizados em formato legível (PDFs da FPA são imagens; o PDF do programa de Serra no site do PSDB não pôde ser baixado). As propostas vêm sobretudo do resumo da InfoMoney de 31/07/2002, por isso a maioria tem confiança 'media'.",
+    "Garotinho: salário mínimo de R$ 280/R$ 400, restaurante popular e cheque-cidadão não foram confirmados como propostas de campanha.",
+    "Ciro: o nome 'Projeto Nacional de Desenvolvimento' não foi confirmado para 2002.",
+    "Nenhuma lei ordinária datada de 06/10 a 27/10/2002 foi encontrada no portal do Planalto. Decretos do período não foram verificados."
+   ]
+  },
+  {
+   "ano": 2006,
+   "presidente_em_exercicio": "Luiz Inácio Lula da Silva (PT)",
+   "incumbente_candidato": true,
+   "contexto": "Lula (PT) disputou a reeleição pela coligação A Força do Povo (PT, PRB, PCdoB). Lula e Geraldo Alckmin (PSDB-PFL) foram ao 2º turno (01/10 e 29/10/2006).",
+   "candidatos": [
+    {
+     "nome_urna": "LULA",
+     "nome": "Luiz Inácio Lula da Silva",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Crescimento de 6% do PIB a partir de 2008 e elevação da taxa de investimento a 25%.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89037/programa-de-lula-destaca-crescimento-economico",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Manter o superávit primário em 4,25% do PIB nos quatro anos e reduzir gradualmente a taxa de juros.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89037/programa-de-lula-destaca-crescimento-economico",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-2"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Ampliar os benefícios do Bolsa Família.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-3"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Continuar os aumentos reais do salário mínimo.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-4"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Universalizar o ensino fundamental de nove anos e criar um piso salarial para professores.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-5"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Reforçar a vigilância nas fronteiras e integrar União, estados e municípios no Sistema Único de Segurança Pública.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-6"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Dar prioridade à reforma política, com foco no financiamento de campanhas e na fidelidade partidária.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-7"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Mais controle social no SUS, universalização do cartão SUS e centros especializados de média complexidade.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/89023/lula-lanca-programa-de-governo-em-sao-paulo",
+       "fonte_nome": "Congresso em Foco (29/08/2006)",
+       "confianca": "media",
+       "id": "2006-13-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2006-10-13",
+       "tema": "Economia",
+       "proposta": "Super Simples para micro e pequenas empresas, estímulo à indústria naval, modernização de portos e incentivos à construção civil (horário eleitoral).",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/4315/alckmin-insiste-em-dossie-lula-faz-novas-propostas",
+       "fonte_nome": "Congresso em Foco (13/10/2006)",
+       "confianca": "media",
+       "id": "2006-13-et-1"
+      },
+      {
+       "data": "2006-10-13",
+       "tema": "Educação",
+       "proposta": "Ampliar o Prouni e implantar extensão universitária e escola técnica em cada cidade-polo do país.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/4315/alckmin-insiste-em-dossie-lula-faz-novas-propostas",
+       "fonte_nome": "Congresso em Foco (13/10/2006)",
+       "confianca": "media",
+       "id": "2006-13-et-2"
+      },
+      {
+       "data": "2006-10-13",
+       "tema": "Infraestrutura",
+       "proposta": "Recriar Sudam e Sudene, priorizar a revitalização do Rio São Francisco e fazer planos de desenvolvimento para Amazônia, Nordeste e BR-163.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/4315/alckmin-insiste-em-dossie-lula-faz-novas-propostas",
+       "fonte_nome": "Congresso em Foco (13/10/2006)",
+       "confianca": "media",
+       "id": "2006-13-et-3"
+      }
+     ]
+    },
+    {
+     "nome_urna": "GERALDO ALCKMIN",
+     "nome": "Geraldo José Rodrigues Alckmin Filho",
+     "partido": "PSDB",
+     "numero": 45,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Impostos",
+       "proposta": "Enviar ao Congresso um projeto de reforma tributária na primeira semana de governo.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/93645/alckmin-ataca-lula-e-divulga-programa-de-governo",
+       "fonte_nome": "Congresso em Foco (11/06/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-1"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Reduzir o número de ministérios.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/93645/alckmin-ataca-lula-e-divulga-programa-de-governo",
+       "fonte_nome": "Congresso em Foco (11/06/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-2"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Ajuste fiscal no 1º ano, com corte de gastos considerados supérfluos e sem aumento de impostos.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97284/alckmin-lancara-programa-de-governo-no-dia-20",
+       "fonte_nome": "Congresso em Foco (15/09/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-3"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Plano de obras de emergência, com duplicação das BR-101 e BR-116 e recuperação do sistema viário.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97284/alckmin-lancara-programa-de-governo-no-dia-20",
+       "fonte_nome": "Congresso em Foco (15/09/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-4"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Apoio a micro e pequenas empresas e geração de empregos com obras de saneamento, casas populares e urbanização de favelas.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97407/discurso-nao-muda-em-programas-eleitorais",
+       "fonte_nome": "Congresso em Foco (22/08/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-5"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Ampliar as creches, capacitar professores e estabelecer cinco horas diárias de estudo para todos os alunos.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/92738/candidatos-prometem-mais-atencao-a-educacao",
+       "fonte_nome": "Congresso em Foco (24/08/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-6"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Usar pregão eletrônico nas compras do governo, inclusive de ambulâncias.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/100828/cristovam-e-heloisa-helena-criticam-liberacao-de-verba",
+       "fonte_nome": "Congresso em Foco (30/07/2006)",
+       "confianca": "media",
+       "id": "2006-45-t1-7"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2006-10-06",
+       "tema": "Economia",
+       "proposta": "Declarou que não privatizaria Banco do Brasil, Caixa e Petrobras e que valorizaria os funcionários dessas empresas.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/3078/alckmin-lula-nao-tem-compromisso-com-a-verdade",
+       "fonte_nome": "Congresso em Foco (06/10/2006)",
+       "confianca": "media",
+       "id": "2006-45-et-1"
+      },
+      {
+       "data": "2006-10-06",
+       "tema": "Programas sociais",
+       "proposta": "Declarou que não acabaria com o Bolsa Família.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/3078/alckmin-lula-nao-tem-compromisso-com-a-verdade",
+       "fonte_nome": "Congresso em Foco (06/10/2006)",
+       "confianca": "media",
+       "id": "2006-45-et-2"
+      }
+     ]
+    },
+    {
+     "nome_urna": "HELOÍSA HELENA",
+     "nome": "Heloísa Helena Lima de Moraes Carvalho",
+     "partido": "PSOL",
+     "numero": 50,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Reduzir a taxa básica de juros de 14,25% para 6,5% e encerrar a política de superávit primário.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97331/o-receituario-antineoliberal-de-heloisa-helena",
+       "fonte_nome": "Congresso em Foco (13/09/2006)",
+       "confianca": "media",
+       "id": "2006-50-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Fazer auditoria da dívida externa e depois consultar a população sobre a continuidade do pagamento.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97331/o-receituario-antineoliberal-de-heloisa-helena",
+       "fonte_nome": "Congresso em Foco (13/09/2006)",
+       "confianca": "media",
+       "id": "2006-50-t1-2"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Isentar de tributos a cesta básica e revisar a tabela do Imposto de Renda da classe média.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97331/o-receituario-antineoliberal-de-heloisa-helena",
+       "fonte_nome": "Congresso em Foco (13/09/2006)",
+       "confianca": "media",
+       "id": "2006-50-t1-3"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Manter o Bolsa Família, associado a escola integral, esporte, cultura e capacitação profissional.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/97331/o-receituario-antineoliberal-de-heloisa-helena",
+       "fonte_nome": "Congresso em Foco (13/09/2006)",
+       "confianca": "media",
+       "id": "2006-50-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "CRISTOVAM",
+     "nome": "Cristovam Ricardo Cavalcanti Buarque",
+     "partido": "PDT",
+     "numero": 12,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Educação",
+       "proposta": "Federalizar a educação básica pública, com padrões mínimos nacionais de salário e formação de professores, prédios, equipamentos e conteúdo.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/65801/revolucao-a-moda-de-cristovam",
+       "fonte_nome": "Congresso em Foco (23/08/2006)",
+       "confianca": "media",
+       "id": "2006-12-t1-1"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Horário integral em todas as escolas, em processo de cerca de 15 anos.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/65801/revolucao-a-moda-de-cristovam",
+       "fonte_nome": "Congresso em Foco (23/08/2006)",
+       "confianca": "media",
+       "id": "2006-12-t1-2"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Lei de Responsabilidade Educacional, com metas cujo descumprimento tornaria prefeitos inelegíveis.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/65801/revolucao-a-moda-de-cristovam",
+       "fonte_nome": "Congresso em Foco (23/08/2006)",
+       "confianca": "media",
+       "id": "2006-12-t1-3"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Lei para garantir a alfabetização de toda criança até os 8 anos, com custo estimado de R$ 7 bilhões a mais por ano para a União.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/65801/revolucao-a-moda-de-cristovam",
+       "fonte_nome": "Congresso em Foco (23/08/2006)",
+       "confianca": "media",
+       "id": "2006-12-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2006-10-04",
+     "tipo": "Medida provisória",
+     "ato": "MP 324/2006",
+     "descricao": "Crédito extraordinário de R$ 1,504 bi para nove ministérios (DOU 05/10). Suspensa por liminar em 18/10; a AGU derrubou a liminar no TRF-1 em 27-28/10.",
+     "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2006/medidaprovisoria-324-4-outubro-2006-545700-norma-pe.html",
+     "fonte_nome": "Câmara - Legislação Informatizada; Congresso em Foco (05/10 e 19/10/2006)",
+     "confianca": "alta",
+     "id": "2006-gov-1"
+    },
+    {
+     "data": "2006-10-05",
+     "tipo": "Liberação de recursos",
+     "ato": "Liberação de R$ 1,5 bi (MP 324)",
+     "descricao": "Destinos: R$ 353,4 mi ao MDS (dívida com a Caixa), R$ 300 mi à Fazenda (informática) e R$ 231 mi a Transportes. O ministro do Planejamento negou relação com a eleição.",
+     "fonte": "https://www.congressoemfoco.com.br/noticia/3148/governo-libera-r-1-5-bilhoes-para-ministerios",
+     "fonte_nome": "Congresso em Foco (05/10/2006)",
+     "confianca": "media",
+     "id": "2006-gov-2"
+    },
+    {
+     "data": "2006-10-05",
+     "tipo": "Decreto",
+     "ato": "Decreto 5.925/2006",
+     "descricao": "Altera valores e anexos do Decreto 5.780, que trata da programação orçamentária e do cronograma de desembolso de 2006.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5925.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-3"
+    },
+    {
+     "data": "2006-10-05",
+     "tipo": "Lei",
+     "ato": "Lei 11.350/2006",
+     "descricao": "Regula atividades, vínculo, piso e contratação de Agentes Comunitários de Saúde e de Combate às Endemias. Conversão da MP 297/2006.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11350.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-4"
+    },
+    {
+     "data": "2006-10-11",
+     "tipo": "Lei",
+     "ato": "Lei 11.351/2006",
+     "descricao": "Crédito extraordinário de R$ 1 bilhão para garantia e sustentação de preços de produtos agropecuários. Conversão da MP 298/2006.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11351.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-5"
+    },
+    {
+     "data": "2006-10-11",
+     "tipo": "Lei",
+     "ato": "Lei 11.352/2006",
+     "descricao": "Cria cargos efetivos, de direção e funções gratificadas no MEC para novas instituições federais de ensino.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11352.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-6"
+    },
+    {
+     "data": "2006-10-11",
+     "tipo": "Medida provisória",
+     "ato": "MP 325/2006",
+     "descricao": "Crédito extraordinário de R$ 13 milhões para o Ministério da Integração Nacional. Convertida na Lei 11.389/2006.",
+     "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/79162",
+     "fonte_nome": "Congresso Nacional; Planalto - Quadro de MPs 2003-2006",
+     "confianca": "alta",
+     "id": "2006-gov-7"
+    },
+    {
+     "data": "2006-10-18",
+     "tipo": "Decreto",
+     "ato": "Decreto 5.934/2006",
+     "descricao": "Estabelece mecanismos e critérios para aplicar o art. 40 do Estatuto do Idoso (gratuidade e desconto no transporte interestadual).",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5934.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-8"
+    },
+    {
+     "data": "2006-10-19",
+     "tipo": "Lei",
+     "ato": "Lei 11.353/2006",
+     "descricao": "Crédito extraordinário de R$ 925,5 milhões para a Justiça Eleitoral e órgãos do Executivo.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11353.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-9"
+    },
+    {
+     "data": "2006-10-19",
+     "tipo": "Lei",
+     "ato": "Lei 11.354/2006",
+     "descricao": "Autoriza o pagamento de valores devidos a anistiados políticos.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11354.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-10"
+    },
+    {
+     "data": "2006-10-19",
+     "tipo": "Lei",
+     "ato": "Leis 11.355 a 11.358/2006",
+     "descricao": "Cria e reestrutura carreiras, planos de cargos e a remuneração de servidores federais. A Lei 11.357 é conversão da MP 304, de 29/06/2006.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11357.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-11"
+    },
+    {
+     "data": "2006-10-19",
+     "tipo": "Lei",
+     "ato": "Lei 11.359/2006",
+     "descricao": "Fixa os valores dos soldos dos militares das Forças Armadas.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11359.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-12"
+    },
+    {
+     "data": "2006-10-25",
+     "tipo": "Decreto",
+     "ato": "Decreto 5.940/2006",
+     "descricao": "Institui a separação de resíduos recicláveis na administração federal, com destinação a associações e cooperativas de catadores.",
+     "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5940.htm",
+     "fonte_nome": "Planalto - Portal da Legislação",
+     "confianca": "alta",
+     "id": "2006-gov-13"
+    }
+   ],
+   "lacunas": [
+    "O texto integral dos programas de 2006 (Lula, Alckmin, PSOL, PDT) não foi localizado em fonte acessível. As propostas vêm de matérias do Congresso em Foco (um único veículo), por isso têm confiança 'media'.",
+    "Alckmin no 2º turno: não foi encontrado documento formal assinado de compromisso de não privatizar, apenas a declaração de 06/10/2006.",
+    "Não foram encontrados anúncios de reajuste de benefícios (Bolsa Família, salário mínimo) entre 01/10 e 29/10/2006. As MPs 326 e 327 são de 31/10/2006, fora do período.",
+    "Várias leis de 19/10/2006 (11.353 a 11.359) parecem conversões de MPs editadas antes do período. Só foram confirmadas individualmente as Leis 11.350, 11.351 e 11.357.",
+    "MP 325/2006: o quadro do Planalto indica 11/10 e a página do Congresso indica 13/10. Foi usada 11/10.",
+    "Heloísa Helena: a meta de reforma agrária diverge entre as fontes (200 mil famílias ou 1 milhão em 4 anos) e não foi incluída."
+   ]
+  },
+  {
+   "ano": 2010,
+   "presidente_em_exercicio": "Luiz Inácio Lula da Silva (PT)",
+   "incumbente_candidato": false,
+   "contexto": "Lula cumpria o segundo mandato consecutivo e não podia disputar um terceiro. O PT lançou a ex-ministra da Casa Civil Dilma Rousseff, com apoio de Lula. Dilma e José Serra (PSDB) foram ao 2º turno (03/10 e 31/10/2010).",
+   "candidatos": [
+    {
+     "nome_urna": "DILMA",
+     "nome": "Dilma Vana Rousseff",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Programas sociais",
+       "proposta": "Erradicar a miséria absoluta, que atingia cerca de 21 milhões de pessoas, com uso de recursos do pré-sal.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2010/dilma/prometeu-tem-de-cumprir-13inz2t0unfy74otmsi085bv2",
+       "fonte_nome": "Gazeta do Povo (31/10/2010); Congresso em Foco (30/09/2014)",
+       "confianca": "alta",
+       "id": "2010-13-t1-1"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Construir 6 mil creches e pré-escolas.",
+       "fonte": "https://congressoemfoco.com.br/noticia/53708/dilma-so-cumpriu-uma-entre-dez-grandes-metas",
+       "fonte_nome": "Congresso em Foco; Gazeta do Povo (31/10/2010)",
+       "confianca": "alta",
+       "id": "2010-13-t1-2"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Elevar o gasto público em educação de cerca de 5,1% para 7% do PIB.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/educacao-e-principal-alvo-de-candidatos-a-presidencia-1ywgym128k3h9mn4vsxzmorim",
+       "fonte_nome": "Gazeta do Povo/Agência Estado (18/07/2010); Gazeta do Povo (31/10/2010)",
+       "confianca": "alta",
+       "id": "2010-13-t1-3"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Construir 500 Unidades de Pronto Atendimento (UPAs) com funcionamento 24 horas.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2010/dilma/prometeu-tem-de-cumprir-13inz2t0unfy74otmsi085bv2",
+       "fonte_nome": "Gazeta do Povo (31/10/2010)",
+       "confianca": "media",
+       "id": "2010-13-t1-4"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Construir 2 milhões de moradias e cumprir as metas do PAC 2 (incluindo PAC Cidade Melhor e PAC Comunidade Cidadã).",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2010/dilma/prometeu-tem-de-cumprir-13inz2t0unfy74otmsi085bv2",
+       "fonte_nome": "Gazeta do Povo (31/10/2010); Congresso em Foco (30/09/2014)",
+       "confianca": "alta",
+       "id": "2010-13-t1-5"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Reforma tributária para simplificar tributos e desonerar a folha de salários.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010); Gazeta do Povo/AE (05/07/2010)",
+       "confianca": "alta",
+       "id": "2010-13-t1-6"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Criar Fundo Constitucional de Segurança Pública para subsidiar piso nacional das polícias civis e militares, com foco em 'segurança cidadã'.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010); Gazeta do Povo/AE (21/08/2010)",
+       "confianca": "alta",
+       "id": "2010-13-t1-7"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2010-10-15",
+       "tema": "Instituições e política",
+       "proposta": "Carta 'Mensagem da Dilma': compromisso de não propor alterações na legislação do aborto e de não promover iniciativas que 'afrontem a família'; defesa da liberdade religiosa.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/76763/dilma-faz-carta-sobre-aborto-e-outros-temas",
+       "fonte_nome": "Congresso em Foco; Gazeta do Povo/G1 (15/10/2010)",
+       "confianca": "alta",
+       "id": "2010-13-et-1"
+      },
+      {
+       "data": "2010-10-15",
+       "tema": "Instituições e política",
+       "proposta": "Na mesma carta: sancionar o PLC 122 apenas nos artigos que não violem a liberdade de crença, culto e expressão.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2010/dilma-divulga-carta-para-por-um-fim-definitivo-a-campanha-de-calunias-17w14may38mjm4emt64xmldu6/",
+       "fonte_nome": "Gazeta do Povo/G1; Congresso em Foco (15/10/2010)",
+       "confianca": "alta",
+       "id": "2010-13-et-2"
+      }
+     ]
+    },
+    {
+     "nome_urna": "SERRA",
+     "nome": "José Serra",
+     "partido": "PSDB",
+     "numero": 45,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Segurança",
+       "proposta": "Criar o Ministério da Segurança Pública, reunindo órgãos como a Polícia Federal; reforçar fronteiras e inteligência e construir presídios, inclusive por PPPs.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2010/seguranca-ganha-destaque-na-campanha-presidencial-45bml47attl8w0y7mmxz1k4zy",
+       "fonte_nome": "Gazeta do Povo/AE (21/08/2010); Gazeta do Povo/Agência Brasil (22/08/2010)",
+       "confianca": "alta",
+       "id": "2010-45-t1-1"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Criar o '13º do Bolsa Família', pagamento extra anual aos beneficiários, e incluir mais 2 milhões de nordestinos no programa.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/71046/nos-jornais-sob-pressao-aecio-mostra-serra-na-tv",
+       "fonte_nome": "Congresso em Foco/Folha (21/09/2010); Bahia Notícias (15/10/2010)",
+       "confianca": "alta",
+       "id": "2010-45-t1-2"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Ampliar o Bolsa Família em 50% (meta de 27 milhões de pessoas), com recursos da redução do pagamento de juros.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/71446/serra-defende-ampliacao-do-bolsa-familia",
+       "fonte_nome": "Congresso em Foco (10/07/2010)",
+       "confianca": "media",
+       "id": "2010-45-t1-3"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Criar mais de 1 milhão de vagas em escolas técnicas e oferecer bolsas de ensino técnico (Protec).",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010); Gazeta do Povo/AE (18/07/2010)",
+       "confianca": "alta",
+       "id": "2010-45-t1-4"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Colocar dois professores por sala na 1ª série do ensino fundamental.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010)",
+       "confianca": "media",
+       "id": "2010-45-t1-5"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Salário mínimo de R$ 600 em 2011, financiado com corte de cargos de confiança, e reajuste de 10% para aposentados e pensionistas.",
+       "fonte": "https://interiordabahia.com.br/2010/10/11/promessas-de-serra-enchem-os-olhos-da-classe-c-e-influenciam-decisao-do-voto/",
+       "fonte_nome": "Interior da Bahia (11/10/2010); Exame (10/10 e 25/10/2010)",
+       "confianca": "media",
+       "id": "2010-45-t1-6"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "MARINA SILVA",
+     "nome": "Maria Osmarina Marina da Silva Vaz de Lima",
+     "partido": "PV",
+     "numero": 43,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Meio ambiente",
+       "proposta": "Transição para economia de baixo carbono; regulamentar a Lei de Mudanças Climáticas e criar uma Agência Nacional de Clima.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/marina-quer-aliar-meio-ambiente-e-desenvolvimento-na-mesma-equacao-0awgyzjxlmycxrifkcgyrlc26/",
+       "fonte_nome": "Gazeta do Povo/G1 (25/05/2010); Congresso em Foco (09/07/2010)",
+       "confianca": "alta",
+       "id": "2010-43-t1-1"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Elevar o investimento em educação de 5% para 7% do PIB até 2014, com escola em tempo integral e valorização do professor.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/educacao-e-principal-alvo-de-candidatos-a-presidencia-1ywgym128k3h9mn4vsxzmorim",
+       "fonte_nome": "Gazeta do Povo/AE (18/07/2010)",
+       "confianca": "media",
+       "id": "2010-43-t1-2"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Manter a política macroeconômica vigente e realizar reforma previdenciária.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010)",
+       "confianca": "media",
+       "id": "2010-43-t1-3"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Transparência da arrecadação e dos gastos de campanha na internet e controle social da gestão pública.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/77056/todas-as-propostas-dos-presidenciaveis",
+       "fonte_nome": "Congresso em Foco (09/07/2010)",
+       "confianca": "media",
+       "id": "2010-43-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2010-10-04",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.323/2010",
+     "descricao": "Eleva para 4% o IOF sobre câmbio de investidor estrangeiro nos mercados financeiro e de capitais (operações a partir de 05/10/2010).",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7323.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-1"
+    },
+    {
+     "data": "2010-10-05",
+     "tipo": "Medida provisória",
+     "ato": "MP 507/2010",
+     "descricao": "Institui sanções disciplinares para violação de sigilo fiscal e disciplina procurações para acesso a dados protegidos. Perdeu eficácia.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/mpv/507.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-2"
+    },
+    {
+     "data": "2010-10-05",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.324/2010",
+     "descricao": "Prorroga o programa Luz para Todos até 31/12/2011 para concluir ligações contratadas até 30/10/2010.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7324.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-3"
+    },
+    {
+     "data": "2010-10-08",
+     "tipo": "Liberação de recursos",
+     "ato": "MP 508/2010",
+     "descricao": "Crédito extraordinário de R$ 968,2 milhões ao Ministério da Educação (DOU 11/10/2010). Rejeitada depois pelo Congresso.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/mpv/508.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-4"
+    },
+    {
+     "data": "2010-10-13",
+     "tipo": "Medida provisória",
+     "ato": "MP 509/2010",
+     "descricao": "Altera a Lei 11.668/2008 para prorrogar contratos de franquia postal dos Correios (DOU 14/10/2010).",
+     "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/98140",
+     "fonte_nome": "Congresso Nacional",
+     "confianca": "alta",
+     "id": "2010-gov-5"
+    },
+    {
+     "data": "2010-10-18",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.330/2010",
+     "descricao": "Eleva para 6% o IOF sobre câmbio de investidor estrangeiro nos mercados financeiro e de capitais (a partir de 19/10/2010).",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7330.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-6"
+    },
+    {
+     "data": "2010-10-19",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.332/2010",
+     "descricao": "Altera o regulamento do Bolsa Família (Decreto 5.209/2004): competências do MDS, adesão de estados e municípios e apoio financeiro à gestão.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7332.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-7"
+    },
+    {
+     "data": "2010-10-20",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.337/2010",
+     "descricao": "FIES: amortização começa no 19º mês após a conclusão do curso, com parcelamento em até 3 vezes o prazo de financiamento mais 12 meses.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7337.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-8"
+    },
+    {
+     "data": "2010-10-20",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.339/2010",
+     "descricao": "Regulamenta a remissão (até R$ 10 mil) e os descontos para liquidação (até R$ 80 mil) de dívidas rurais da Lei 12.249/2010.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/d7339.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-9"
+    },
+    {
+     "data": "2010-10-21",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.340/2010",
+     "descricao": "Institui o Plano de Desenvolvimento Regional Sustentável (PDRS) do Xingu e seu Comitê Gestor.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/_decretos2010.htm",
+     "fonte_nome": "Planalto - índice de decretos 2010",
+     "confianca": "alta",
+     "id": "2010-gov-10"
+    },
+    {
+     "data": "2010-10-26",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.342/2010",
+     "descricao": "Institui cadastro socioeconômico da população atingida por empreendimentos hidrelétricos e cria comitê interministerial.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/_decretos2010.htm",
+     "fonte_nome": "Planalto - índice de decretos 2010",
+     "confianca": "alta",
+     "id": "2010-gov-11"
+    },
+    {
+     "data": "2010-10-26",
+     "tipo": "Decreto",
+     "ato": "Decreto 7.343/2010",
+     "descricao": "Regulamenta a Lei 12.114/2009, que cria o Fundo Nacional sobre Mudança do Clima (FNMC).",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/decreto/_decretos2010.htm",
+     "fonte_nome": "Planalto - índice de decretos 2010",
+     "confianca": "alta",
+     "id": "2010-gov-12"
+    },
+    {
+     "data": "2010-10-28",
+     "tipo": "Medida provisória",
+     "ato": "MP 510/2010",
+     "descricao": "Regula obrigações tributárias de consórcios e altera a MP 497/2010 (Recom, estádios). Convertida na Lei 12.402/2011.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/mpv/510.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2010-gov-13"
+    }
+   ],
+   "lacunas": [
+    "DivulgaCandContas/TSE inacessível à ferramenta (HTTP 403). Os planos de 2010 não foram obtidos e plano_governo_url ficou null.",
+    "Serra: nenhuma proposta nova no 2º turno foi confirmada com fonte. O 13º do Bolsa Família é do 1º turno (21/09/2010). O salário mínimo de R$ 600 já circulava antes do 1º turno e foi reiterado em 08/10 e 25/10/2010 (Exame), sem data de primeiro anúncio confirmada.",
+    "Não foi encontrada fonte que relacione os atos do governo Lula entre 03/10 e 31/10/2010 à campanha de Dilma. Os atos vêm dos índices do Planalto (MPs, decretos, leis). Portarias, anúncios ministeriais e liberações por portaria não foram pesquisados.",
+    "Atos menores omitidos: promulgações de acordos internacionais, criação de embaixadas (27/10), Lei 12.336/2010 (serviço militar) e Decreto 7.331/2010 (conteúdo não verificado).",
+    "Meta de 500 UPAs (Dilma 2010) com um único veículo."
+   ]
+  },
+  {
+   "ano": 2014,
+   "presidente_em_exercicio": "Dilma Rousseff (PT)",
+   "incumbente_candidato": true,
+   "contexto": "Dilma Rousseff (PT) exercia o primeiro mandato e disputou a reeleição. Foi ao 2º turno contra Aécio Neves (PSDB) (05/10 e 26/10/2014). Marina Silva (PSB), 3ª colocada, declarou apoio a Aécio em 12/10/2014.",
+   "candidatos": [
+    {
+     "nome_urna": "DILMA",
+     "nome": "Dilma Vana Rousseff",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": "https://abmes.org.br/arquivos/documentos/prog-de-governo-dilma-2014-internet1.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Instituições e política",
+       "proposta": "Reforma política com participação popular por meio de plebiscito sobre os principais temas.",
+       "fonte": "https://abmes.org.br/arquivos/documentos/prog-de-governo-dilma-2014-internet1.pdf",
+       "fonte_nome": "Programa de governo 'Mais Mudanças, Mais Futuro' (cópia ABMES); Estado de Minas (25/08/2014)",
+       "confianca": "alta",
+       "id": "2014-13-t1-1"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Pronatec 2: oferta de 12 milhões de vagas em cursos técnicos e de qualificação a partir de 2015.",
+       "fonte": "https://www.em.com.br/app/noticia/politica/2014/06/18/interna_politica,540465/dilma-2-fase-do-pronatec-oferecera-12-milhoes-de-vagas.shtml",
+       "fonte_nome": "Estado de Minas (18/06/2014); programa de governo 2014",
+       "confianca": "alta",
+       "id": "2014-13-t1-2"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Expandir o Mais Médicos e a rede de UPAs e criar o Mais Especialidades (rede de consultas e exames especializados).",
+       "fonte": "https://abmes.org.br/arquivos/documentos/prog-de-governo-dilma-2014-internet1.pdf",
+       "fonte_nome": "Programa de governo 2014 (cópia ABMES); PT (29/09/2014)",
+       "confianca": "alta",
+       "id": "2014-13-t1-3"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Criar 11,5 mil vagas de graduação em Medicina até 2017 e universalizar a residência médica até 2018.",
+       "fonte": "https://pt.org.br/plano-de-governo-para-proximo-mandato-e-concreto-diz-dilma/",
+       "fonte_nome": "PT (29/09/2014)",
+       "confianca": "media",
+       "id": "2014-13-t1-4"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Minha Casa Minha Vida 3 com pelo menos 3 milhões de novas moradias.",
+       "fonte": "https://pt.org.br/plano-de-governo-para-proximo-mandato-e-concreto-diz-dilma/",
+       "fonte_nome": "PT (29/09/2014)",
+       "confianca": "media",
+       "id": "2014-13-t1-5"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Modelo de segurança pública integrada com centros de comando e controle, com base na experiência da Copa.",
+       "fonte": "https://pt.org.br/plano-de-governo-para-proximo-mandato-e-concreto-diz-dilma/",
+       "fonte_nome": "PT (29/09/2014); Vermelho (02/10/2014)",
+       "confianca": "media",
+       "id": "2014-13-t1-6"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Criminalizar o caixa 2, permitir confisco de bens ilícitos, criar crime de enriquecimento injustificado de agente público e acelerar julgamentos.",
+       "fonte": "https://www.bnews.com.br/noticias/politica/96540-dilma-promete-tornar-crime-caixa-2-e-anuncia-outras-medidas-contra-corrupcao.html",
+       "fonte_nome": "BNews (27/09/2014)",
+       "confianca": "media",
+       "id": "2014-13-t1-7"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "AÉCIO NEVES",
+     "nome": "Aécio Neves da Cunha",
+     "partido": "PSDB",
+     "numero": 45,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Autonomia operacional do Banco Central; levar a inflação ao centro da meta (4,5%) e depois reduzir a meta para 3% em 2 a 3 anos.",
+       "fonte": "https://exame.com/brasil/programa-de-aecio-promete-reduzir-meta-de-inflacao-a-3/",
+       "fonte_nome": "Exame/Reuters (03/10/2014); Gazeta do Povo/Agência Brasil (18/09/2014)",
+       "confianca": "alta",
+       "id": "2014-45-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Superávit primário suficiente para reduzir gradualmente as dívidas líquida e bruta em relação ao PIB, contabilizando todas as despesas e desonerações.",
+       "fonte": "https://exame.com/brasil/programa-de-aecio-promete-reduzir-meta-de-inflacao-a-3/",
+       "fonte_nome": "Exame/Reuters (03/10/2014); Gazeta do Povo/Agência Brasil (18/09/2014)",
+       "confianca": "alta",
+       "id": "2014-45-t1-2"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Reduzir à metade o número de ministérios (então 39) e cortar cargos comissionados de livre nomeação.",
+       "fonte": "https://exame.com/brasil/programa-de-aecio-nao-detalha-corte-de-pastas/",
+       "fonte_nome": "Exame (01/10/2014 e 23/09/2014)",
+       "confianca": "media",
+       "id": "2014-45-t1-3"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Transformar o Bolsa Família em política de Estado por lei e classificar as famílias beneficiárias em cinco níveis de carência.",
+       "fonte": "https://exame.com/brasil/no-facebook-aecio-defende-superacao-da-pobreza/",
+       "fonte_nome": "Exame (23/09/2014); Estado de Minas (18/05/2014)",
+       "confianca": "alta",
+       "id": "2014-45-t1-4"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Manter os programas Mais Médicos e Ciência sem Fronteiras.",
+       "fonte": "https://exame.com/brasil/no-facebook-aecio-defende-superacao-da-pobreza/",
+       "fonte_nome": "Exame (23/09/2014)",
+       "confianca": "media",
+       "id": "2014-45-t1-5"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Corrigir a tabela do Imposto de Renda pela inflação e simplificar o sistema tributário.",
+       "fonte": "https://exame.com/brasil/no-facebook-aecio-defende-superacao-da-pobreza/",
+       "fonte_nome": "Exame (23/09/2014); Estado de Minas (18/05/2014)",
+       "confianca": "alta",
+       "id": "2014-45-t1-6"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2014-10-11",
+       "tema": "Instituições e política",
+       "proposta": "Compromisso com o fim da reeleição para cargos executivos, em documento lido em Recife em resposta às propostas de Marina Silva.",
+       "fonte": "https://www.em.com.br/app/noticia/politica/2014/10/12/interna_politica,578917/marina-silva-declara-apoio-a-aecio-neves-no-segundo-turno.shtml",
+       "fonte_nome": "Estado de Minas; Congresso em Foco (12/10/2014)",
+       "confianca": "alta",
+       "id": "2014-45-et-1"
+      },
+      {
+       "data": "2014-10-11",
+       "tema": "Outros",
+       "proposta": "Manter com o Poder Executivo a prerrogativa de demarcar terras indígenas.",
+       "fonte": "https://congressoemfoco.com.br/noticia/62290/marina-silva-anuncia-apoio-a-aecio-neves",
+       "fonte_nome": "Congresso em Foco; Estado de Minas (12/10/2014)",
+       "confianca": "alta",
+       "id": "2014-45-et-2"
+      },
+      {
+       "data": "2014-10-11",
+       "tema": "Meio ambiente",
+       "proposta": "Compromisso com desmatamento zero, políticas para unidades de conservação e transição para economia de baixo carbono.",
+       "fonte": "https://www.em.com.br/app/noticia/politica/2014/10/12/interna_politica,578917/marina-silva-declara-apoio-a-aecio-neves-no-segundo-turno.shtml",
+       "fonte_nome": "Estado de Minas (12/10/2014)",
+       "confianca": "media",
+       "id": "2014-45-et-3"
+      }
+     ]
+    },
+    {
+     "nome_urna": "MARINA SILVA",
+     "nome": "Maria Osmarina Marina da Silva Vaz de Lima",
+     "partido": "PSB",
+     "numero": 40,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Independência do Banco Central, câmbio livre e metas de inflação; criar um Conselho de Responsabilidade Fiscal.",
+       "fonte": "https://www.gazetadopovo.com.br/vida-publica/eleicoes/2014/marina-silva/veja-as-propostas-dos-candidatos-a-presidencia-para-a-economia-edrvbfjja3sjhbacc97eb65am",
+       "fonte_nome": "Gazeta do Povo/Agência Brasil (18/09/2014); Jornal do Brasil (29/08/2014)",
+       "confianca": "alta",
+       "id": "2014-40-t1-1"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Fim da reeleição e adoção de mandato de cinco anos.",
+       "fonte": "https://www.jb.com.br/eleicoes-2014/noticias/2014/08/29/amp/marina-silva-lanca-programa-de-governo-com-seis-eixos-principais.html",
+       "fonte_nome": "Jornal do Brasil (29/08/2014)",
+       "confianca": "media",
+       "id": "2014-40-t1-2"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Passe livre financiado pela União para estudantes de baixa renda, começando por alunos da rede pública e de cursos do ProUni e Fies.",
+       "fonte": "https://www.jb.com.br/eleicoes-2014/noticias/2014/08/29/amp/marina-silva-lanca-programa-de-governo-com-seis-eixos-principais.html",
+       "fonte_nome": "Jornal do Brasil (29/08/2014)",
+       "confianca": "media",
+       "id": "2014-40-t1-3"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Vincular 10% da receita corrente bruta da União à saúde e construir 100 hospitais regionais e 50 maternidades.",
+       "fonte": "https://www.jb.com.br/eleicoes-2014/noticias/2014/08/29/amp/marina-silva-lanca-programa-de-governo-com-seis-eixos-principais.html",
+       "fonte_nome": "Jornal do Brasil (29/08/2014)",
+       "confianca": "media",
+       "id": "2014-40-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2014-10-07",
+     "tipo": "Medida provisória",
+     "ato": "MP 656/2014",
+     "descricao": "Zera PIS/Cofins sobre partes de aerogeradores, prorroga benefícios e trata de LIG, registros públicos e ITR (DOU 08/10/2014). Convertida na Lei 13.097/2015.",
+     "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/118627",
+     "fonte_nome": "Congresso Nacional; Planalto",
+     "confianca": "alta",
+     "id": "2014-gov-1"
+    },
+    {
+     "data": "2014-10-07",
+     "tipo": "Decreto",
+     "ato": "Decreto 8.325/2014",
+     "descricao": "Inclui entre as operações com IOF-crédito zero as do BNDES, da Finep e o financiamento de rodovias e ferrovias concedidas (DOU 08/10/2014).",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8325.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2014-gov-2"
+    },
+    {
+     "data": "2014-10-13",
+     "tipo": "Medida provisória",
+     "ato": "MP 657/2014",
+     "descricao": "Torna o cargo de diretor-geral da Polícia Federal privativo de delegado de classe especial e reorganiza a carreira (DOU 14/10/2014). Convertida na Lei 13.047/2014.",
+     "fonte": "https://www2.camara.leg.br/legin/fed/medpro/2014/medidaprovisoria-657-13-outubro-2014-779428-norma-pe.html",
+     "fonte_nome": "Câmara dos Deputados - Legin; Congresso em Foco",
+     "confianca": "alta",
+     "id": "2014-gov-3"
+    },
+    {
+     "data": "2014-10-13",
+     "tipo": "Decreto",
+     "ato": "Decreto 8.326/2014",
+     "descricao": "Altera regras de autorização de concursos (Decreto 6.944/2009): atos da carreira da PF passam ao diretor-geral, com manifestação prévia do Planejamento.",
+     "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8326.htm",
+     "fonte_nome": "Planalto - Legislação",
+     "confianca": "alta",
+     "id": "2014-gov-4"
+    }
+   ],
+   "lacunas": [
+    "DivulgaCandContas/TSE inacessível (403). O plano de Dilma 2014 vem de cópia hospedada pela ABMES, não do TSE. Os planos de Aécio e Marina não foram obtidos.",
+    "Dilma: nenhuma proposta nova entre os turnos foi confirmada. Segundo a Agência Brasil (09/10/2014), na primeira propaganda do 2º turno ela reapresentou propostas de saúde, educação, segurança, corrupção e reforma política: https://agenciabrasil.ebc.com.br/politica/noticia/2014-10/na-primeira-propaganda-dilma-destaca-propostas-e-aecio-lembra-desejo-de",
+    "Aécio: o documento de 11/10/2014 também citou o Bolsa Família em lei, mas a proposta já existia no 1º turno e não entrou como nova. O termo 'choque de gestão' não foi encontrado em fonte de 2014.",
+    "Nenhuma lei ordinária foi sancionada entre 05/10 e 26/10/2014, segundo o índice do Planalto (Lei 13.033 de 24/09; Lei 13.034 de 28/10). A MP 658 é de 29/10, fora da janela. Foram omitidos decretos de execução de acordos (8.322 a 8.324) e o Decreto 8.327 (promulgação de convenção da ONU).",
+    "Anúncios e liberações de recursos por portaria entre 05/10 e 26/10/2014 não foram encontrados.",
+    "Marina 2014: fim da reeleição, passe livre e saúde com fonte única (Jornal do Brasil)."
+   ]
+  },
+  {
+   "ano": 2018,
+   "presidente_em_exercicio": "Michel Temer (MDB)",
+   "incumbente_candidato": false,
+   "contexto": "Michel Temer (MDB) não concorreu. O MDB lançou Henrique Meirelles, que não chegou ao 2º turno, e declarou neutralidade no 2º turno, com a concordância de Temer (11/10/2018). Fernando Haddad substituiu Lula como candidato do PT em 11/09/2018, depois que o TSE barrou a candidatura de Lula.",
+   "candidatos": [
+    {
+     "nome_urna": "JAIR BOLSONARO",
+     "nome": "Jair Messias Bolsonaro",
+     "partido": "PSL",
+     "numero": 17,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Instituições e política",
+       "proposta": "Criar um Ministério da Economia que reúna Fazenda, Planejamento, Indústria e Comércio e a Secretaria do PPI, com Banco Central formalmente independente.",
+       "fonte": "https://www.infomoney.com.br/mercados/politica/noticia/7571300/em-plano-de-governo-bolsonaro-propoe-superministerio-da-economia-e-nova-carteira-de-trabalho",
+       "fonte_nome": "InfoMoney (14/08/2018); Money Times/Agência Brasil",
+       "confianca": "alta",
+       "id": "2018-17-t1-1"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Governar com no máximo 15 ministérios.",
+       "fonte": "https://www.em.com.br/app/noticia/politica/2018/10/05/interna_politica,994655/bolsonaro-diz-que-se-eleito-governo-tera-no-maximo-15-ministerios.shtml",
+       "fonte_nome": "Estado de Minas (05/10/2018); Poder360",
+       "confianca": "alta",
+       "id": "2018-17-t1-2"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Programa de privatizações, concessões e venda de imóveis da União, com os recursos usados para reduzir a dívida pública em 20%.",
+       "fonte": "https://www.moneytimes.com.br/o-que-bolsonaro-e-haddad-propoem-para-a-economia/",
+       "fonte_nome": "Money Times/Agência Brasil; InfoMoney",
+       "confianca": "alta",
+       "id": "2018-17-t1-3"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Criar a carteira de trabalho verde e amarela, opcional para jovens, em que o contrato individual prevalece sobre a CLT, mantidos os direitos constitucionais.",
+       "fonte": "https://www.infomoney.com.br/mercados/politica/noticia/7571300/em-plano-de-governo-bolsonaro-propoe-superministerio-da-economia-e-nova-carteira-de-trabalho",
+       "fonte_nome": "InfoMoney; Money Times/Agência Brasil",
+       "confianca": "alta",
+       "id": "2018-17-t1-4"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Alterar o Estatuto do Desarmamento para facilitar o acesso dos cidadãos a armas de fogo.",
+       "fonte": "https://www.infomoney.com.br/mercados/politica/noticia/7571300/em-plano-de-governo-bolsonaro-propoe-superministerio-da-economia-e-nova-carteira-de-trabalho",
+       "fonte_nome": "InfoMoney",
+       "confianca": "media",
+       "id": "2018-17-t1-5"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Reforma da Previdência com transição para regime de capitalização em contas individuais.",
+       "fonte": "https://www.moneytimes.com.br/o-que-bolsonaro-e-haddad-propoem-para-a-economia/",
+       "fonte_nome": "Money Times/Agência Brasil; InfoMoney; Capital Aberto",
+       "confianca": "alta",
+       "id": "2018-17-t1-6"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Manter o Bolsa Família e instituir uma renda mínima para todas as famílias, em valor acima do benefício atual.",
+       "fonte": "https://www.infomoney.com.br/mercados/politica/noticia/7571300/em-plano-de-governo-bolsonaro-propoe-superministerio-da-economia-e-nova-carteira-de-trabalho",
+       "fonte_nome": "InfoMoney; Money Times/Agência Brasil",
+       "confianca": "alta",
+       "id": "2018-17-t1-7"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Unificar e reduzir tributos federais; o assessor Paulo Guedes defendeu alíquota única de 20% no IR para quem ganha acima de cinco salários mínimos.",
+       "fonte": "https://www.moneytimes.com.br/o-que-bolsonaro-e-haddad-propoem-para-a-economia/",
+       "fonte_nome": "Money Times/Agência Brasil",
+       "confianca": "media",
+       "id": "2018-17-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2018-10-10",
+       "tema": "Programas sociais",
+       "proposta": "Anuncia que incluirá no plano de governo o pagamento de um 13º aos beneficiários do Bolsa Família, custeado pelo combate a fraudes no programa.",
+       "fonte": "https://www.congressoemfoco.com.br/eleicoes/antigo-critico-do-programa-bolsonaro-agora-promete-13o-para-o-bolsa-familia/",
+       "fonte_nome": "Congresso em Foco; Tribuna PR",
+       "confianca": "alta",
+       "id": "2018-17-et-1"
+      }
+     ]
+    },
+    {
+     "nome_urna": "FERNANDO HADDAD",
+     "nome": "Fernando Haddad",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Revogar a Emenda Constitucional 95 (teto de gastos).",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-1"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Revogar a reforma trabalhista e substituí-la por um Estatuto do Trabalho elaborado de forma negociada.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-2"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Isentar de IR quem ganha até cinco salários mínimos (R$ 4.770), com alíquotas maiores nas rendas mais altas.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-3"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Tributar lucros e dividendos e substituir gradualmente os impostos indiretos por um IVA, mantendo a carga tributária líquida estável.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-4"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Programa Salário Mínimo Forte: reajuste pelo INPC do ano anterior mais a variação do PIB de dois anos antes, quando positiva.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-5"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Criar o programa Meu Emprego de Novo, com prioridade para jovens e retomada de obras.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-6"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Suspender a privatização de empresas estratégicas e rever o modelo de exploração do pré-sal.",
+       "fonte": "https://www.moneytimes.com.br/o-que-bolsonaro-e-haddad-propoem-para-a-economia/",
+       "fonte_nome": "Money Times/Agência Brasil",
+       "confianca": "alta",
+       "id": "2018-13-t1-7"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Fortalecer BNDES, Banco do Brasil e Caixa e tributar os bancos de forma progressiva, com alíquotas menores para quem oferecer crédito mais barato.",
+       "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2018-10/programa-de-governo-de-haddad-preve-revogacao-de-medidas-de-temer",
+       "fonte_nome": "Agência Brasil; Money Times",
+       "confianca": "alta",
+       "id": "2018-13-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2018-10-18",
+       "tema": "Instituições e política",
+       "proposta": "Novo plano registrado no TSE retira a proposta de um novo processo constituinte; mandatos para ministros do STF passam a ser apenas tema de debate.",
+       "fonte": "https://istoedinheiro.com.br/haddad-formaliza-recuos-em-novo-plano-de-governo",
+       "fonte_nome": "IstoÉ Dinheiro/Estadão; Exame",
+       "confianca": "alta",
+       "id": "2018-13-et-1"
+      },
+      {
+       "data": "2018-10-18",
+       "tema": "Segurança",
+       "proposta": "Novo plano prevê maior protagonismo da Polícia Federal no combate ao crime organizado.",
+       "fonte": "https://istoedinheiro.com.br/haddad-formaliza-recuos-em-novo-plano-de-governo",
+       "fonte_nome": "IstoÉ Dinheiro/Estadão",
+       "confianca": "media",
+       "id": "2018-13-et-2"
+      },
+      {
+       "data": "2018-10-18",
+       "tema": "Educação",
+       "proposta": "Novo plano inclui a proposta de a União assumir a administração de escolas de ensino médio.",
+       "fonte": "https://istoedinheiro.com.br/haddad-formaliza-recuos-em-novo-plano-de-governo",
+       "fonte_nome": "IstoÉ Dinheiro/Estadão",
+       "confianca": "media",
+       "id": "2018-13-et-3"
+      },
+      {
+       "data": "2018-10-18",
+       "tema": "Economia",
+       "proposta": "Novo plano inclui compromisso com reformas estruturais para o equilíbrio fiscal e mantém a revogação do teto de gastos.",
+       "fonte": "https://istoedinheiro.com.br/haddad-formaliza-recuos-em-novo-plano-de-governo",
+       "fonte_nome": "IstoÉ Dinheiro/Estadão",
+       "confianca": "media",
+       "id": "2018-13-et-4"
+      }
+     ]
+    },
+    {
+     "nome_urna": "CIRO GOMES",
+     "nome": "Ciro Ferreira Gomes",
+     "partido": "PDT",
+     "numero": 12,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Programas sociais",
+       "proposta": "Renegociar dívidas de pessoas negativadas: bancos públicos comprariam com desconto dívidas com bancos privados e ofereceriam novo acordo para limpar o nome no SPC/Serasa.",
+       "fonte": "https://moneytimes.com.br/ciro-gomes-e-os-riscos-de-tirar-milhoes-do-spc-com-subsidio-do-governo-federal/",
+       "fonte_nome": "Money Times (coluna, 29/08/2018)",
+       "confianca": "media",
+       "id": "2018-12-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Revogar o teto de gastos e a reforma trabalhista aprovados no governo Temer.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/27846/ciro-critica-bolsonaro-diz-que-vai-revogar-medidas-de-temer-e-sinaliza-dialogo-com-tucanos",
+       "fonte_nome": "Congresso em Foco (21/05/2018)",
+       "confianca": "media",
+       "id": "2018-12-t1-2"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Criar um IVA, cobrar 0,38% sobre movimentações financeiras acima de R$ 3 mil a R$ 4 mil e cortar 15% das desonerações, exceto na Zona Franca de Manaus.",
+       "fonte": "https://capitalaberto.com.br/economia-e-financas/2018/09/o-que-esperar-proximo-presidente",
+       "fonte_nome": "Capital Aberto",
+       "confianca": "media",
+       "id": "2018-12-t1-3"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Previdência com pensão mínima universal, idades mínimas diferenciadas e capitalização para benefícios acima de 3,5 salários mínimos.",
+       "fonte": "https://capitalaberto.com.br/economia-e-financas/2018/09/o-que-esperar-proximo-presidente",
+       "fonte_nome": "Capital Aberto",
+       "confianca": "media",
+       "id": "2018-12-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "GERALDO ALCKMIN",
+     "nome": "Geraldo José Rodrigues Alckmin Filho",
+     "partido": "PSDB",
+     "numero": 45,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Zerar o déficit fiscal em dois anos.",
+       "fonte": "https://www.poder360.com.br/brasil/alckmin-divulga-plano-de-governo-preliminar/",
+       "fonte_nome": "Poder360 (10/08/2018)",
+       "confianca": "media",
+       "id": "2018-45-t1-1"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Criar um IVA no lugar de tributos sobre consumo e reduzir o IR das empresas e a CSLL.",
+       "fonte": "https://capitalaberto.com.br/economia-e-financas/2018/09/o-que-esperar-proximo-presidente",
+       "fonte_nome": "Capital Aberto; JB; Congresso em Foco",
+       "confianca": "alta",
+       "id": "2018-45-t1-2"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Implantar o voto distrital e reduzir o número de ministérios e de partidos.",
+       "fonte": "https://www.poder360.com.br/brasil/alckmin-divulga-plano-de-governo-preliminar/",
+       "fonte_nome": "Poder360 (10/08/2018)",
+       "confianca": "media",
+       "id": "2018-45-t1-3"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Fazer privatizações, mantendo Banco do Brasil e Petrobras como um todo fora da venda.",
+       "fonte": "https://capitalaberto.com.br/economia-e-financas/2018/09/o-que-esperar-proximo-presidente",
+       "fonte_nome": "Capital Aberto",
+       "confianca": "media",
+       "id": "2018-45-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [],
+   "lacunas": [
+    "Não foi encontrado ato do governo Temer entre 07/10 e 28/10/2018 em favor de um dos finalistas. O MDB declarou neutralidade no 2º turno, com a concordância de Temer (Congresso em Foco, 11/10/2018: https://www.congressoemfoco.com.br/eleicoes/mdb-decide-manter-neutralidade-no-segundo-turno/). Por isso a lista está vazia.",
+    "Não foi possível abrir as íntegras dos planos de governo de 2018 no TSE/DivulgaCandContas. As propostas vêm da imprensa e plano_governo_url ficou null.",
+    "Haddad: as fontes que descrevem o plano (Agência Brasil, 21/10; Money Times, 22/10/2018) foram publicadas depois do 1º turno, mas tratam do programa registrado antes dele.",
+    "Bolsonaro: a isenção de IR até 5 salários mínimos não foi confirmada como texto do plano; só a alíquota única de 20% acima de 5 SM, atribuída a Paulo Guedes.",
+    "Ciro: a proposta do SPC tem uma única fonte aberta, uma coluna. O nome oficial 'Nome Limpo' não foi confirmado.",
+    "Não confirmados: declarações de Bolsonaro e Haddad descartando nova Constituinte no 2º turno (sites com bloqueio 403) e reajuste do Bolsa Família proposto por Haddad no 2º turno."
+   ]
+  },
+  {
+   "ano": 2022,
+   "presidente_em_exercicio": "Jair Bolsonaro (PL)",
+   "incumbente_candidato": true,
+   "contexto": "Jair Bolsonaro (PL) disputou a reeleição e foi ao 2º turno contra Lula (PT) (02/10 e 30/10/2022). Simone Tebet (MDB), terceira colocada, declarou apoio a Lula em 05/10/2022.",
+   "candidatos": [
+    {
+     "nome_urna": "LULA",
+     "nome": "Luiz Inácio Lula da Silva",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": "https://static.poder360.com.br/2022/06/DOCUMENTO-DIRETRIZES-PROGRAMATICAS-VAMOS-JUNTOS-PELO-BRASIL-20.06.22.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Economia",
+       "proposta": "Revogar o teto de gastos e rever o regime fiscal.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-das-diretrizes-do-programa-de-lula/",
+       "fonte_nome": "Poder360 (diretrizes, 21/06/2022); O Povo; Politize",
+       "confianca": "alta",
+       "id": "2022-13-t1-1"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Retomar a política de valorização do salário mínimo para recuperar o poder de compra.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-das-diretrizes-do-programa-de-lula/",
+       "fonte_nome": "Poder360 (diretrizes); CUT",
+       "confianca": "alta",
+       "id": "2022-13-t1-2"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Recriar o Bolsa Família com piso de R$ 600 e adicional de R$ 150 por criança de até 6 anos (anunciado em 28/08/2022).",
+       "fonte": "https://concursosnobrasil.com/beneficios-sociais/2022/08/31/auxilio-brasil-de-pelo-menos-r-750-pode-se-tornar-realidade-em-2023",
+       "fonte_nome": "Concursos no Brasil; Gazeta de S. Paulo",
+       "confianca": "alta",
+       "id": "2022-13-t1-3"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Ampliar a faixa de isenção do IR para quem ganha até R$ 5 mil por mês e tributar lucros e dividendos (entrevista de 17/08/2022).",
+       "fonte": "https://www.metropoles.com/brasil/eleicoes-2022/lula-fala-em-isencao-do-imposto-de-renda-abaixo-dos-r-5-mil",
+       "fonte_nome": "Metrópoles",
+       "confianca": "media",
+       "id": "2022-13-t1-4"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Renegociar dívidas de famílias; para dívidas não bancárias, o programa 'Desenrola, Brasil' teria fundo garantidor federal.",
+       "fonte": "https://www.suno.com.br/noticias/dividas-propostas-lula-bolsonaro-ciro-tebet/amp/",
+       "fonte_nome": "Suno (14/09/2022); Poder360 (25/08/2022)",
+       "confianca": "alta",
+       "id": "2022-13-t1-5"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Nova legislação trabalhista com proteção social, revogando pontos da reforma de 2017 e restabelecendo o acesso gratuito à Justiça do Trabalho.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-das-diretrizes-do-programa-de-lula/",
+       "fonte_nome": "Poder360 (diretrizes); Politize",
+       "confianca": "alta",
+       "id": "2022-13-t1-6"
+      },
+      {
+       "tema": "Meio ambiente",
+       "proposta": "Combater o desmatamento ilegal e buscar o desmatamento líquido zero, com recomposição de áreas degradadas.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-das-diretrizes-do-programa-de-lula/",
+       "fonte_nome": "Poder360 (diretrizes); Politize",
+       "confianca": "alta",
+       "id": "2022-13-t1-7"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Fortalecer o SUS e retomar os programas Mais Médicos e Farmácia Popular.",
+       "fonte": "https://www.politize.com.br/propostas-dos-presidenciaveis/",
+       "fonte_nome": "Politize (31/08/2022)",
+       "confianca": "media",
+       "id": "2022-13-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2022-10-19",
+       "tema": "Instituições e política",
+       "proposta": "Carta aos evangélicos: compromisso de não restringir a liberdade de culto e pregação; afirma que o tema do aborto cabe ao Congresso, não ao presidente.",
+       "fonte": "https://www.opovo.com.br/eleicoes-2022/2022/10/19/em-carta-a-evangelicos-lula-critica-uso-eleitoral-da-fe-e-reforca-ser-contra-o-aborto-leia-na-integra.html",
+       "fonte_nome": "O Povo; Congresso em Foco; Poder360 (íntegra)",
+       "confianca": "alta",
+       "id": "2022-13-et-1"
+      },
+      {
+       "data": "2022-10-27",
+       "tema": "Economia",
+       "proposta": "Carta para o Brasil do Amanhã: política fiscal com regras claras e realistas e compromissos plurianuais, sem indicar o instrumento.",
+       "fonte": "https://congressoemfoco.com.br/noticia/10911/em-carta-lula-se-compromete-com-responsabilidade-social-e-fiscal-confira-na-integra",
+       "fonte_nome": "Congresso em Foco; CNN Brasil; InfoMoney",
+       "confianca": "alta",
+       "id": "2022-13-et-2"
+      },
+      {
+       "data": "2022-10-27",
+       "tema": "Educação",
+       "proposta": "Carta incorpora propostas de Simone Tebet: poupança para estudantes do ensino médio e apoio às prefeituras para zerar o déficit de vagas em creches.",
+       "fonte": "https://www.cnnbrasil.com.br/politica/a-3-dias-da-eleicao-lula-lanca-carta-com-propostas/",
+       "fonte_nome": "CNN Brasil; Mais Goiás",
+       "confianca": "alta",
+       "id": "2022-13-et-3"
+      },
+      {
+       "data": "2022-10-27",
+       "tema": "Meio ambiente",
+       "proposta": "Carta inclui metas associadas a Marina Silva: desmatamento zero na Amazônia e emissão zero de gases de efeito estufa na matriz elétrica.",
+       "fonte": "https://www.cnnbrasil.com.br/politica/a-3-dias-da-eleicao-lula-lanca-carta-com-propostas/",
+       "fonte_nome": "CNN Brasil",
+       "confianca": "media",
+       "id": "2022-13-et-4"
+      }
+     ]
+    },
+    {
+     "nome_urna": "JAIR BOLSONARO",
+     "nome": "Jair Messias Bolsonaro",
+     "partido": "PL",
+     "numero": 22,
+     "finalista": true,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Programas sociais",
+       "proposta": "Manter o Auxílio Brasil em R$ 600 a partir de janeiro de 2023.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-do-plano-de-governo-de-bolsonaro/",
+       "fonte_nome": "Poder360; Jornal de Brasília/Folhapress; Politize",
+       "confianca": "alta",
+       "id": "2022-22-t1-1"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Corrigir a tabela do IR, com isenção para quem ganha até R$ 2.500 por mês.",
+       "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-diz-que-e-preciso-proteger-cidadaos-com-valores/",
+       "fonte_nome": "Jornal de Brasília/Folhapress; Poder360",
+       "confianca": "alta",
+       "id": "2022-22-t1-2"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Isentar do IR quem ganha até cinco salários mínimos.",
+       "fonte": "https://www.poder360.com.br/eleicoes/leia-os-principais-pontos-do-plano-de-governo-de-bolsonaro/",
+       "fonte_nome": "Poder360; O Povo",
+       "confianca": "alta",
+       "id": "2022-22-t1-3"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Fortalecer os mecanismos legais de acesso a armas de fogo e combater o crime organizado com tecnologia, como drones.",
+       "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-diz-que-e-preciso-proteger-cidadaos-com-valores/",
+       "fonte_nome": "Jornal de Brasília/Folhapress; Poder360; Politize",
+       "confianca": "alta",
+       "id": "2022-22-t1-4"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Continuar as desestatizações e as reformas tributária e administrativa.",
+       "fonte": "https://www.politize.com.br/propostas-dos-presidenciaveis/",
+       "fonte_nome": "Politize; Jornal de Brasília/Folhapress",
+       "confianca": "alta",
+       "id": "2022-22-t1-5"
+      },
+      {
+       "tema": "Meio ambiente",
+       "proposta": "Combater queimadas, incêndios florestais e desmatamento ilegal com uso de tecnologia.",
+       "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-diz-que-e-preciso-proteger-cidadaos-com-valores/",
+       "fonte_nome": "Jornal de Brasília/Folhapress; Politize",
+       "confianca": "alta",
+       "id": "2022-22-t1-6"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Manter o programa Médicos pelo Brasil e o Conecte SUS e ampliar o acesso a serviços básicos.",
+       "fonte": "https://www.politize.com.br/propostas-dos-presidenciaveis/",
+       "fonte_nome": "Politize",
+       "confianca": "media",
+       "id": "2022-22-t1-7"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Buscar a entrada do Brasil na OCDE.",
+       "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/bolsonaro-diz-que-e-preciso-proteger-cidadaos-com-valores/",
+       "fonte_nome": "Jornal de Brasília/Folhapress",
+       "confianca": "media",
+       "id": "2022-22-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2022-10-04",
+       "tema": "Programas sociais",
+       "proposta": "Promete um 13º do Auxílio Brasil para mulheres chefes de família a partir de 2023, se reeleito.",
+       "fonte": "https://www.noticiasagricolas.com.br/noticias/politica-economia/329310-reuters-bolsonaro-promete-13-salario-do-auxilio-brasil-para-mulheres-em-2023.amp.html",
+       "fonte_nome": "Reuters (via Notícias Agrícolas); InfoMoney",
+       "confianca": "alta",
+       "id": "2022-22-et-1"
+      },
+      {
+       "data": "2022-10-13",
+       "tema": "Impostos",
+       "proposta": "Promete, em Recife, ampliar a desoneração da folha de pagamentos para o setor de saúde.",
+       "fonte": "https://www.poder360.com.br/eleicoes/por-reeleicao-bolsonaro-liberou-recursos-e-prometeu-beneficios/",
+       "fonte_nome": "Poder360",
+       "confianca": "media",
+       "id": "2022-22-et-2"
+      },
+      {
+       "data": "2022-10-16",
+       "tema": "Instituições e política",
+       "proposta": "No debate da Band, assume o compromisso de não apresentar proposta para aumentar o número de ministros do STF.",
+       "fonte": "https://www.poder360.com.br/governo/nao-tera-nenhuma-proposta-diz-bolsonaro-sobre-aumentar-stf/",
+       "fonte_nome": "Poder360",
+       "confianca": "media",
+       "id": "2022-22-et-3"
+      },
+      {
+       "data": "2022-10-28",
+       "tema": "Emprego e renda",
+       "proposta": "No debate da TV Globo, afirma que o salário mínimo de 2023 seria de R$ 1.400; o PLOA 2023 previa R$ 1.302.",
+       "fonte": "https://www.correiobraziliense.com.br/politica/2022/10/5047756-em-debate-bolsonaro-diz-que-salario-minimo-sera-de-rs-1-400-em-2023.html",
+       "fonte_nome": "Correio Braziliense; Poder360; O Povo",
+       "confianca": "alta",
+       "id": "2022-22-et-4"
+      }
+     ]
+    },
+    {
+     "nome_urna": "SIMONE TEBET",
+     "nome": "Simone Nassar Tebet",
+     "partido": "MDB",
+     "numero": 15,
+     "finalista": false,
+     "plano_governo_url": "https://static.poder360.com.br/2022/08/diretrizes_simone_tebet.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Impostos",
+       "proposta": "Aprovar a reforma tributária nos seis primeiros meses de governo, com foco em simplificação e justiça social.",
+       "fonte": "https://www.politize.com.br/propostas-dos-presidenciaveis/",
+       "fonte_nome": "Politize; O Povo",
+       "confianca": "alta",
+       "id": "2022-15-t1-1"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Renda mínima com piso de R$ 600 e lei de responsabilidade social com metas de redução da pobreza.",
+       "fonte": "https://www.poder360.com.br/eleicoes/plano-de-tebet-promete-erradicar-miseria-fome-e-analfabetismo/",
+       "fonte_nome": "Poder360 (15/08/2022); Suno",
+       "confianca": "alta",
+       "id": "2022-15-t1-2"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Poupança de cerca de R$ 3.000 para jovens que concluírem o ensino médio (Poupança Mais Educação).",
+       "fonte": "https://www.poder360.com.br/eleicoes/plano-de-tebet-promete-erradicar-miseria-fome-e-analfabetismo/",
+       "fonte_nome": "Poder360; Politize",
+       "confianca": "alta",
+       "id": "2022-15-t1-3"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Mutirão para zerar filas de exames e cirurgias acumuladas na pandemia e elevar a participação da União no financiamento do SUS.",
+       "fonte": "https://www.poder360.com.br/eleicoes/plano-de-tebet-promete-erradicar-miseria-fome-e-analfabetismo/",
+       "fonte_nome": "Poder360; Politize",
+       "confianca": "alta",
+       "id": "2022-15-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "CIRO GOMES",
+     "nome": "Ciro Ferreira Gomes",
+     "partido": "PDT",
+     "numero": 12,
+     "finalista": false,
+     "plano_governo_url": null,
+     "propostas_1turno": [
+      {
+       "tema": "Programas sociais",
+       "proposta": "Programa de renda mínima com média de R$ 1.000 por família, para cerca de 60 milhões de pessoas, com custo estimado de R$ 170 bilhões por ano.",
+       "fonte": "https://www.poder360.com.br/eleicoes/ciro-gomes-propoe-renda-minima-de-r-1-000-por-familia/",
+       "fonte_nome": "Poder360 (10/08/2022); IstoÉ Dinheiro",
+       "confianca": "alta",
+       "id": "2022-12-t1-1"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Imposto sobre patrimônios acima de R$ 20 milhões e correção da tabela do IR, com faixa de isenção maior e alíquota máxima de 35%.",
+       "fonte": "https://www.poder360.com.br/eleicoes/ciro-gomes-propoe-renda-minima-de-r-1-000-por-familia/",
+       "fonte_nome": "Poder360; Politize",
+       "confianca": "alta",
+       "id": "2022-12-t1-2"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Renegociar dívidas de famílias e empresas via bancos públicos, incluindo o Fies, e criar a 'Lei da Antiganância', que limita a cobrança ao dobro do valor original.",
+       "fonte": "https://www.suno.com.br/noticias/dividas-propostas-lula-bolsonaro-ciro-tebet/amp/",
+       "fonte_nome": "Suno (14/09/2022)",
+       "confianca": "media",
+       "id": "2022-12-t1-3"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Alfabetização na idade certa, ensino fundamental em tempo integral e ensino médio profissionalizante.",
+       "fonte": "https://www.politize.com.br/propostas-dos-presidenciaveis/",
+       "fonte_nome": "Politize",
+       "confianca": "media",
+       "id": "2022-12-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2022-10-03",
+     "tipo": "Portaria",
+     "ato": "Instrução Normativa 21/2022 do Ministério da Cidadania",
+     "descricao": "Antecipa o pagamento do Auxílio Brasil de outubro, que passa a ser de 11 a 25/10 em vez de 18 a 31/10. Vale só para outubro.",
+     "fonte": "https://www.noticiasagricolas.com.br/noticias/politica-economia/329224-bolsonaro-quer-13-do-auxilio-brasil-para-mulheres-e-antecipa-caldendario-com-foco-no-2-turno.amp.html",
+     "fonte_nome": "Reuters (via Notícias Agrícolas); A Gazeta; O Povo; IstoÉ Dinheiro",
+     "confianca": "alta",
+     "id": "2022-gov-1"
+    },
+    {
+     "data": "2022-10-06",
+     "tipo": "Programa",
+     "ato": "Campanha 'Você no Azul' da Caixa",
+     "descricao": "Anunciada por Bolsonaro no Alvorada: desconto de até 90% para pessoas físicas e micro e pequenas empresas com dívidas atrasadas há mais de 360 dias, até 29/12/2022.",
+     "fonte": "https://www.opovo.com.br/noticias/economia/2022/10/07/amp/em-campanha-bolsonaro-anuncia-desconto-em-dividas-com-a-caixa.html",
+     "fonte_nome": "O Povo/Agência Estado; Brasil 61",
+     "confianca": "alta",
+     "id": "2022-gov-2"
+    },
+    {
+     "data": "2022-10-11",
+     "tipo": "Programa",
+     "ato": "Início do consignado do Auxílio Brasil na Caixa",
+     "descricao": "Empréstimo com parcela de até 40% do benefício (R$ 160), até 24 parcelas e juros de até 3,5% ao mês. Regulamentado pela Portaria MC 816, de 26/09/2022.",
+     "fonte": "https://www.poder360.com.br/economia/caixa-comeca-a-pagar-consignado-do-auxilio-brasil-nesta-3a-feira/",
+     "fonte_nome": "Poder360; Brasil 61/Agência Brasil",
+     "confianca": "alta",
+     "id": "2022-gov-3"
+    },
+    {
+     "data": "2022-10-18",
+     "tipo": "Liberação de recursos",
+     "ato": "Antecipação da 4ª parcela dos auxílios Caminhoneiro e Taxista",
+     "descricao": "Parcela de R$ 1 mil paga em 18/10 em vez de 22/10. A 5ª e a 6ª parcelas passam para 19/11 e 10/12.",
+     "fonte": "https://www.istoedinheiro.com.br/caminhoneiros-e-taxistas-recebem-auxilio-nesta-terca",
+     "fonte_nome": "IstoÉ Dinheiro; Jornal Contábil",
+     "confianca": "alta",
+     "id": "2022-gov-4"
+    }
+   ],
+   "lacunas": [
+    "Nenhuma página oficial (gov.br, DOU, Caixa) foi aberta para os atos entre turnos de 2022; a confirmação veio de vários veículos de imprensa.",
+    "Antecipação do Auxílio Brasil: o ato foi uma Instrução Normativa, classificada como 'Portaria' por não haver tipo específico na lista.",
+    "Consignado do Auxílio Brasil: regulamentado antes do 1º turno (Portaria MC 816, 26/09/2022); só o início da contratação ocorreu entre os turnos.",
+    "Não confirmados com data: liberação do FGTS futuro no Casa Verde e Amarela e aumento na liberação de verbas, citados sem data pelo Poder360.",
+    "Plano de Bolsonaro 2022: as fontes divergem sobre a isenção de IR (até R$ 2.500 ou até 5 salários mínimos). O PDF registrado no TSE não foi aberto.",
+    "O link do plano de Lula é a versão de diretrizes de 20/06/2022 publicada pelo Poder360, não a versão final registrada no TSE.",
+    "Lula, IR até R$ 5 mil: no 1º turno, uma só fonte aberta (Metrópoles, 17/08/2022). A promessa foi reiterada em 12/10/2022 e por isso não entrou como nova.",
+    "A Carta para o Brasil do Amanhã (27/10) não traz valores para IR, salário mínimo ou Bolsa Família segundo as matérias consultadas."
+   ]
+  },
+  {
+   "ano": 2026,
+   "presidente_em_exercicio": "Luiz Inácio Lula da Silva (PT)",
+   "incumbente_candidato": true,
+   "contexto": "Lula (PT) disputou a reeleição contra Flávio Bolsonaro (PL). Flávio terminou o 1º turno (04/10) à frente; no 2º turno (25/10/2026) Lula foi reeleito com 51,79% dos votos válidos, contra 48,21% de Flávio.",
+   "candidatos": [
+    {
+     "nome_urna": "LULA",
+     "nome": "Luiz Inácio Lula da Silva",
+     "partido": "PT",
+     "numero": 13,
+     "finalista": true,
+     "plano_governo_url": "https://static.congressoemfoco.com.br/2026/08/08/attachment/2026/08/08/32ce89_programa_governo_lula_2026.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Segurança",
+       "proposta": "Criar o Ministério da Segurança Pública, condicionado à aprovação da PEC da Segurança; ampliar câmeras corporais e o bloqueio de recursos de facções.",
+       "fonte": "https://congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+       "fonte_nome": "Congresso em Foco (08/08/2026); ABC do ABC (19/08/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-1"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Manter o arcabouço fiscal, implementar as etapas da reforma tributária sobre o consumo e aplicar o cashback de impostos para famílias de baixa renda.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/123519/o-que-lula-promete-fazer-se-for-reeleito-presidente",
+       "fonte_nome": "Congresso em Foco (08/08 e 23/10/2026)",
+       "confianca": "media",
+       "id": "2026-13-t1-2"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Manter a valorização real do salário mínimo e combater a pejotização fraudulenta.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Congresso em Foco (08/08/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-3"
+      },
+      {
+       "tema": "Emprego e renda",
+       "proposta": "Apoiar o fim da escala 6x1, com jornada de 40 horas semanais sem redução salarial, e regulamentar direitos de trabalhadores por aplicativos.",
+       "fonte": "https://congressoemfoco.com.br/noticia/121121/pt-registra-novo-plano-de-governo-de-lula-no-tse-veja-a-integra",
+       "fonte_nome": "Congresso em Foco (08/08/2026)",
+       "confianca": "media",
+       "id": "2026-13-t1-4"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Manter e fortalecer o Bolsa Família e ampliar a Política Nacional de Cuidados.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Congresso em Foco (23/10/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-5"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Ampliar o ensino em tempo integral e a construção de creches e manter o Pé-de-Meia; meta de 80% das crianças alfabetizadas na idade certa.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Congresso em Foco (08/08/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-6"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Expandir equipes de Saúde da Família e o Agora Tem Especialistas, manter o Farmácia Popular e investir em produção nacional de medicamentos e vacinas.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/123519/o-que-lula-promete-fazer-se-for-reeleito-presidente",
+       "fonte_nome": "Congresso em Foco (23/10/2026); ABC do ABC (19/08/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-7"
+      },
+      {
+       "tema": "Meio ambiente",
+       "proposta": "Desmatamento líquido zero nos biomas até 2030 e fortalecimento da fiscalização e da restauração florestal.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Congresso em Foco (23/10/2026)",
+       "confianca": "alta",
+       "id": "2026-13-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2026-10-13",
+       "tema": "Educação",
+       "proposta": "Pé-de-Meia universitário, se reeleito: R$ 700 por mês durante 10 meses e R$ 2.500 por ano de curso, para alunos de universidades públicas e do ProUni. Custo estimado de R$ 4,6 bi/ano.",
+       "fonte": "https://www.congressoemfoco.com.br/noticia/123220/lula-anuncia-pe-de-meia-universitario-com-bolsa-de-r-700-mensais",
+       "fonte_nome": "Congresso em Foco; Diário do Grande ABC; InfoMoney; Times Brasil",
+       "confianca": "alta",
+       "id": "2026-13-et-1"
+      },
+      {
+       "data": "2026-10-15",
+       "tema": "Infraestrutura",
+       "proposta": "Anuncia que enviará ao Congresso PEC para transporte coletivo gratuito aos sábados e domingos nas cidades com o serviço.",
+       "fonte": "https://timesbrasil.com.br/eleicoes-2026/decisao-2026-pacote-de-bondades-de-lula-acumula-mais-de-20-medidas-e-promessas-desde-o-inicio-da-campanha-presidencial/",
+       "fonte_nome": "Times Brasil (17/10/2026); Muita Informação",
+       "confianca": "alta",
+       "id": "2026-13-et-2"
+      }
+     ]
+    },
+    {
+     "nome_urna": "FLÁVIO BOLSONARO",
+     "nome": "Flávio Nantes Bolsonaro",
+     "partido": "PL",
+     "numero": 22,
+     "finalista": true,
+     "plano_governo_url": "https://static.poder360.com.br/uploads/2026/08/FLAVIO-BOLSONARO-PARA-O-BRASIL-VENCER-O-ATRASO-1-1.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Segurança",
+       "proposta": "Classificar facções e milícias como organizações narcoterroristas e ampliar o bloqueio de seus recursos e o controle de fronteiras.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Poder360 (23/08/2026)",
+       "confianca": "alta",
+       "id": "2026-22-t1-1"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Reduzir a maioridade penal para 16 anos, com punição a partir de 14 anos em crimes graves.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026); ABC do ABC (19/08/2026)",
+       "confianca": "alta",
+       "id": "2026-22-t1-2"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Construir 5 presídios de segurança máxima do 'Complexo TREVA' e criar o sistema de reconhecimento facial 'Muralha Brasileira'.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026); ABC do ABC (19/08/2026)",
+       "confianca": "media",
+       "id": "2026-22-t1-3"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Reduzir o número de ministérios e cortar cargos comissionados.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Folha/Qconcursos",
+       "confianca": "alta",
+       "id": "2026-22-t1-4"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Acabar com a reeleição no Executivo e limitar decisões monocráticas no STF.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026); Poder360 (23/08/2026)",
+       "confianca": "alta",
+       "id": "2026-22-t1-5"
+      },
+      {
+       "tema": "Impostos",
+       "proposta": "Criar um teto para o IVA e reduzir a tributação sobre consumo e combustíveis.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026)",
+       "confianca": "media",
+       "id": "2026-22-t1-6"
+      },
+      {
+       "tema": "Educação",
+       "proposta": "Adotar o método fônico na alfabetização, ampliar escolas cívico-militares e expandir o ensino técnico em parceria com o setor privado.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026)",
+       "confianca": "media",
+       "id": "2026-22-t1-7"
+      },
+      {
+       "tema": "Saúde",
+       "proposta": "Atualizar a tabela do SUS e contratar exames na rede privada em horários ociosos; ampliar a telessaúde.",
+       "fonte": "https://abcdoabc.com.br/eleicoes-2026-saiba-planos-governo-lula-flavio",
+       "fonte_nome": "ABC do ABC (19/08/2026)",
+       "confianca": "media",
+       "id": "2026-22-t1-8"
+      }
+     ],
+     "propostas_entre_turnos": [
+      {
+       "data": "2026-10-11",
+       "tema": "Programas sociais",
+       "proposta": "Afirma que manterá o Bolsa Família e que não acabará com o reajuste.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-manter-bolsa-familia-bolsonaro-triplicou/",
+       "fonte_nome": "Poder360 (11/10/2026); Times Brasil",
+       "confianca": "alta",
+       "id": "2026-22-et-1"
+      },
+      {
+       "data": "2026-10-18",
+       "tema": "Economia",
+       "proposta": "No debate da Band, propõe que a União compre dívidas com desconto, congele cobranças por até 6 meses (famílias) e 1 ano (pequenas empresas) e a Caixa refinancie com juros menores.",
+       "fonte": "https://www.em.com.br/politica/2026/10/7523111-flavio-promete-comprar-dividas-e-suspender-cobrancas-por-ate-um-ano.html",
+       "fonte_nome": "Estado de Minas; SBT News; InfoMoney; Mix Vale (19/10/2026)",
+       "confianca": "alta",
+       "id": "2026-22-et-2"
+      },
+      {
+       "data": "2026-10-23",
+       "tema": "Programas sociais",
+       "proposta": "No debate da TV Globo, promete reajustar o Bolsa Família e manter o benefício por um período de transição para quem conseguir emprego formal ou abrir negócio.",
+       "fonte": "https://www.vgnoticias.com.br/eleicoes-2026/flavio-promete-reajustar-bolsa-familia-e-manter-beneficio-para-quem-conseguir-emprego/154018",
+       "fonte_nome": "VGN Notícias (23/10/2026); Tudo OK Notícias",
+       "confianca": "alta",
+       "id": "2026-22-et-3"
+      },
+      {
+       "data": "2026-10-23",
+       "tema": "Infraestrutura",
+       "proposta": "No debate da TV Globo, anuncia a intenção de construir uma ferrovia ligando Salvador (BA) a São Luís (MA).",
+       "fonte": "https://www.vgnoticias.com.br/eleicoes-2026/flavio-promete-reajustar-bolsa-familia-e-manter-beneficio-para-quem-conseguir-emprego/154018",
+       "fonte_nome": "VGN Notícias (23/10/2026); Tudo OK Notícias",
+       "confianca": "alta",
+       "id": "2026-22-et-4"
+      }
+     ]
+    },
+    {
+     "nome_urna": "AUGUSTO CURY",
+     "nome": "Augusto Jorge Cury",
+     "partido": "Avante",
+     "numero": 70,
+     "finalista": false,
+     "plano_governo_url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Augusto_Cury_2026.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Educação",
+       "proposta": "Programas de 'Gestão da Emoção' nas escolas públicas de educação básica.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-70-t1-1"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Mudar o regime político para o semipresidencialismo.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-70-t1-2"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "Reduzir o STF para 9 ministros, com mandato fixo de 8 anos e indicação pelas classes jurídicas.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-70-t1-3"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "RENAN SANTOS",
+     "nome": "Renan Santos",
+     "partido": "Missão",
+     "numero": 14,
+     "finalista": false,
+     "plano_governo_url": "https://static.poder360.com.br/uploads/2026/08/Plano_gov_Renan_Missao_2026.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Instituições e política",
+       "proposta": "'Grande Consolidação Municipal', reduzindo o número de municípios de 5.570 para cerca de 1.656.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-14-t1-1"
+      },
+      {
+       "tema": "Programas sociais",
+       "proposta": "Substituir o Bolsa Família pelo programa 'Frentes Cidadãs', vinculado a frentes de trabalho comunitário remuneradas.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-14-t1-2"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Aplicar o 'Direito Penal do Inimigo' contra organizações criminosas.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-14-t1-3"
+      },
+      {
+       "tema": "Infraestrutura",
+       "proposta": "Erradicar favelas em 10 anos, com custo estimado de R$ 50 a 85 bilhões por ano.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-14-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    },
+    {
+     "nome_urna": "RONALDO CAIADO",
+     "nome": "Ronaldo Ramos Caiado",
+     "partido": "PSD",
+     "numero": 55,
+     "finalista": false,
+     "plano_governo_url": "https://static.poder360.com.br/uploads/2026/08/Plano-de-Governo-Ronaldo-Caiado-Presidente.pdf",
+     "propostas_1turno": [
+      {
+       "tema": "Segurança",
+       "proposta": "Enquadrar facções criminosas como terroristas ('Lei do Terrorismo Doméstico') e usar as Forças Armadas sem necessidade de GLO.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026); Tribuna de Jundiaí (24/08/2026)",
+       "confianca": "alta",
+       "id": "2026-55-t1-1"
+      },
+      {
+       "tema": "Segurança",
+       "proposta": "Construir 40 presídios federais de segurança máxima e criar o Ministério da Segurança Pública.",
+       "fonte": "https://tribunadejundiai.com.br/politica/eleicoes-2026/ronaldo-caiado-debate-promete-40-presidios-federais-e-endurece-combate-violencia-mulher/",
+       "fonte_nome": "Tribuna de Jundiaí (24/08/2026); Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-55-t1-2"
+      },
+      {
+       "tema": "Instituições e política",
+       "proposta": "PEC para acabar com a reeleição no Executivo a partir de 2027.",
+       "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+       "fonte_nome": "Poder360 (23/08/2026)",
+       "confianca": "media",
+       "id": "2026-55-t1-3"
+      },
+      {
+       "tema": "Economia",
+       "proposta": "Controle das despesas públicas, com meta de inflação entre 3% e 4% e juros próximos de 6%.",
+       "fonte": "https://tribunadejundiai.com.br/politica/eleicoes-2026/ronaldo-caiado-debate-promete-40-presidios-federais-e-endurece-combate-violencia-mulher/",
+       "fonte_nome": "Tribuna de Jundiaí (24/08/2026)",
+       "confianca": "media",
+       "id": "2026-55-t1-4"
+      }
+     ],
+     "propostas_entre_turnos": []
+    }
+   ],
+   "acoes_governo_entre_turnos": [
+    {
+     "data": "2026-10-09",
+     "tipo": "Decreto",
+     "ato": "Desoneração da gasolina",
+     "descricao": "Zera PIS/Pasep, Cofins e Cide sobre a gasolina de 10/10 a 09/11/2026; a redução tributária passa de R$ 0,63 para R$ 0,89 por litro.",
+     "fonte": "https://www.legisweb.com.br/noticia/?id=34530",
+     "fonte_nome": "LegisWeb; O Liberal (09/10/2026); Times Brasil (17/10/2026)",
+     "confianca": "alta",
+     "id": "2026-gov-1"
+    },
+    {
+     "data": "2026-10-13",
+     "tipo": "Medida provisória",
+     "ato": "MP 1.396/2026",
+     "descricao": "Regras contra golpes telefônicos e ligações abusivas: autenticação de chamadas pelas operadoras e bloqueio temporário de linhas com volume abusivo. Anatel regulamenta em 60 dias.",
+     "fonte": "https://www.congressoemfoco.com.br/noticia/123184/lula-edita-mp-para-bloquear-ligacoes-abusivas-e-combater-golpes",
+     "fonte_nome": "Congresso em Foco; Tecnoblog; Canaltech; O Liberal/Estadão Conteúdo",
+     "confianca": "alta",
+     "id": "2026-gov-2"
+    },
+    {
+     "data": "2026-10-13",
+     "tipo": "Decreto",
+     "ato": "Decreto 13.136/2026",
+     "descricao": "Institui programa nacional para bloquear celulares e sinais de comunicação ilícita em presídios sem decisão judicial; adesão voluntária de estados.",
+     "fonte": "https://www.congressoemfoco.com.br/noticia/123208/governo-cria-programa-nacional-que-bloqueia-celulares-em-presidios",
+     "fonte_nome": "Congresso em Foco; O Liberal/Estadão Conteúdo; SBT News; Diário do Grande ABC",
+     "confianca": "alta",
+     "id": "2026-gov-3"
+    },
+    {
+     "data": "2026-10-13",
+     "tipo": "Programa",
+     "ato": "Prospera MEI",
+     "descricao": "Pacote para microempreendedores individuais anunciado no Planalto: perdão de cerca de R$ 12,6 bi em dívidas com a União e transferência de até R$ 5 mil, entre outras medidas.",
+     "fonte": "https://agenciasebrae.com.br/economia-e-politica/prospera-mei-conheca-as-acoes-anunciadas-pelo-governo-federal-para-fortalecer-o-empreendedorismo/",
+     "fonte_nome": "Agência Sebrae; Tribuna de Jundiaí; Times Brasil",
+     "confianca": "alta",
+     "id": "2026-gov-4"
+    },
+    {
+     "data": "2026-10-16",
+     "tipo": "Emenda constitucional (ato do Congresso)",
+     "ato": "Emenda Constitucional 141/2026 (fim da escala 6x1)",
+     "descricao": "Promulgada pelo Congresso Nacional, com presença de Lula: troca a escala 6x1 pela 5x2 e reduz a jornada semanal sem redução salarial. Ato do Legislativo.",
+     "fonte": "https://www.correiodamanha.com.br/politica/2026/10/327556-congresso-promulga-fim-da-escala-6x1-com-presenca-de-lula-e-nova-jornada-comeca-em-dezembro.html",
+     "fonte_nome": "Correio da Manhã; Times Brasil; Movimento Econômico",
+     "confianca": "alta",
+     "id": "2026-gov-5"
+    },
+    {
+     "data": "2026-10-19",
+     "tipo": "Programa",
+     "ato": "Bolsa Família com novos valores",
+     "descricao": "Início do pagamento do reajuste de 15,04% (piso de R$ 600 para R$ 691), definido pelo Decreto 13.120/2026 e anunciado em 17/09/2026.",
+     "fonte": "https://diariodonordeste.verdesmares.com.br/negocios/bolsa-familia-tera-novos-valores-a-partir-de-19-de-outubro-veja-calendario-1.3795591",
+     "fonte_nome": "Diário do Nordeste; NSC Total; SBT News",
+     "confianca": "alta",
+     "id": "2026-gov-6"
+    },
+    {
+     "data": "2026-10-21",
+     "tipo": "Lei",
+     "ato": "Lei Complementar 238/2026",
+     "descricao": "Perdão de débitos tributários federais de MEIs constituídos até 13/10/2026 e teto de faturamento de R$ 110 mil em 2027 e R$ 140 mil em 2028. Sanção divulgada em 21/10.",
+     "fonte": "https://www.dgabc.com.br/Noticia/4354024/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
+     "fonte_nome": "Diário do Grande ABC; Diário de Pernambuco; LegisWeb; Fenacon",
+     "confianca": "alta",
+     "id": "2026-gov-7"
+    }
+   ],
+   "lacunas": [
+    "Os demais candidatos de 2026 foram escolhidos pela ordem do 1º turno na Wikipédia: Augusto Cury (2,89%), Renan Santos (2,24%) e Ronaldo Caiado (2,18%). Não foi possível confirmar no portal do TSE.",
+    "DivulgaCandContas/TSE não foi acessado. Os PDFs dos planos de 2026 são cópias publicadas por Congresso em Foco e Poder360 e não foram abertos; as propostas vêm de matérias que resumem os planos.",
+    "Lula 2026: a matéria do Poder360 (23/08/2026) atribui ao plano a 'revogação do teto de gastos', o que diverge de outras fontes (manutenção do arcabouço fiscal). O item não foi incluído.",
+    "Desoneração da gasolina (09/10/2026): o número do decreto (13.134/2026) aparece em uma única fonte e não foi confirmado no DOU.",
+    "Não confirmados com data: MP/regras novas do SAC com atendimento humano opcional e promessas de Lula sobre bloqueio de sinal em presídios e redução da maioridade penal para crimes hediondos, citadas sem data pela InfoMoney.",
+    "Não foi encontrada carta-compromisso formal de Lula ou de Flávio no 2º turno de 2026.",
+    "Os atos do governo listados entre os turnos foram confirmados pela imprensa; nenhuma página do DOU ou do gov.br foi aberta diretamente."
+   ]
+  }
+ ]
+}

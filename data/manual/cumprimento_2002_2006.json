@@ -1,0 +1,294 @@
+{
+  "gerado_em": "2026-10-27",
+  "itens": {
+    "2002-13-t1-1": {
+      "status": "parcial",
+      "resumo": "Pelo Caged, o saldo de empregos formais no 1º mandato foi de 4.651.376 vagas, menos da metade da meta de 10 milhões (o Caged não cobre o setor público nem o emprego informal). Lula disse depois que era uma meta, não uma promessa.",
+      "quando": "2003–2006",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/86779/sob-lula-pais-criou-4-6-milhoes-de-empregos-formais",
+      "fonte_nome": "Congresso em Foco (fev/2007), com dados do MTE/Caged",
+      "confianca": "media"
+    },
+    "2002-13-t1-2": {
+      "status": "parcial",
+      "resumo": "O mínimo passou de R$ 200 (2002) para R$ 350 (abr/2006): alta nominal de 75% e real de cerca de 25,3%. O poder de compra subiu, mas não dobrou no mandato.",
+      "quando": "2003–2006",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/103639/em-busca-do-circulo-virtuoso",
+      "fonte_nome": "Congresso em Foco (dez/2006)",
+      "confianca": "media"
+    },
+    "2002-13-t1-3": {
+      "status": "cumprida",
+      "resumo": "O Fome Zero foi lançado em 2003. A Lei 10.696 (02/07/2003) criou o PAA, de compras da agricultura familiar, e a renda foi unificada no Bolsa Família (Lei 10.836/2004). O per capita da merenda subiu (R$ 0,18 em 2005).",
+      "quando": "2003–2006",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.696.htm",
+      "fonte_nome": "Planalto - Lei 10.696/2003; Res. CD/FNDE 21/2005",
+      "confianca": "alta"
+    },
+    "2002-13-t1-4": {
+      "status": "parcial",
+      "resumo": "A EC 42 (19/12/2003) desonerou exportações do ICMS e previu PIS/Cofins não cumulativos (Lei 10.833/2003). Porém prorrogou a CPMF até 2007, não unificou o ICMS em IVA nem criou tributo sobre fortunas ou heranças.",
+      "quando": "2003-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc42.htm",
+      "fonte_nome": "Planalto - EC 42/2003; Migalhas (2003)",
+      "confianca": "alta"
+    },
+    "2002-13-t1-5": {
+      "status": "parcial",
+      "resumo": "O MDA informou 381.419 famílias assentadas em 2003–2006 (95% da meta de 400 mil do II PNRA), abaixo das 500 mil citadas. Estudos acadêmicos contestam o número por incluir regularizações.",
+      "quando": "2003–2006",
+      "fonte": "https://periodicos.uff.br/geographia/article/download/13765/8965/53124",
+      "fonte_nome": "Revista GEOgraphia/UFF; Ipea (metas do II PNRA)",
+      "confianca": "media"
+    },
+    "2002-13-t1-6": {
+      "status": "parcial",
+      "resumo": "O Ministério das Cidades foi criado em jan/2003 (MP 103, convertida na Lei 10.683/2003), e os investimentos em saneamento cresceram. O saneamento não foi universalizado: a cobertura de esgoto seguia longe de 100% no fim do mandato.",
+      "quando": "2003–2006",
+      "fonte": "https://tratabrasil.org.br/wp-content/uploads/2022/09/Ranking-do-Saneamento-2009.pdf",
+      "fonte_nome": "Instituto Trata Brasil - Ranking do Saneamento 2009; Planalto - Lei 10.683/2003",
+      "confianca": "media"
+    },
+    "2002-13-t1-7": {
+      "status": "cumprida",
+      "resumo": "As negociações da Alca travaram e foram enterradas na Cúpula de Mar del Plata (nov/2005), sem acordo. O Brasil criou o IBAS com Índia e África do Sul (Declaração de Brasília, 06/06/2003) e priorizou a integração sul-americana.",
+      "quando": "2003–2005",
+      "fonte": "https://revistas.marilia.unesp.br/index.php/bjir/article/view/2511/5159",
+      "fonte_nome": "Brazilian Journal of International Relations/Unesp; Funag (IBAS)",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como cumprida porque as negociações da Alca pararam e o acordo não saiu. A leitura \"em parte\" também se sustenta: o fim da Alca em Mar del Plata (2005) foi um impasse entre vários países, e a aproximação com Índia e África do Sul veio por um fórum (IBAS), não por acordo comercial."
+    },
+    "2002-13-t1-8": {
+      "status": "cumprida",
+      "resumo": "A meta de superávit primário subiu para 4,25% do PIB em 2003 e foi cumprida nos quatro anos (4,83% em 2005 e 4,32% em 2006, segundo o BC). A inflação recuou no período.",
+      "quando": "2003–2006",
+      "fonte": "https://www.jb.com.br/economia/noticias/2007/01/31/superavit-cai-para-432-mas-governo-cumpre-meta.html",
+      "fonte_nome": "Jornal do Brasil (31/01/2007), com dados do Banco Central",
+      "confianca": "media"
+    },
+    "2002-gov-1": {
+      "status": "efetivado",
+      "resumo": "A MP 72/2002 foi convertida na Lei 10.580, de 03/12/2002 (DOU 04/12), sem mudança no valor: crédito extraordinário de R$ 208 milhões para Integração Nacional e Minas e Energia.",
+      "quando": "2002-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10580.htm",
+      "fonte_nome": "Planalto - Lei 10.580/2002 e Quadro de MPs 2001-2002",
+      "confianca": "alta"
+    },
+    "2002-gov-2": {
+      "status": "efetivado",
+      "resumo": "A MP 74/2002 foi convertida na Lei 10.608, de 20/12/2002, que alterou a Lei 7.998/1990 para garantir seguro-desemprego ao trabalhador resgatado de condição análoga à de escravo.",
+      "quando": "2002-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10608.htm",
+      "fonte_nome": "Planalto - Lei 10.608/2002",
+      "confianca": "alta"
+    },
+    "2002-gov-3": {
+      "status": "efetivado",
+      "resumo": "A MP 76/2002 foi convertida na Lei 10.609, de 20/12/2002, que regula a equipe de transição do candidato eleito e cria os cargos em comissão. A transição de 2002 funcionou sob essa regra.",
+      "quando": "2002-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2002/L10609.htm",
+      "fonte_nome": "Planalto - Lei 10.609/2002",
+      "confianca": "alta"
+    },
+    "2002-gov-4": {
+      "status": "efetivado",
+      "resumo": "A MP 77/2002 foi convertida na Lei 10.646, de 28/03/2003 (crédito rural, fundos constitucionais, renegociação de dívidas). Essa lei foi revogada meses depois pela Lei 10.696, de 02/07/2003.",
+      "quando": "2003-03",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/2003/L10.646.htm",
+      "fonte_nome": "Planalto - Lei 10.646/2003; Lei 10.696/2003",
+      "confianca": "alta"
+    },
+    "2006-13-t1-1": {
+      "status": "nao_cumprida",
+      "resumo": "O PIB não manteve 6% a partir de 2008: caiu 0,6% em 2009 e cresceu 7,5% em 2010. A taxa de investimento chegou no máximo a 19,1% do PIB (2008) e 18,4% (2010), abaixo dos 25%.",
+      "quando": "2008–2010",
+      "fonte": "https://www.baguete.com.br/noticias/2010-2a-maior-taxa-de-investimento-da-decada",
+      "fonte_nome": "IBGE - Contas Nacionais, via Baguete e Agência IBGE (2011)",
+      "confianca": "alta"
+    },
+    "2006-13-t1-2": {
+      "status": "parcial",
+      "resumo": "Os juros caíram: a Selic chegou a 8,75% em jul/2009, o piso histórico até então. O superávit não ficou em 4,25%: foi de cerca de 2,06% do PIB em 2009 e 2,8% em 2010, quando a meta foi reduzida para 3,1% do PIB.",
+      "quando": "2007–2010",
+      "fonte": "https://www.bcb.gov.br/pec/boletim/banual2010/rel2010cap4p.pdf",
+      "fonte_nome": "Banco Central - Boletim Anual 2010",
+      "confianca": "alta"
+    },
+    "2006-13-t1-3": {
+      "status": "cumprida",
+      "resumo": "Os benefícios do Bolsa Família foram reajustados em 18,25% (ago/2007) e cerca de 8% (jul/2008). A Lei 11.692/2008 criou o benefício variável para jovens de 16 e 17 anos, e as linhas de elegibilidade subiram em 2009.",
+      "quando": "2007–2009",
+      "fonte": "https://repositorio.ipea.gov.br/bitstream/11058/4391/1/bps_n.15_assistenciasocial15.pdf",
+      "fonte_nome": "Ipea - Políticas Sociais: acompanhamento e análise nº 15",
+      "confianca": "alta"
+    },
+    "2006-13-t1-4": {
+      "status": "cumprida",
+      "resumo": "Houve aumento real em todos os anos: R$ 380 (2007, +5,1%), R$ 415 (2008, +4,0%), R$ 465 (2009, +5,8%) e R$ 510 (2010, +6,0%). A regra de inflação mais variação do PIB foi acordada com as centrais em 2007.",
+      "quando": "2007–2010",
+      "fonte": "https://www.dieese.org.br/livro/2010/SMinstrumentoCombateDesigualdade/17.html",
+      "fonte_nome": "DIEESE (2010)",
+      "confianca": "alta"
+    },
+    "2006-13-t1-5": {
+      "status": "parcial",
+      "resumo": "A Lei 11.738 (16/07/2008) criou o piso nacional do magistério (R$ 950). O ensino fundamental de 9 anos tinha prazo em 2010 (Lei 11.274/2006), mas só 66,2% das matrículas estavam nesse regime naquele ano.",
+      "quando": "2008–2010",
+      "fonte": "https://www.redalyc.org/pdf/3993/399360941010.pdf",
+      "fonte_nome": "Educação em Revista (2015); Lei 11.738/2008",
+      "confianca": "alta"
+    },
+    "2006-13-t1-6": {
+      "status": "parcial",
+      "resumo": "O Pronasci (Lei 11.530/2007) passou a articular União, estados e municípios. O SUSP só foi criado por lei em 2018 (Lei 13.675). Não achei fonte firme sobre o reforço nas fronteiras de 2007 a 2010.",
+      "quando": "2007–2010",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13675.htm",
+      "fonte_nome": "Planalto - Lei 13.675/2018 (altera a Lei 11.530/2007)",
+      "confianca": "media"
+    },
+    "2006-13-t1-7": {
+      "status": "nao_cumprida",
+      "resumo": "Em 27/06/2007 a Câmara rejeitou a lista fechada do PL 1210/07 (252 a 181), o que travou o financiamento público. A fidelidade partidária veio do TSE (Res. 22.610/2007) e do STF, não de reforma aprovada no Congresso.",
+      "quando": "2007",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/85336/a-morte-prematura-de-uma-reforma",
+      "fonte_nome": "Congresso em Foco (28/06/2007)",
+      "confianca": "media"
+    },
+    "2006-13-t1-8": {
+      "status": "nao_cumprida",
+      "resumo": "Avaliada pela medida mais concreta, o cartão SUS. Segundo o TCU, mais de R$ 250 milhões foram gastos desde 2004 sem implantação efetiva. Controle social e centros de média complexidade não foram avaliados por serem vagos.",
+      "quando": "2007–2010",
+      "fonte": "https://portal.tcu.gov.br/data/files/98/F4/8E/E2/DFC1E4104E3AC1E41A2818A8/FISC%20SA%c3%9aDE%20%e2%80%93%20Temas%20Relevantes_Web.pdf",
+      "fonte_nome": "TCU - FiscSaúde",
+      "confianca": "alta"
+    },
+    "2006-13-et-1": {
+      "status": "cumprida",
+      "resumo": "O Simples Nacional (LC 123, de 14/12/2006) vigorou desde 01/07/2007. A Lei 11.610/2007 criou o Programa Nacional de Dragagem, e o Promef/Transpetro encomendou navios no país. Incentivos à construção civil não foram checados.",
+      "quando": "2007–2010",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11610.htm",
+      "fonte_nome": "Planalto - Lei 11.610/2007; artigo sobre a LC 123/2006",
+      "confianca": "media"
+    },
+    "2006-13-et-2": {
+      "status": "parcial",
+      "resumo": "O Prouni passou de 94 mil bolsas (2006) a pelo menos 220 mil por ano desde 2008. A fase II da expansão técnica previa 150 unidades em cidades-polo de 2007 a 2011, e parte ficou para depois de 2010. A Lei 11.892/2008 criou os IFs.",
+      "quando": "2007–2010",
+      "fonte": "https://revistas.marilia.unesp.br/index.php/orgdemo/article/view/6524/4289",
+      "fonte_nome": "Org & Demo/Unesp; Revista Ufes/Abepss (expansão da rede federal)",
+      "confianca": "media"
+    },
+    "2006-13-et-3": {
+      "status": "cumprida",
+      "resumo": "A Sudam e a Sudene foram recriadas pelas LCs 124 e 125 (03/01/2007). A revitalização do São Francisco entrou no PAC (R$ 8,12 bi anunciados em fev/2007, com a integração de bacias), e o Plano Amazônia Sustentável foi lançado em 2008.",
+      "quando": "2007–2008",
+      "fonte": "https://planalto.gov.br/ccivil_03/LEIS/LCP/Lcp124.htm",
+      "fonte_nome": "Planalto - LC 124/2007; Ipea; Câmara/TCU (PAS)",
+      "confianca": "alta"
+    },
+    "2006-gov-1": {
+      "status": "efetivado",
+      "resumo": "A liminar de 18/10/2006 (ação popular) suspendeu a MP 324, e a AGU conseguiu derrubá-la no TRF-1. A MP foi convertida na Lei 11.388, de 14/12/2006, com o mesmo valor (R$ 1.504.324.574) para nove ministérios.",
+      "quando": "2006-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11388.htm",
+      "fonte_nome": "Planalto - Lei 11.388/2006; Congresso em Foco (out/2006)",
+      "confianca": "alta"
+    },
+    "2006-gov-2": {
+      "status": "efetivado",
+      "resumo": "A liberação esteve suspensa por liminar de 18/10/2006 até a AGU obter decisão favorável no TRF-1. O crédito foi mantido pela Lei 11.388/2006 (conversão da MP 324). A execução por destino não foi verificada.",
+      "quando": "2006-10 a 2006-12",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/88437/agu-consegue-liberar-r-1-5-bi-para-ministerios",
+      "fonte_nome": "Congresso em Foco (out/2006); Planalto - Lei 11.388/2006",
+      "confianca": "media"
+    },
+    "2006-gov-3": {
+      "status": "efetivado",
+      "resumo": "O decreto vigorou na programação financeira de 2006: reduziu em R$ 1,58 bi os limites do Decreto 5.861 e trocou os anexos do Decreto 5.780. Foi revogado em 2019 pelo Decreto 10.179, que fez uma limpeza de normas esgotadas.",
+      "quando": "2006",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5925.htm",
+      "fonte_nome": "Planalto - Decreto 5.925/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-4": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.350 (05/10/2006, conversão da MP 297) segue em vigor, com alterações. Ganhou piso nacional pela Lei 12.994/2014, depois reajustado pela Lei 13.708/2018.",
+      "quando": "2006-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11350.htm",
+      "fonte_nome": "Planalto - Lei 11.350/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-5": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.351, de 11/10/2006 (conversão da MP 298), abriu crédito extraordinário de R$ 1 bilhão em Operações Oficiais de Crédito para garantia e sustentação de preços agropecuários. Não há registro de revogação.",
+      "quando": "2006-10",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11351.htm",
+      "fonte_nome": "Planalto - Lei 11.351/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-6": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.352, de 11/10/2006 (conversão da MP 296), criou 3.430 cargos técnico-administrativos, 2.820 de professor e 2.883 cargos de direção e funções gratificadas para as novas instituições federais de ensino.",
+      "quando": "2006-10",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11352.htm",
+      "fonte_nome": "Planalto - Lei 11.352/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-7": {
+      "status": "efetivado",
+      "resumo": "A MP 325/2006 foi convertida na Lei 11.389, de 14/12/2006, mantendo o crédito extraordinário de R$ 13 milhões para o Ministério da Integração Nacional.",
+      "quando": "2006-12",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11389.htm",
+      "fonte_nome": "Planalto - Lei 11.389/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-8": {
+      "status": "efetivado",
+      "resumo": "O decreto regulou a gratuidade e o desconto para idosos no transporte interestadual de 2006 a 2019, quando foi revogado e substituído pelo Decreto 9.921/2019, que consolidou as normas sobre a pessoa idosa.",
+      "quando": "2006-10 a 2019",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5934.htm",
+      "fonte_nome": "Planalto - Decreto 5.934/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-9": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.353, de 19/10/2006 (conversão da MP 299), abriu crédito extraordinário de R$ 925.459.839 para a Justiça Eleitoral e órgãos do Executivo. Não há registro de revogação.",
+      "quando": "2006-10",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11353.htm",
+      "fonte_nome": "Planalto - Lei 11.353/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-10": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.354, de 19/10/2006 (conversão da MP 300), autorizou pagar valores atrasados a anistiados políticos mediante Termo de Adesão, em parcelas. Segue em vigor, com alteração pela Lei 11.531/2007.",
+      "quando": "2006-10",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11354.htm",
+      "fonte_nome": "Planalto - Lei 11.354/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-11": {
+      "status": "efetivado",
+      "resumo": "As leis foram sancionadas em 19/10/2006 e vigoraram. A Lei 11.357 (conversão da MP 304) criou o PGPE e planos de cargos; a Lei 11.358 (conversão da MP 305) instituiu subsídio para carreiras jurídicas e policiais.",
+      "quando": "2006-10",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11357.htm",
+      "fonte_nome": "Planalto - Leis 11.357 e 11.358/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-12": {
+      "status": "efetivado",
+      "resumo": "A Lei 11.359, de 19/10/2006 (conversão da MP 306), fixou os soldos a partir de 01/08/2006 e vigorou até ser revogada pela MP 431/2008, convertida na Lei 11.784/2008, que trouxe nova tabela.",
+      "quando": "2006-10 a 2008",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/L11359.htm",
+      "fonte_nome": "Planalto - Lei 11.359/2006",
+      "confianca": "alta"
+    },
+    "2006-gov-13": {
+      "status": "efetivado",
+      "resumo": "O decreto vigorou de 2006 a 2022, quando foi revogado pelo Decreto 10.936/2022, que regulamentou a Política Nacional de Resíduos Sólidos.",
+      "quando": "2006-10 a 2022",
+      "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/decreto/D5940.htm",
+      "fonte_nome": "Planalto - Decreto 5.940/2006",
+      "confianca": "alta"
+    }
+  }
+}

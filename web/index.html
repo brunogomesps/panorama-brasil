@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panorama Brasil</title>
+<meta name="description" content="Indicadores socioeconômicos dos estados e regiões do Brasil cruzados com as eleições de 2002 a 2026, com dados oficiais e fonte à vista.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:title" content="Panorama Brasil">
+<meta property="og:url" content="https://brunogomesacotel-png.github.io/panorama-brasil/">
+<meta property="og:description" content="Indicadores socioeconômicos dos estados e regiões do Brasil cruzados com as eleições de 2002 a 2026, com dados oficiais e fonte à vista.">
+<script>
+  // Tema aplicado antes da pintura (evita piscar)
+  (function () {
+    try {
+      var t = localStorage.getItem("pb-tema");
+      if (t === "claro" || t === "escuro") document.documentElement.setAttribute("data-tema", t);
+    } catch (e) {}
+  })();
+</script>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='2' width='28' height='28' rx='7' fill='%2312465a'/%3E%3Cpath d='M9 21.5 14 15l4 3.5 5-7' fill='none' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='23' cy='11.5' r='2.2' fill='%2300c9d3'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&family=Raleway:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/tokens.css">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo">
+  <div class="topo-linha">
+    <a class="marca" href="#/inicio" aria-label="Panorama Brasil: início">
+      <svg class="marca-icone" viewBox="0 0 32 32" aria-hidden="true">
+        <rect x="2" y="2" width="28" height="28" rx="7" class="marca-fundo"/>
+        <path d="M9 21.5 14 15l4 3.5 5-7" class="marca-linha"/>
+        <circle cx="23" cy="11.5" r="2.2" class="marca-ponto"/>
+      </svg>
+      <span class="marca-texto"><strong>Panorama</strong> Brasil</span>
+    </a>
+    <p class="topo-sub">Estados, regiões e eleições · 2002–2026 · dados oficiais</p>
+    <div class="topo-acoes">
+      <button type="button" class="btn-icone" id="btn-link" aria-label="Copiar link desta tela" data-dica="Copia o link com todos os filtros desta tela">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1 1M14 10a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1-1"/></svg>
+      </button>
+      <button type="button" class="btn-icone" id="btn-tema" aria-label="Alternar tema claro ou escuro" data-dica="Tema claro / escuro">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </div>
+  <nav class="abas" aria-label="Seções do painel">
+    <div class="abas-trilho" role="tablist" id="abas"></div>
+  </nav>
+</header>
+
+<main id="conteudo" tabindex="-1">
+  <div id="pagina" class="pagina" aria-live="polite"></div>
+</main>
+
+<footer class="rodape">
+  <p>Fontes: IBGE (SIDRA, malhas e localidades), TSE (dados abertos e divulgação de resultados), Ministério da Saúde (SIM e SINASC via TabNet) e Banco Central (SGS).
+    Cada gráfico mostra a sua fonte. <a href="#/fontes">Ver catálogo de indicadores e método</a>.</p>
+  <p id="rodape-gerado"></p>
+</footer>
+
+<div id="dica" class="dica" role="tooltip" hidden></div>
+<div id="aviso" class="aviso" role="status" aria-live="polite"></div>
+
+<!-- Bibliotecas locais (versões fixas) -->
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="vendor/apexcharts.min.js"></script>
+<!-- Dados gerados por scripts/build.py -->
+<script src="data/painel.js"></script>
+<script src="data/geo.js"></script>
+<script src="data/propostas.js" onerror="window.PB_PROPOSTAS=null"></script>
+<script src="data/mandatos.js" onerror="window.PB_MANDATOS=null"></script>
+<!-- Aplicação -->
+<script src="js/util.js"></script>
+<script src="js/componentes.js"></script>
+<script src="js/mapa.js"></script>
+<script src="js/graficos.js"></script>
+<script src="js/eleicoes-util.js"></script>
+<script src="js/paginas/inicio.js"></script>
+<script src="js/paginas/explorar.js"></script>
+<script src="js/paginas/estados.js"></script>
+<script src="js/paginas/regioes.js"></script>
+<script src="js/paginas/tendencias.js"></script>
+<script src="js/paginas/eleicoes.js"></script>
+<script src="js/paginas/governadores.js"></script>
+<script src="js/paginas/municipios.js"></script>
+<script src="js/paginas/correlacoes.js"></script>
+<script src="js/paginas/indice.js"></script>
+<script src="js/paginas/macro.js"></script>
+<script src="js/paginas/propostas.js"></script>
+<script src="js/paginas/mandatos.js"></script>
+<script src="js/paginas/fontes.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

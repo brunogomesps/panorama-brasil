@@ -1,0 +1,9 @@
+# Normaliza fim de linha (LF no repositório); o .bat precisa de CRLF no Windows
+* text=auto
+*.bat text eol=crlf
+
+# Arquivos gerados: sem diff linha a linha nem estatística de linguagem
+web/data/*.js linguist-generated=true -diff
+web/vendor/*.js linguist-vendored=true -diff
+data/processed/*.csv -diff
+data/geo/*.json -diff

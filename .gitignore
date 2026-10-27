@@ -1,0 +1,26 @@
+# Controle de coleta e logs (recriados pelos coletores)
+data/cache/
+
+# Saídas do teste de navegador (recriadas a cada execução)
+tests/capturas/
+tests/saida_teste.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Sistema e editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Configurações locais do Claude Code
+.claude/settings.local.json

@@ -1,0 +1,262 @@
+{
+  "gerado_em": "2026-10-27",
+  "itens": {
+    "2018-17-t1-1": {
+      "status": "cumprida",
+      "resumo": "MP 870/2019 (Lei 13.844/2019) criou o Ministério da Economia, unindo Fazenda, Planejamento, MDIC e Trabalho. A LC 179/2021 deu autonomia formal ao Banco Central (mandatos fixos). O Trabalho voltou a ser pasta própria em 2021.",
+      "quando": "2019–2021",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13844compilado.htm",
+      "fonte_nome": "Planalto (Lei 13.844/2019); Agência Brasil (26/08/2021, LC 179/2021)",
+      "confianca": "alta"
+    },
+    "2018-17-t1-2": {
+      "status": "nao_cumprida",
+      "resumo": "O governo tomou posse em jan/2019 com 22 ministérios (7 a mais que o prometido). Com a recriação das Comunicações (2020) e do Trabalho (2021), chegou a 23 pastas.",
+      "quando": "2019–2022",
+      "fonte": "https://www.congressoemfoco.com.br/noticia/26602/a-lista-dos-22-ministerios-do-futuro-governo-bolsonaro-falou-em-mais-ou-menos-15-na-campanha",
+      "fonte_nome": "Congresso em Foco (dez/2018); Reuters/IstoÉ Dinheiro; G1 (balanço de promessas)",
+      "confianca": "alta"
+    },
+    "2018-17-t1-3": {
+      "status": "parcial",
+      "resumo": "Houve desestatizações (capitalização da Eletrobras em 2022, venda de subsidiárias como BR Distribuidora e TAG), mas a dívida bruta foi de 75,3% do PIB (2018) para cerca de 73,5% (2022), longe da redução de 20%.",
+      "quando": "2019–2022",
+      "fonte": "https://www.gazetadopovo.com.br/economia/estatais-que-governo-bolsonaro-conseguiu-privatizar-eletrobras/",
+      "fonte_nome": "Gazeta do Povo (privatizações e dívida bruta/BC)",
+      "confianca": "media"
+    },
+    "2018-17-t1-4": {
+      "status": "nao_cumprida",
+      "resumo": "A MP 905/2019 criou o Contrato Verde e Amarelo (encargos menores para jovens, sem prevalência do contrato sobre a CLT). Sem votação no Senado, foi revogada pela MP 955 em 20/04/2020, que também caducou.",
+      "quando": "2019–2020",
+      "fonte": "https://www.politize.com.br/contrato-verde-e-amarelo/",
+      "fonte_nome": "Politize; Poder360; Agência Senado (abr/2020)",
+      "confianca": "alta"
+    },
+    "2018-17-t1-5": {
+      "status": "parcial",
+      "resumo": "O acesso a armas foi ampliado sobretudo por decretos (2019 e fev/2021, ex.: até 6 armas por pessoa; CACs de 167 mil para 605 mil). Mudança no Estatuto por lei só pontual: Lei 13.870/2019 (posse em todo o imóvel rural).",
+      "quando": "2019–2022",
+      "fonte": "https://www.poder360.com.br/governo/bolsonaro-edita-4-decretos-que-ampliam-acesso-a-armas-e-municoes/",
+      "fonte_nome": "Poder360 (12/02/2021); Migalhas (Lei 13.870/2019); Jornal do Brasil/Sou da Paz",
+      "confianca": "alta"
+    },
+    "2018-17-t1-6": {
+      "status": "parcial",
+      "resumo": "A reforma foi promulgada como EC 103/2019 (12/11/2019), com economia estimada de R$ 800 bi em 10 anos, mas o regime de capitalização foi retirado do texto na Câmara e não foi reapresentado.",
+      "quando": "2019-11",
+      "fonte": "https://www12.senado.leg.br/noticias/materias/2019/11/12/promulgada-emenda-constitucional-da-reforma-da-previdencia",
+      "fonte_nome": "Agência Senado (12/11/2019); Folha Vitória/Estadão Conteúdo (relator Samuel Moreira)",
+      "confianca": "alta"
+    },
+    "2018-17-t1-7": {
+      "status": "parcial",
+      "resumo": "O Bolsa Família foi substituído pelo Auxílio Brasil (Lei 14.284/2021), com piso permanente de R$ 400 (maio/2022) e R$ 600 temporário até dez/2022 (EC 123). Não houve renda mínima para todas as famílias.",
+      "quando": "2021–2022",
+      "fonte": "https://www.poder360.com.br/governo/bolsonaro-sanciona-auxilio-brasil-permanente-com-piso-de-r-400/",
+      "fonte_nome": "Poder360 (mai/2022); Agência Senado (15/07/2022)",
+      "confianca": "alta"
+    },
+    "2018-17-t1-8": {
+      "status": "nao_cumprida",
+      "resumo": "A reforma do IR (PL 2.337/2021) passou na Câmara em set/2021, mas não foi votada no Senado; a unificação de tributos federais (CBS) também não foi aprovada. Não houve alíquota única de IR.",
+      "quando": "2019–2022",
+      "fonte": "https://www.camara.leg.br/noticias/829579-lira-cobra-novamente-do-senado-a-votacao-da-reforma-do-imposto-de-renda",
+      "fonte_nome": "Agência Câmara (nov/2021); Agência Senado (2021)",
+      "confianca": "alta"
+    },
+    "2018-17-et-1": {
+      "status": "parcial",
+      "resumo": "A MP 898/2019 pagou o 13º do Bolsa Família só em dez/2019 (cerca de R$ 2,5 bi, mais de 13 mi de famílias). A MP caducou em mar/2020 sem votação e o pagamento não se repetiu de 2020 a 2022.",
+      "quando": "2019-12",
+      "fonte": "https://tribunademinas.com.br/colunas/maistendencias/por-que-o-decimo-terceiro-do-bolsa-familia-so-foi-pago-em-2019",
+      "fonte_nome": "Tribuna de Minas; Jovem Pan (dez/2019); Câmara (nota descritiva da MP 898)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-1": {
+      "status": "cumprida",
+      "resumo": "A EC 126/2022 previu a substituição do teto e a LC 200/2023, sancionada em 30/08/2023, instituiu o novo arcabouço fiscal (regime fiscal sustentável) no lugar do teto de gastos.",
+      "quando": "2023-08",
+      "fonte": "https://agenciagov.ebc.com.br/noticias/202308/presidente-lula-sanciona-a-lei-do-novo-arcabouco-fiscal",
+      "fonte_nome": "Agência Gov (ago/2023); Migalhas; Consultoria do Senado (nota sobre a LC 200)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-2": {
+      "status": "cumprida",
+      "resumo": "A Lei 14.663/2023 retomou a valorização (INPC + PIB de dois anos antes) a partir de 2024. Desde 2025 o ganho real é limitado a 2,5% ao ano pela Lei 15.077/2024, dentro do arcabouço fiscal.",
+      "quando": "2023-08",
+      "fonte": "https://www.dieese.org.br/notatecnica/2025/notaTec283salarioMinimo.pdf",
+      "fonte_nome": "DIEESE (Nota Técnica 283, 2025); Portal da Indústria (Lei 14.663/2023)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-3": {
+      "status": "cumprida",
+      "resumo": "MP 1.164/2023, convertida na Lei 14.601/2023 (jun/2023), recriou o Bolsa Família com piso de R$ 600 por família e R$ 150 por criança de 0 a 6 anos (pago desde mar/2023), além de R$ 50 por gestante e jovem.",
+      "quando": "2023",
+      "fonte": "https://www.camara.leg.br/noticias/973711-SANCIONADA-LEI-QUE-RECRIA-O-PROGRAMA-BOLSA-FAMILIA",
+      "fonte_nome": "Agência Câmara (jun/2023); O Povo (fev/2023)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-4": {
+      "status": "cumprida",
+      "resumo": "Lei 15.270/2025 (publicada em 27/11/2025): IR zerado para renda de até R$ 5 mil/mês desde jan/2026, retenção de 10% sobre dividendos acima de R$ 50 mil/mês e imposto mínimo para renda acima de R$ 600 mil/ano.",
+      "quando": "2025-11",
+      "fonte": "https://forbes.com.br/coluna/2025/12/dividendos-tributados-o-que-muda-para-o-investidor/",
+      "fonte_nome": "Forbes Brasil (dez/2025); CRC-MG; IOB",
+      "confianca": "alta"
+    },
+    "2022-13-t1-5": {
+      "status": "cumprida",
+      "resumo": "O Desenrola Brasil (MP 1.176/2023, Lei 14.690/2023) usou o FGO como garantia. Encerrado em 20/05/2024, renegociou R$ 53,07 bi de 15,06 mi de pessoas, com R$ 1,7 bi de aporte em garantia.",
+      "quando": "2023–2024",
+      "fonte": "https://static.poder360.com.br/2024/05/desenrola-brasil-balanco-21mai2024.pdf",
+      "fonte_nome": "Ministério da Fazenda (balanço de 21/05/2024, via Poder360)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-6": {
+      "status": "nao_cumprida",
+      "resumo": "Até out/2026 o governo não enviou ao Congresso proposta para rever a reforma de 2017; pontos centrais seguem em vigor. A regulação do trabalho por aplicativo não avançou. A EC 141/2026 (fim da 6x1) é de iniciativa do Congresso.",
+      "quando": null,
+      "fonte": "https://www.gazetadopovo.com.br/ideias/lula-disse-mas-nao-fez-balanco-mandato-furadas/",
+      "fonte_nome": "Gazeta do Povo (02/08/2026)",
+      "confianca": "media"
+    },
+    "2022-13-t1-7": {
+      "status": "em_andamento",
+      "resumo": "O desmatamento na Amazônia (Prodes/Inpe) caiu de 13.038 km² (2021) para 6.518 km² (2024) e 5.796 km² (2025), menor taxa em 11 anos. A meta de desmatamento líquido zero (2030) ainda não foi atingida.",
+      "quando": "2023–2026",
+      "fonte": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "fonte_nome": "O Liberal/Estadão Conteúdo (Prodes 2025); Olhar Digital (30/10/2025)",
+      "confianca": "alta"
+    },
+    "2022-13-t1-8": {
+      "status": "cumprida",
+      "resumo": "Mais Médicos retomado pela Lei 14.621/2023 (14/07/2023), com meta de 28 mil profissionais. Farmácia Popular retomado (Decreto 11.555/2023), com gratuidade para o Bolsa Família e 95% dos itens gratuitos desde 2024.",
+      "quando": "2023–2024",
+      "fonte": "https://www.correiobraziliense.com.br/brasil/2023/07/5109172-mais-medicos-vira-lei-sancionada-por-lula-com-recorde-de-inscricoes.html",
+      "fonte_nome": "Correio Braziliense (jul/2023); Conselho Federal de Farmácia (jul/2024)",
+      "confianca": "alta"
+    },
+    "2022-13-et-1": {
+      "status": "nao_avaliavel",
+      "resumo": "Compromisso de abstenção (não restringir cultos; aborto como tema do Congresso), sem medida concreta a verificar. Não foi achada checagem ou fonte que avalie seu cumprimento no mandato.",
+      "quando": null,
+      "fonte": "https://www.poder360.com.br/eleicoes/em-carta-aos-evangelicos-lula-defende-liberdade-de-culto/",
+      "fonte_nome": "Poder360 (19/10/2022, texto da carta)",
+      "confianca": "media"
+    },
+    "2022-13-et-2": {
+      "status": "cumprida",
+      "resumo": "A regra prometida veio com a LC 200/2023 (novo arcabouço fiscal), com limite de crescimento real da despesa e metas de resultado primário plurianuais fixadas na LDO.",
+      "quando": "2023-08",
+      "fonte": "https://agenciagov.ebc.com.br/noticias/202308/presidente-lula-sanciona-a-lei-do-novo-arcabouco-fiscal",
+      "fonte_nome": "Agência Gov (ago/2023); Migalhas",
+      "confianca": "alta"
+    },
+    "2022-13-et-3": {
+      "status": "parcial",
+      "resumo": "Poupança: Pé-de-Meia criado pela Lei 14.818/2024 (R$ 200 por mês de frequência e R$ 1 mil por ano concluído). Creches: Novo PAC selecionou cerca de 1.680 creches e escolas (2024–25), mas o déficit não foi zerado e as obras atrasaram.",
+      "quando": "2024–2026",
+      "fonte": "https://www.bahianoticias.com.br/noticia/289980-governo-anuncia-construcao-de-1178-creches-e-pre-escolas",
+      "fonte_nome": "Bahia Notícias/Agência Brasil (Novo PAC creches); Diário do Grande ABC (Pé-de-Meia 2026)",
+      "confianca": "media"
+    },
+    "2022-13-et-4": {
+      "status": "em_andamento",
+      "resumo": "Metas ainda não atingidas: desmatamento na Amazônia caiu para 5.796 km² (Prodes 2025), mas não zerou; a matriz elétrica foi 86,8% renovável em 2025, com aumento de 12,3% da geração térmica.",
+      "quando": "2023–2026",
+      "fonte": "https://www.oliberal.com/variedades/desmatamento-na-amazonia-em-2025-caiu-11-08-em-relacao-a-2024-afirma-prodes-inpe-1.1084212",
+      "fonte_nome": "O Liberal/Estadão Conteúdo (Prodes 2025); LexLegal (BEN 2026/EPE)",
+      "confianca": "media"
+    },
+    "2022-gov-1": {
+      "status": "efetivado",
+      "resumo": "A antecipação valeu como prevista: o Auxílio Brasil de outubro foi pago de 11 a 25/10/2022, cinco dias antes do 2º turno. Novembro e dezembro seguiram o calendário normal.",
+      "quando": "2022-10",
+      "fonte": "https://www.agazeta.com.br/brasil/bolsonaro-antecipa-auxilio-brasil-e-conclui-pagamentos-antes-do-2-turno-1022",
+      "fonte_nome": "A Gazeta; IstoÉ Dinheiro; Movimento Econômico (out/2022)",
+      "confianca": "alta"
+    },
+    "2022-gov-2": {
+      "status": "efetivado",
+      "resumo": "A campanha da Caixa vigorou até 29/12/2022. Até 28/12, 201 mil clientes regularizaram dívidas, somando R$ 1,7 bi renegociado.",
+      "quando": "2022",
+      "fonte": "https://www.correiobraziliense.com.br/economia/2022/12/5062203-caixa-atinge-rs-17-bilhao-em-dividas-renegociadas-no-voce-no-azul.html",
+      "fonte_nome": "Correio Braziliense (28/12/2022)",
+      "confianca": "media"
+    },
+    "2022-gov-3": {
+      "status": "efetivado",
+      "resumo": "R$ 9,5 bi concedidos até 01/11/2022 (R$ 7,64 bi pela Caixa). O TCU arquivou pedido de suspensão. Em 12/01/2023 a Caixa suspendeu novos contratos; em fev/2023 as regras caíram para 5% do benefício e juros de 2,5%.",
+      "quando": "2022–2023",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/caixa-suspende-credito-consignado-para-beneficiarios-do-bolsa-familia",
+      "fonte_nome": "Agência Brasil (13/01/2023 e nov/2022); Concursos no Brasil (23/01/2023)",
+      "confianca": "alta",
+      "observacao": "Classificação discutível. Marcada como efetivada porque o crédito foi concedido (R$ 9,5 bi até 01/11/2022). A leitura \"em parte\" ou \"revertido\" também se sustenta: a Caixa suspendeu novos contratos em 12/01/2023 e as regras foram reduzidas em fev/2023, já no governo seguinte."
+    },
+    "2022-gov-4": {
+      "status": "efetivado",
+      "resumo": "A 4ª parcela de R$ 1 mil dos auxílios Caminhoneiro e Taxista foi paga em 18/10/2022. Em 20/10 o governo antecipou também a 5ª e a 6ª, para 19/11 e 10/12.",
+      "quando": "2022-10",
+      "fonte": "https://agenciabrasil.ebc.com.br/economia/noticia/2022-10/caminhoneiros-e-taxistas-recebem-auxilio-nesta-terca",
+      "fonte_nome": "Agência Brasil (18/10/2022); O Povo (20/10/2022)",
+      "confianca": "alta"
+    },
+    "2026-gov-1": {
+      "status": "em_andamento",
+      "resumo": "Decreto 13.134/2026 em vigor: PIS/Cofins e Cide zerados na gasolina de 10/10 a 09/11/2026. Até 27/10 não havia prorrogação anunciada; o decreto não obriga repasse ao preço na bomba.",
+      "quando": "2026",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Decreto/D13134.htm",
+      "fonte_nome": "Planalto (Decreto 13.134/2026); Garagem360",
+      "confianca": "alta"
+    },
+    "2026-gov-2": {
+      "status": "em_andamento",
+      "resumo": "Em vigor provisório. Em 26/10/2026 aguardava instalação da comissão mista, com 49 emendas; prazo de votação até 11/12/2026 e urgência a partir de 27/11.",
+      "quando": "2026-10",
+      "fonte": "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175932",
+      "fonte_nome": "Congresso Nacional (página da MP 1.396/2026, 26/10/2026)",
+      "confianca": "alta"
+    },
+    "2026-gov-3": {
+      "status": "efetivado",
+      "resumo": "Decreto publicado no DOU em 13/10/2026 e em vigor: bloqueio por IMEI e bloqueadores de sinal. Adesão dos estados por acordo de cooperação; plataforma do MJSP prevista em até 180 dias. Sem dados de adesões.",
+      "quando": "2026-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/decreto/d13136.htm",
+      "fonte_nome": "Planalto (Decreto 13.136/2026); Teletime (13/10/2026)",
+      "confianca": "alta"
+    },
+    "2026-gov-4": {
+      "status": "em_andamento",
+      "resumo": "Perdão de dívidas e teto maior do MEI viraram a LC 238/2026 (21/10). O Pix MEI de até R$ 5 mil depende de projeto de lei complementar ainda não aprovado; não há data nem critérios de pagamento.",
+      "quando": "2026-10",
+      "fonte": "https://www.bahianoticias.com.br/folha/noticia/412442-o-que-se-sabe-sobre-o-pix-mei-beneficio-de-ate-r-5000-para-microempreendedores-anunciado-por-lula",
+      "fonte_nome": "Folhapress/Bahia Notícias (13/10/2026); NSC Total (15/10/2026); Planalto (LC 238)",
+      "confianca": "alta"
+    },
+    "2026-gov-5": {
+      "status": "efetivado",
+      "resumo": "EC 141/2026 promulgada e publicada em 16/10/2026: 2 dias de descanso semanal e jornada máxima de 42 h após 2 meses (meados de dez/2026) e de 40 h um ano depois, sem redução salarial.",
+      "quando": "2026-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/constituicao/Emendas/Emc/emc141.htm",
+      "fonte_nome": "Planalto (EC 141/2026); Movimento Econômico; Agência Senado",
+      "confianca": "alta"
+    },
+    "2026-gov-6": {
+      "status": "efetivado",
+      "resumo": "O pagamento de outubro com piso de R$ 691 (reajuste de 15,04%, Decreto 13.120/2026) começou em 19/10/2026, pelo calendário do NIS até 30/10.",
+      "quando": "2026-10",
+      "fonte": "https://www.opovo.com.br/trends/bolsa-familia-comeca-calendario-de-outubro-no-dia-19-valor-varia-conforme-composicao-e-adicionais-da-familia/",
+      "fonte_nome": "O Povo; NSC Total; Gazeta SP; O Liberal (out/2026)",
+      "confianca": "alta"
+    },
+    "2026-gov-7": {
+      "status": "efetivado",
+      "resumo": "LC 238, de 21/10/2026 (DOU extra): perdoa débitos de MEIs com a União até 13/10/2026 (efeito em jan/2027, exige 6 meses em dia), teto de R$ 110 mil em 2027 e R$ 140 mil em 2028 e até 2 empregados.",
+      "quando": "2026-10",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp238.htm",
+      "fonte_nome": "Planalto (LC 238/2026); Diário de Pernambuco; Fenacon",
+      "confianca": "alta"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+ "ipca": {
+  "sgs": 433,
+  "descricao": "IPCA, variação acumulada no ano (%)"
+ },
+ "selic": {
+  "sgs": 432,
+  "descricao": "Meta da Selic no fim do ano (% a.a.)"
+ },
+ "cambio": {
+  "sgs": 3698,
+  "descricao": "Dólar PTAX venda, média do ano (R$)"
+ },
+ "pib_real": {
+  "sgs": 7326,
+  "descricao": "PIB, variação real anual (%)"
+ },
+ "divida_bruta": {
+  "sgs": 13762,
+  "descricao": "Dívida bruta do governo geral, dezembro (% do PIB)"
+ },
+ "divida_liquida": {
+  "sgs": 4513,
+  "descricao": "Dívida líquida do setor público, dezembro (% do PIB)"
+ },
+ "salario_minimo": {
+  "sgs": 1619,
+  "descricao": "Salário mínimo em dezembro (R$)"
+ }
+}

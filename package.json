@@ -1,0 +1,11 @@
+{
+  "name": "panorama-brasil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Painel local de indicadores dos estados e regiões do Brasil cruzados com as eleições de 2002 a 2026 (dados oficiais).",
+  "scripts": {
+    "start": "node server.js 8080",
+    "dados": "python scripts/fetch_ibge.py && python scripts/fetch_datasus.py && python scripts/fetch_bcb.py && python scripts/fetch_tse.py && python scripts/build.py",
+    "build": "python scripts/build.py"
+  }
+}

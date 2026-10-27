@@ -1,0 +1,188 @@
+{
+ "pop_estimada": {
+  "tabela": 6579,
+  "variavel": 9324,
+  "classificacao": "",
+  "descricao": "População residente estimada (IBGE, estimativas anuais)"
+ },
+ "pop_censo": {
+  "tabela": 202,
+  "variavel": 93,
+  "classificacao": "2[0]|1[0]",
+  "descricao": "População residente, Censos 2000 e 2010"
+ },
+ "pop_urbana_censo": {
+  "tabela": 202,
+  "variavel": 93,
+  "classificacao": "2[0]|1[1]",
+  "descricao": "População urbana, Censos 2000 e 2010"
+ },
+ "pop_censo2022": {
+  "tabela": 9923,
+  "variavel": 93,
+  "classificacao": "1[6795]",
+  "descricao": "População residente, Censo 2022"
+ },
+ "pop_urbana2022": {
+  "tabela": 9923,
+  "variavel": 93,
+  "classificacao": "1[1]",
+  "descricao": "População urbana, Censo 2022"
+ },
+ "pib": {
+  "tabela": 5938,
+  "variavel": 37,
+  "classificacao": "",
+  "descricao": "PIB a preços correntes (mil R$)"
+ },
+ "vab_total": {
+  "tabela": 5938,
+  "variavel": 498,
+  "classificacao": "",
+  "descricao": "VAB total (mil R$)"
+ },
+ "vab_agro": {
+  "tabela": 5938,
+  "variavel": 513,
+  "classificacao": "",
+  "descricao": "VAB agropecuária (mil R$)"
+ },
+ "vab_industria": {
+  "tabela": 5938,
+  "variavel": 517,
+  "classificacao": "",
+  "descricao": "VAB indústria (mil R$)"
+ },
+ "vab_servicos": {
+  "tabela": 5938,
+  "variavel": 6575,
+  "classificacao": "",
+  "descricao": "VAB serviços exceto adm. pública (mil R$)"
+ },
+ "vab_adm_publica": {
+  "tabela": 5938,
+  "variavel": 525,
+  "classificacao": "",
+  "descricao": "VAB administração pública (mil R$)"
+ },
+ "desocupacao_tri": {
+  "tabela": 4099,
+  "variavel": 4099,
+  "classificacao": "",
+  "descricao": "Taxa de desocupação (%), trimestral"
+ },
+ "subutilizacao_tri": {
+  "tabela": 4099,
+  "variavel": 4118,
+  "classificacao": "",
+  "descricao": "Taxa composta de subutilização (%), trimestral"
+ },
+ "rendimento_tri": {
+  "tabela": 5436,
+  "variavel": 5932,
+  "classificacao": "",
+  "descricao": "Rendimento médio mensal real habitual do trabalho (R$), trimestral"
+ },
+ "informalidade": {
+  "tabela": 4708,
+  "variavel": 12466,
+  "classificacao": "",
+  "descricao": "Taxa de informalidade (%)"
+ },
+ "gini": {
+  "tabela": 7435,
+  "variavel": 10681,
+  "classificacao": "",
+  "descricao": "Índice de Gini do rendimento domiciliar per capita"
+ },
+ "analfabetismo": {
+  "tabela": 7113,
+  "variavel": 10267,
+  "classificacao": "2[6794]|58[2795]",
+  "descricao": "Taxa de analfabetismo 15+ (%)"
+ },
+ "extrema_pobreza": {
+  "tabela": 5817,
+  "variavel": 9617,
+  "classificacao": "",
+  "descricao": "% abaixo da linha de pobreza internacional (ODS 1.1.1)"
+ },
+ "pobreza": {
+  "tabela": 5877,
+  "variavel": 9948,
+  "classificacao": "",
+  "descricao": "% abaixo da linha de pobreza nacional (ODS 1.2.1)"
+ },
+ "pobreza_regional": {
+  "tabela": 10660,
+  "variavel": 14137,
+  "classificacao": "",
+  "descricao": "% abaixo da linha de pobreza regional (ODS P1.1.1)"
+ },
+ "empresas": {
+  "tabela": 1685,
+  "variavel": 367,
+  "classificacao": "",
+  "descricao": "Empresas e outras organizações atuantes"
+ },
+ "pessoal_ocupado": {
+  "tabela": 1685,
+  "variavel": 707,
+  "classificacao": "",
+  "descricao": "Pessoal ocupado total (CEMPRE)"
+ },
+ "salario_medio": {
+  "tabela": 1685,
+  "variavel": 10143,
+  "classificacao": "",
+  "descricao": "Salário médio mensal (R$, CEMPRE)"
+ },
+ "esperanca_vida": {
+  "tabela": 7362,
+  "variavel": 2503,
+  "classificacao": "2[6794]|1933[all]",
+  "descricao": "Esperança de vida ao nascer (anos, projeção)"
+ },
+ "mortalidade_infantil_proj": {
+  "tabela": 7362,
+  "variavel": 1940,
+  "classificacao": "2[6794]|1933[all]",
+  "descricao": "Mortalidade infantil (‰, projeção)"
+ },
+ "fecundidade": {
+  "tabela": 7360,
+  "variavel": 2493,
+  "classificacao": "1933[all]",
+  "descricao": "Taxa de fecundidade total (filhos por mulher, projeção)"
+ },
+ "natalidade_proj": {
+  "tabela": 7360,
+  "variavel": 10606,
+  "classificacao": "1933[all]",
+  "descricao": "Taxa bruta de natalidade (‰, projeção)"
+ },
+ "mortalidade_proj": {
+  "tabela": 7360,
+  "variavel": 10607,
+  "classificacao": "1933[all]",
+  "descricao": "Taxa bruta de mortalidade (‰, projeção)"
+ },
+ "envelhecimento": {
+  "tabela": 7360,
+  "variavel": 10612,
+  "classificacao": "1933[all]",
+  "descricao": "Índice de envelhecimento (projeção)"
+ },
+ "idade_mediana": {
+  "tabela": 7360,
+  "variavel": 10613,
+  "classificacao": "1933[all]",
+  "descricao": "Idade mediana (anos, projeção)"
+ },
+ "dependencia": {
+  "tabela": 7360,
+  "variavel": 10609,
+  "classificacao": "1933[all]",
+  "descricao": "Razão de dependência total (%, projeção)"
+ }
+}
